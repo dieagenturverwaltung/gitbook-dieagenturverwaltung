@@ -1,4 +1,4 @@
 # Ausgangsrechnungen
 
-## Status
+## Status von Ausgangsrechnungen
 

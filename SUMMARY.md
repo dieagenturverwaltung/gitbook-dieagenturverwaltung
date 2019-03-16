@@ -8,7 +8,10 @@
 * [Vom System abmelden](erste-schritte/vom-system-abmelden.md)
 * [Hilfe-Sprechblasen deaktivieren](erste-schritte/hilfe-sprechblasen-deaktivieren.md)
 * [Anfrage an den Kundenservice stellen](erste-schritte/anfrage-an-den-kundenservice-stellen.md)
-* [Erste Grundeinstellungen](erste-schritte/grundeinstellungen.md)
+* [Erste Grundeinstellungen](erste-schritte/grundeinstellungen/README.md)
+  * [Funktionen](erste-schritte/grundeinstellungen/funktionen.md)
+  * [Tätigkeiten](erste-schritte/grundeinstellungen/taetigkeiten.md)
+  * [Feiertage und Betriebsferien](erste-schritte/grundeinstellungen/feiertage-und-betriebsferien.md)
 
 ## Zeiterfassung
 
@@ -31,6 +34,7 @@
 
 ## Projektverwaltung
 
+* [Die Kennzahlen](projektverwaltung/die-kennzahlen.md)
 * [Kunden](projektverwaltung/untitled/README.md)
   * [Neuen Kunden anlegen](projektverwaltung/untitled/neuen-kunden-anlegen.md)
   * [Etats & Projekte](projektverwaltung/untitled/etats-and-projekte.md)
@@ -103,23 +107,53 @@
   * [Ausgangsrechnung versenden](finanzen/ausgangsrechnungen/ausgangsrechnung-versenden.md)
   * [Ausgangsrechnung in ein anderes Dokument kopieren](finanzen/ausgangsrechnungen/ausgangsrechnung-in-ein-anderes-dokument-kopieren.md)
   * [Rechnung stornieren oder gutschreiben](finanzen/ausgangsrechnungen/rechnung-stornieren-oder-gutschreiben.md)
-* [Gutschriften](finanzen/gutschriften.md)
-* [Vorlagen](finanzen/vorlagen.md)
+* [Gutschriften](finanzen/gutschriften/README.md)
+  * [Neue Gutschrift anlegen](finanzen/gutschriften/neue-gutschrift-anlegen.md)
+  * [Tabellarischer Block im Dokumentenkopf](finanzen/gutschriften/tabellarischer-block-im-dokumentenkopf.md)
+  * [Die Positionsliste](finanzen/gutschriften/die-positionsliste.md)
+  * [Druckversionseinstellungen](finanzen/gutschriften/druckversionseinstellungen.md)
+  * [Zahlungseingänge verbuchen](finanzen/gutschriften/zahlungseingaenge-verbuchen.md)
+  * [Wiedervorlagen](finanzen/gutschriften/wiedervorlagen.md)
+  * [Gutschrift in ein anderes Dokument kopieren](finanzen/gutschriften/gutschrift-in-ein-anderes-dokument-kopieren.md)
+  * [Gutschrift stornieren](finanzen/gutschriften/gutschrift-stornieren.md)
+* [Vorlagen](finanzen/vorlagen/README.md)
+  * [Verwendung von Vorlagen](finanzen/vorlagen/verwendung-von-vorlagen.md)
+  * [Neue Vorlage anlegen](finanzen/vorlagen/neue-vorlage-anlegen.md)
+  * [Die Positionsliste](finanzen/vorlagen/die-positionsliste.md)
+  * [Druckversionseinstellungen](finanzen/vorlagen/druckversionseinstellungen.md)
+  * [Vorlagen in andere Dokument umwandeln](finanzen/vorlagen/vorlagen-in-andere-dokument-umwandeln.md)
 * [Offene Posten](finanzen/offene-posten.md)
 * [Export der Finanzbuchhaltungsdaten](finanzen/export-der-finanzbuchhaltungsdaten.md)
 * [Provisionen](finanzen/provisionen.md)
 * [Agenturfixkosten](finanzen/agenturfixkosten.md)
-* [Kostenkategorien auswerten](finanzen/kostenkategorien-auswerten.md)
+* [Kostenkategorien](finanzen/kostenkategorien-auswerten.md)
 
 ## Berichte
+
+* [Status aktiver Projekte](berichte/status-aktiver-projekte.md)
+* [Jahresrückblick](berichte/jahresrueckblick.md)
+* [Kunden-, Etat- und Projektstatistik](berichte/kunden-etat-und-projektstatistik.md)
+* [Vergleichende Kennzahlen](berichte/vergleichende-kennzahlen.md)
+* [Vorschauberichte](berichte/vorschauberichte.md)
+* [Auswertung Honorarverträge](berichte/auswertung-honorarvertraege.md)
+* [Auswertung Kostenkategorien](berichte/auswertung-kostenkategorien.md)
+* [Benutzerstatistik](berichte/benutzerstatistik.md)
+* [Benutzerdefinierte Filter](berichte/benutzerdefinierte-filter.md)
+
+## Adressbuch
+
+* [Organisationen und Personen](adressbuch/organisationen-und-personen.md)
+* [Suche nach Kontakten](adressbuch/suche-nach-kontakten.md)
 
 ## Einstellungen
 
 * [Benutzer](einstellungen/benutzer/README.md)
   * [Neuen Benutzer anlegen](einstellungen/benutzer/neuen-benutzer-anlegen.md)
   * [Benutzer bearbeiten](einstellungen/benutzer/benutzer-bearbeiten.md)
+  * [In die Rolle eines anderen Benutzers wechseln](einstellungen/benutzer/in-die-rolle-eines-anderen-benutzers-wechseln.md)
   * [Benutzer löschen und wiederherstellen](einstellungen/benutzer/benutzer-loeschen-und-wiederherstellen.md)
-  * [Benutzergruppen](einstellungen/benutzer/benutzergruppen.md)
+* [Benutzergruppen](einstellungen/benutzergruppen/README.md)
+  * [Neue Benutzergruppe anlegen](einstellungen/benutzergruppen/neue-benutzergruppe-anlegen.md)
 * [Tags](einstellungen/tags.md)
 * [Briefpapier](einstellungen/briefpapier.md)
 * [Rechnungen für Die Agenturverwaltung](einstellungen/rechnungen-dieses-kontos.md)

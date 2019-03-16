@@ -9,5 +9,5 @@ description: >-
 
 ## Suchfilter in der Eingangsrechnungsliste
 
-## Status
+## Status von Eingangsrechnungen
 
