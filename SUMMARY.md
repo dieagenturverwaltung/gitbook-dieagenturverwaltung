@@ -4,8 +4,7 @@
 
 ## Erste Schritte
 
-* [Am System anmelden](erste-schritte/am-system-anmelden.md)
-* [Vom System abmelden](erste-schritte/vom-system-abmelden.md)
+* [Anmelden und Abmelden](erste-schritte/am-system-anmelden.md)
 * [Hilfe-Sprechblasen deaktivieren](erste-schritte/hilfe-sprechblasen-deaktivieren.md)
 * [Anfrage an den Kundenservice stellen](erste-schritte/anfrage-an-den-kundenservice-stellen.md)
 * [Erste Grundeinstellungen](erste-schritte/grundeinstellungen/README.md)
