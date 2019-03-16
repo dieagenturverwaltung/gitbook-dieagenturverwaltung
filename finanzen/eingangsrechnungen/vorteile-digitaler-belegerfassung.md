@@ -1,0 +1,2 @@
+# Vorteile digitaler Belegerfassung
+
