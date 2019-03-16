@@ -5,7 +5,7 @@ description: >-
   wichtigsten Funktionen.
 ---
 
-# Willkommen
+# Über diese Dokument
 
 ## Inhaltsverzeichnis
 

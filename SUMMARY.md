@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Willkommen](README.md)
+* [Über diese Dokument](README.md)
 
 ## Erste Schritte
 
@@ -8,9 +8,8 @@
 * [Hilfe-Sprechblasen deaktivieren](erste-schritte/hilfe-sprechblasen-deaktivieren.md)
 * [Anfrage an den Kundenservice stellen](erste-schritte/anfrage-an-den-kundenservice-stellen.md)
 * [Erste Grundeinstellungen](erste-schritte/grundeinstellungen/README.md)
-  * [Funktionen](erste-schritte/grundeinstellungen/funktionen.md)
-  * [Tätigkeiten](erste-schritte/grundeinstellungen/taetigkeiten.md)
-  * [Feiertage und Betriebsferien](erste-schritte/grundeinstellungen/feiertage-und-betriebsferien.md)
+  * [Funktionen: Die Standardpreisliste der Agenturleistungen](erste-schritte/grundeinstellungen/funktionen.md)
+  * [Briefpapier anpassen](erste-schritte/grundeinstellungen/briefpapier-anpassen.md)
 
 ## Zeiterfassung
 
@@ -18,6 +17,8 @@
 * [Timer](zeiterfassung/timer.md)
 * [Wochenansicht](zeiterfassung/wochenansicht.md)
 * [Stundenkonto](zeiterfassung/stundenkonto.md)
+* [Tätigkeiten](zeiterfassung/taetigkeiten.md)
+* [Feiertage und Betriebsferien](zeiterfassung/feiertage-und-betriebsferien.md)
 
 ## Wiedervorlagen
 
