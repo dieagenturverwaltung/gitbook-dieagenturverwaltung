@@ -117,7 +117,7 @@
 
 * [Benutzer](einstellungen/benutzer/README.md)
   * [Neuen Benutzer anlegen](einstellungen/benutzer/neuen-benutzer-anlegen.md)
-  * [Benutzer Bearbeiten](einstellungen/benutzer/benutzer-bearbeiten.md)
+  * [Benutzer bearbeiten](einstellungen/benutzer/benutzer-bearbeiten.md)
   * [Benutzer löschen und wiederherstellen](einstellungen/benutzer/benutzer-loeschen-und-wiederherstellen.md)
   * [Benutzergruppen](einstellungen/benutzer/benutzergruppen.md)
 * [Tags](einstellungen/tags.md)

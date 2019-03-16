@@ -1,4 +1,4 @@
-# Benutzer Bearbeiten
+# Benutzer bearbeiten
 
 Benutzer-Login freigeben und sperren
 
