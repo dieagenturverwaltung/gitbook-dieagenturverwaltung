@@ -18,6 +18,7 @@
 * [Wochenansicht](zeiterfassung/wochenansicht.md)
 * [Stundenkonto](zeiterfassung/stundenkonto.md)
 * [Tätigkeiten](zeiterfassung/taetigkeiten.md)
+* [Funktionen](zeiterfassung/funktionen.md)
 * [Feiertage und Betriebsferien](zeiterfassung/feiertage-und-betriebsferien.md)
 
 ## Wiedervorlagen
