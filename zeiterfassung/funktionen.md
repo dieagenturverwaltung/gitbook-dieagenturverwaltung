@@ -1,7 +1,7 @@
 ---
 description: >-
   Funktionen entsprechen den Gewerken - z.B. "Grafik Design", "Senior Beratung",
-  "Programmierung" mit denen die Agentur ihre Leistungen erbringt.
+  "Programmierung" - mit denen die Agentur ihre Leistungen erbringt.
 ---
 
 # Funktionen

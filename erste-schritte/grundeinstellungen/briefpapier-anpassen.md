@@ -2,7 +2,7 @@
 
 ## Logo hochladen
 
-Es muss ein JPG mit ausreichender Auflösung sein. z:b. 800x800 Pixel. Jedoch auch nicht zu gross, damit die erzeugten PDF-Dateien nicht zu gross werden.
+Das Bild muss vom Typ  JPG und mit ausreichender Auflösung sein damit es nicht unscharf beim Drucken wird. z:b. 800x800 Pixel. Sehr große Dateien erzeugen auch große PDF-Rechnungsdokumente. Empfohlen werden Dateien von 30-60KB.
 
 Das Logo sollte keinen Rad haben. Position und Grösse des Logos können über die Felder Höhe, X- und Y-Offset jeweils einzeln für das Hoch- sowie das Querformat \(A4\) eingestellt werden.
 
