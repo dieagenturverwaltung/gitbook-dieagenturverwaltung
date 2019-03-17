@@ -1,8 +1,8 @@
 ---
 description: >-
-  Provisionen sind prozentuale Preisaufschläge auf eine Rechnungsposition. Sie
-  sind im Dialog für Positionen von Kostenvorschlägen, Gutschriften und
-  Ausgangsrechnungen auswählbar.
+  Provisionen sind prozentuale Aufschläge auf eine Position in einem
+  Finanzdokument. Sie können im Dialog für Positionen von Kostenvorschlägen,
+  Gutschriften und Ausgangsrechnungen ausgewählt werden.
 ---
 
 # Provisionen
