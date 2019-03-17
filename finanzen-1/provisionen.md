@@ -22,14 +22,16 @@ Eine Provision kann z.B. ein Versicherungssatz wie _Künstersozialversicherung z
 {% hint style="info" %}
 **Beispiel für eine Provision mit Agenturleistungscharachter**
 
-Wenn wir eine Provision "Bearbeitungspauschale" an einer Fremdleistungsposition \(z.B. Facebook-Anzeigen\) hinterlegen, macht es Sinn dass diese Provisionsart als Agenturleistung angelegt wird.
+Wenn wir eine Provision "Bearbeitungspauschale" an einer Fremdleistungsposition \(z.B. Facebook-Anzeigen\) hinterlegen, macht es Sinn, dass diese Provisionsart als Agenturleistung angelegt wird.
 {% endhint %}
 
 ## Löschen von Provisionen
 
 Wird eine Provision in der Liste der Provisionen gelöscht, hat das keine Auswirkung auf Dokumente in denen diese Provision bereits verwendet wurde. Sie steht dann lediglich für küntige Dokumente nicht mehr zur Verfügung und kann jederzeit wieder neu angelegt werden.
 
+## Verwenden von Provisionen
+
 Wie Provisionen in Finanzdokumenten eingesetzt werden erfährst du hier:
 
-{% page-ref page="allgemeines-zu-finanzdokumenten/verwendung-von-provisionen.md" %}
+{% page-ref page="allgemeines-zu-finanzdokumenten/die-positionsliste-1/verwendung-von-provisionen.md" %}
 

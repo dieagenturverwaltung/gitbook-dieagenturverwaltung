@@ -16,9 +16,9 @@ Um die Änderungen anzuwenden, muss im Dialog unten "Speichern" gedrückt werden
 
 Unten in der Positionliste werden angelegt Provisionen in einer oder mehreren Zeilen ausgegeben. Durch Klick auf eine dieser Zeilen öffnet sich der Provisions-Editor und zeigt eine Kurzfassung unserer Provisionsliste. Hier können dann weitere Provisionen zu Funktionen hinzugefügt werden oder Verknüpfungen zwischen Positionen und Provisionen wieder gelöst werden.
 
-Was sind Provisionen?
+## Was sind Provisionen?
 
 Mehr dazu wie Provisionen angelegt werden erfährst du hier:
 
-{% page-ref page="../provisionen.md" %}
+{% page-ref page="../../provisionen.md" %}
 

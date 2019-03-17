@@ -2,7 +2,7 @@
 
 Wie man Positionen anlegt, bearbeitet, dupliziert, löscht und importiert erfährst du hier:
 
-{% page-ref page="../allgemeines-zu-finanzdokumenten/die-positionsliste-1.md" %}
+{% page-ref page="../allgemeines-zu-finanzdokumenten/die-positionsliste-1/" %}
 
 ## Mehrwertsteuersatz
 
