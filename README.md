@@ -7,7 +7,3 @@ description: >-
 
 # Über diese Dokument
 
-## Inhaltsverzeichnis
-
-
-

@@ -8,5 +8,5 @@ description: >-
 
 Hier wird erklärt was genau dahinter steckt:
 
-{% page-ref page="../erste-schritte/grundeinstellungen/funktionen.md" %}
+{% page-ref page="../erste-schritte-1/grundeinstellungen/funktionen.md" %}
 
