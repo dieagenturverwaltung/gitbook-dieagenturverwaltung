@@ -35,3 +35,9 @@ Wie Provisionen in Finanzdokumenten eingesetzt werden erfährst du hier:
 
 {% page-ref page="allgemeines-zu-finanzdokumenten/die-positionsliste-1/verwendung-von-provisionen.md" %}
 
+## Darstellung von Provisionen in der Druckversion eines Finanzdokuments
+
+Provisionen können in der Druckversion direkt an der Position, gruppiert am Ende einer Positionsgruppe und gruppiert unterhalb der Positionsliste ausgegeben werden.
+
+Die Standardeinstellung sieht vor dass Provisionen direkt an der Position und unterhalb der Positionsliste aufgeführt werden. Wenn an dieser Konfiguration etwas geändert werden soll, sprecht unseren Kundenservice an: [info@dieagenturverwaltung.de](mailto:info@dieagenturverwaltung.de)
+
