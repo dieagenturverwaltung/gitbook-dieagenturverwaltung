@@ -29,15 +29,9 @@ Wenn wir eine Provision "Bearbeitungspauschale" an einer Fremdleistungsposition 
 
 Wird eine Provision in der Liste der Provisionen gelöscht, hat das keine Auswirkung auf Dokumente in denen diese Provision bereits verwendet wurde. Sie steht dann lediglich für küntige Dokumente nicht mehr zur Verfügung und kann jederzeit wieder neu angelegt werden.
 
-## Verwenden von Provisionen
+## Verwenden von Provisionen in Finanzdokumenten
 
-Wie Provisionen in Finanzdokumenten eingesetzt werden erfährst du hier:
+Wie Provisionen in Finanzdokumenten eingesetzt und wie sie in der Druckversion dargestellt werden erfährst du hier:
 
 {% page-ref page="allgemeines-zu-finanzdokumenten/die-positionsliste-1/verwendung-von-provisionen.md" %}
-
-## Darstellung von Provisionen in der Druckversion eines Finanzdokuments
-
-Provisionen können in der Druckversion direkt an der Position, gruppiert am Ende einer Positionsgruppe und gruppiert unterhalb der Positionsliste ausgegeben werden.
-
-Die Standardeinstellung sieht vor dass Provisionen direkt an der Position und unterhalb der Positionsliste aufgeführt werden. Wenn an dieser Konfiguration etwas geändert werden soll, sprecht unseren Kundenservice an: [info@dieagenturverwaltung.de](mailto:info@dieagenturverwaltung.de)
 
