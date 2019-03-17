@@ -61,6 +61,7 @@
 * [Finanzen](finanzen-1/README.md)
   * [Allgemeines zu Finanzdokumenten](finanzen-1/allgemeines-zu-finanzdokumenten/README.md)
     * [Die Positionsliste](finanzen-1/allgemeines-zu-finanzdokumenten/die-positionsliste-1.md)
+    * [Verwendung von Provisionen](finanzen-1/allgemeines-zu-finanzdokumenten/verwendung-von-provisionen.md)
     * [Druckversionseinstellungen](finanzen-1/allgemeines-zu-finanzdokumenten/druckversionseinstellungen.md)
   * [Kostenvoranschläge](finanzen-1/untitled/README.md)
     * [Neuen Kostenvoranschlag erstellen](finanzen-1/untitled/neuen-kostenvoranschlag-erstellen.md)

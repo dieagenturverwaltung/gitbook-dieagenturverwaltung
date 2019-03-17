@@ -29,3 +29,7 @@ Wenn wir eine Provision "Bearbeitungspauschale" an einer Fremdleistungsposition 
 
 Wird eine Provision in der Liste der Provisionen gelöscht, hat das keine Auswirkung auf Dokumente in denen diese Provision bereits verwendet wurde. Sie steht dann lediglich für küntige Dokumente nicht mehr zur Verfügung und kann jederzeit wieder neu angelegt werden.
 
+Wie Provisionen in Finanzdokumenten eingesetzt werden erfährst du hier:
+
+{% page-ref page="allgemeines-zu-finanzdokumenten/verwendung-von-provisionen.md" %}
+
