@@ -143,4 +143,5 @@
   * [Rechnungen für Die Agenturverwaltung](einstellungen-1/rechnungen-dieses-kontos.md)
   * [Weitere Einstellungen](einstellungen-1/weitere-einstellungen.md)
 * [FAQ](https://www.dieagenturverwaltung.de/tag/faq/)
+* [Neue Funktionen](https://www.dieagenturverwaltung.de/blog/was-gibts-neues/)
 

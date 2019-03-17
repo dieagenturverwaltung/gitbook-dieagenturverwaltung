@@ -25,9 +25,16 @@ Rohertrag minus Agenturleistung  = Ergebnis
 
 ### Ergebnis
 
-```text
 
-```
+
+### 
+
+{% hint style="info" %}
+**Tipp: Frühzeitig erkennen ob ein Projekt erfolgreich verlaufen wird**
+
+In diesem Artikel haben wir drei Indikatoren für eine Überlieferung und vier Wege ihr Vorzubeugen aufgezählt:  
+[https://www.dieagenturverwaltung.de/blog/projekt-erfolg-kontrollieren/](https://www.dieagenturverwaltung.de/blog/projekt-erfolg-kontrollieren/)
+{% endhint %}
 
 
 

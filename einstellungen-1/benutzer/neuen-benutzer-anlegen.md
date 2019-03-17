@@ -1,5 +1,15 @@
 # Neuen Benutzer anlegen
 
+## Benutzer mit eingeschränkten Rechten anlegen
+
+{% embed url="https://www.youtube.com/watch?v=vURrg3OWWYE" %}
+
+## Administrator mit Vollzugriff anlegen
+
+{% embed url="https://www.youtube.com/watch?v=mU6ALfA5qx4&t=15s" %}
+
+
+
 ## Stammdaten
 
 ## Berechtigungen
