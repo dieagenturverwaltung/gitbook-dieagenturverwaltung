@@ -142,5 +142,5 @@
   * [Briefpapier](einstellungen-1/briefpapier.md)
   * [Rechnungen für Die Agenturverwaltung](einstellungen-1/rechnungen-dieses-kontos.md)
   * [Weitere Einstellungen](einstellungen-1/weitere-einstellungen.md)
-* [FAQ](faq.md)
+* [FAQ](https://www.dieagenturverwaltung.de/tag/faq/)
 
