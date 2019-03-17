@@ -13,7 +13,7 @@ Du findest zu jedem Menüeintrag in der Agenturverwaltung einen entsprechenden E
 
 ## Suche
 
-Oben rechts findest Du ein Suchfeld mit dem Du nach einem Begriff z.B. "Kostenvoranschlag" suchen kannst.
+Oben rechts findest du ein Suchfeld mit dem du nach einem Begriff z.B. "Kostenvoranschlag" suchen kannst.
 
 ## Neu hier?
 
