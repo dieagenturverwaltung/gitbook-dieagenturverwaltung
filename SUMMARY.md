@@ -97,7 +97,7 @@
     * [Ausgangsrechnung versenden](finanzen-1/ausgangsrechnungen/ausgangsrechnung-versenden.md)
     * [Ausgangsrechnung in ein anderes Dokument kopieren](finanzen-1/ausgangsrechnungen/ausgangsrechnung-in-ein-anderes-dokument-kopieren.md)
     * [Rechnung stornieren oder gutschreiben](finanzen-1/ausgangsrechnungen/rechnung-stornieren-oder-gutschreiben.md)
-    * [Maschinenlesbare Ausgangsrechnungen](finanzen-1/ausgangsrechnungen/maschinenlesbare-ausgangsrechnungen.md)
+    * [Maschinenlesbarkeit](finanzen-1/ausgangsrechnungen/maschinenlesbare-ausgangsrechnungen.md)
   * [Gutschriften](finanzen-1/gutschriften/README.md)
     * [Neue Gutschrift anlegen](finanzen-1/gutschriften/neue-gutschrift-anlegen.md)
     * [Tabellarischer Block im Dokumentenkopf](finanzen-1/gutschriften/tabellarischer-block-im-dokumentenkopf.md)

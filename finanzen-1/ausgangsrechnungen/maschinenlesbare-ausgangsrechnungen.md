@@ -5,9 +5,11 @@ description: >-
   Überweisungsträger auszufüllen.
 ---
 
-# Maschinenlesbare Ausgangsrechnungen
+# Maschinenlesbarkeit
 
 Der QR-Code erscheint nur auf der Druckversion unbezahlter Ausgangsrechnungen wenn Ihr bei der initialen Einrichtung der Agenturverwaltung durch den Kundenservice Eure Bankverbindung hinterlegt habt.
+
+Möchtet Ihr diese Funktion nutzen, so sendet uns eine eine Bankverbindung mit IBAN und BIC an den [Kundenservice](mailto:info@dieagenturverwaltung.de).
 
 
 
