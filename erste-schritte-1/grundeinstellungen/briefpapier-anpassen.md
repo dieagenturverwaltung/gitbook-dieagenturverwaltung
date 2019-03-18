@@ -1,10 +1,22 @@
+---
+description: Die Agenturverwaltung erlaubt das Anlegen mehrerer Briefpapiere.
+---
+
 # Briefpapier anpassen
 
 ## Logo hochladen
 
-Das Bild muss vom Typ  JPG und mit ausreichender Auflösung sein damit es nicht unscharf beim Drucken wird. z:b. 800x800 Pixel. Sehr große Dateien erzeugen auch große PDF-Rechnungsdokumente. Empfohlen werden Dateien von 30-60KB.
+Das Bild muss vom Typ **JPEG** und mit ausreichender Auflösung sein damit es nicht unscharf beim Drucken wird. z:b. 800x800 Pixel. Sehr große Dateien erzeugen auch große PDF-Rechnungsdokumente. Empfohlen werden Dateien von 30-60KB.
 
 Das Logo sollte keinen Rad haben. Position und Grösse des Logos können über die Felder Höhe, X- und Y-Offset jeweils einzeln für das Hoch- sowie das Querformat \(A4\) eingestellt werden.
+
+{% hint style="info" %}
+**Benötigst du Hilfe beim Layout?**  
+  
+Es gibt noch viele weitere Möglichkeiten, z.B. Logos im Brieffuß, Logo nur auf der ersten Seite, mehrere Logos, Spalten im Brieffuß usw. diese Einstellungen sind nicht alle über die Benutzeroberfläche zugänglich.  
+  
+Sprecht dazu den [Kundenservice](mailto:info@dieagenturverwaltung.de) an.
+{% endhint %}
 
 ## Adresse im Brieffuß
 

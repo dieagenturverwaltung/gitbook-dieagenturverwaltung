@@ -16,13 +16,13 @@ Eine Provision besteht aus einer Bezeichnung, einem prozentualen Wert und der Le
 {% hint style="info" %}
 **Beispiel für eine Provision mit Fremdleistungscharakter**
 
-Eine Provision kann z.B. ein Versicherungssatz wie _Künstersozialversicherung zu_ 4,2% sein. Die Provision wird als Fremdleistung aufgeschlagen da wir den Betrag als Agentur wieder abführen müssen.
+Eine Provision kann z.B. ein Versicherungssatz wie _Künstersozialversicherung 4,2%_ sein. Die Provision wird als Fremdleistung aufgeschlagen, da wir den Betrag als Agentur wieder abführen müssen.
 {% endhint %}
 
 {% hint style="info" %}
 **Beispiel für eine Provision mit Agenturleistungscharachter**
 
-Wenn wir eine Provision "Bearbeitungspauschale" an einer Fremdleistungsposition \(z.B. Facebook-Anzeigen\) hinterlegen, macht es Sinn, dass diese Provisionsart als Agenturleistung angelegt wird.
+Wenn wir eine Provision _Bearbeitungspauschale_ an einer Fremdleistungsposition \(z.B. Facebook-Anzeigen\) hinterlegen, entfällt der Provisionsanteil ja auf Agenturleistungen. Also macht es Sinn, diese Provisionsart als Agenturleistung anzulegen.
 {% endhint %}
 
 ## Löschen von Provisionen

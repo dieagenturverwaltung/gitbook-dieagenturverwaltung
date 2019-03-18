@@ -1,14 +1,20 @@
+---
+description: >-
+  In diesem Kapitel erfahren wir wie wir uns an- und abmelden und unser Passwort
+  ändern oder neu setzen.
+---
+
 # Anmelden und Abmelden
 
 ## Anmeldung mit E-Mail-Adresse und Passwort
 
 ## Abmeldung \(Logout\)
 
-## Passwort vergessen
-
-#### Eigenes Passwort neu setzen
+## Passwort setzen
 
 #### Passwort-vergessen Funktion nutzen
+
+#### Eigenes Passwort neu setzen
 
 #### Passwort-Reset-E-Mail an andere Benutzer senden
 
