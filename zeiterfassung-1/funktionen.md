@@ -18,7 +18,7 @@ Bei der Zeiterfassung spielen Funktionen eine wichtige Rolle, da in jedem Zeiter
 
 Die Auswahl der korrekten Funktion ist wichtig, da Funktionen die Basis für das Controlling der Agenturleistungen darstellen. So werden im Projekt-Controlling bspw. im KVA kalkulierte Aufwände je Funktion den durch Projektmitarbeitern erfassten Aufwänden gegenüber gestellt.
 
-## @fabian: hier bitte einen chart "Agenturleistung nach Funktionen"
+![Projekt-Controlling: Gegen&#xFC;berstellung kalkulierter und angefallener Agenturleistungen im Projekt-Reporting](../.gitbook/assets/screen-kalk-angefallene-stunden-je-funktion.png)
 
 In einigen Fällen stehen einem Mitarbeiter zwei oder mehr Funktionen zur Auswahl, sodass bspw. ein Creative Director je nach Art der Aufgabe zwischen unterschiedlich bepreisten Funktionen wie z.B. "Art Direktion", "Grafikdesign" auswählen kann. 
 
