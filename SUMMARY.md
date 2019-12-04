@@ -2,6 +2,7 @@
 
 * [Über diese Dokument](README.md)
 * [Erste Schritte](erste-schritte-1/README.md)
+  * [Einstieg für Projektmitarbeiter](erste-schritte-1/einstieg-fuer-projektmitarbeiter.md)
   * [Anmelden und Abmelden](erste-schritte-1/am-system-anmelden.md)
   * [Hilfe-Sprechblasen deaktivieren](erste-schritte-1/hilfe-sprechblasen-deaktivieren.md)
   * [Erste Grundeinstellungen](erste-schritte-1/grundeinstellungen/README.md)
@@ -87,6 +88,7 @@
     * [Eingangsrechnung direkt an einen Kunden weiterberechnen](finanzen-1/eingangsrechnungen/eingangsrechnung-direkt-an-einen-kunden-weiterberechnen.md)
     * [Nutzungsrechte](finanzen-1/eingangsrechnungen/nutzungsrechte.md)
   * [Ausgangsrechnungen](finanzen-1/ausgangsrechnungen/README.md)
+    * [Erstellung einer Ausgangsrechnung nach Aufwand aus dem Projektreport](finanzen-1/ausgangsrechnungen/erstellung-einer-ausgangsrechnung-nach-aufwand-aus-dem-projektreport.md)
     * [Tabellarischer Block im Dokumentenkopf](finanzen-1/ausgangsrechnungen/tabellarischer-block-im-dokumentenkopf.md)
     * [Die Positionsliste](finanzen-1/ausgangsrechnungen/die-positionsliste.md)
     * [Druckversionseinstellungen](finanzen-1/ausgangsrechnungen/druckversionseinstellungen.md)
