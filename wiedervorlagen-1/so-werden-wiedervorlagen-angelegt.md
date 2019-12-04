@@ -6,9 +6,11 @@ Aus diesen Grund ist das Anlegen von Wiedervorlagen in folgenden Modulen möglic
 
 * Kostenvoranschlag
 * Ausgangsrechnung
-* Eingangsrechnung
+* Gutschriften
 * Kontakt
 * Projekt
 * Etat
 * Kunde
+
+Beim Erfassen von Eingangsrechnungen werden ebenfalls Wiedervorlagen genutzt indem der Nutzer der die Eingangsrechnung erfasst anschliessend einen Projektleiter benachrichtigt, damit dieser die Eingangsrechnung seinem Projekt zuordnen kann.
 
