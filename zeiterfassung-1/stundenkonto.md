@@ -8,10 +8,14 @@ description: >-
 
 Das Stundenkonto ist euer Mini-Dashboard mit den wichtigsten Informationen rund um die Zeiterfassung. Auf einen Blick könnt ihr erkennen, ob euer Arbeitszeitkonto ausgeglichen ist oder es an Anpassungsbedarf gibt.
 
-Zum Stundenkonto gelangt ihr über Zeiterfassung &gt; Meine Stundenkonto. __![](../.gitbook/assets/bildschirmfoto-2019-11-18-um-11.45.06.png)
+Zum Stundenkonto gelangt ihr über Zeiterfassung &gt; Meine Stundenkonto. __
+
+![](../.gitbook/assets/bildschirmfoto-2019-11-18-um-11.45.06.png)
 
 Anschließend wählt ihr die Registerkarte "Mein Stundenkonto" aus.  
-__![](../.gitbook/assets/bildschirmfoto-2019-11-25-um-09.29.46.png) __
+ __
+
+![](../.gitbook/assets/bildschirmfoto-2019-11-25-um-09.29.46.png)
 
 Im Stundenkonto werden euch nun folgende Daten angezeigt:   
 

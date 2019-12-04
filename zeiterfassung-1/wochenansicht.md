@@ -6,7 +6,9 @@ description: >-
 
 # Wochenansicht
 
-Wir gelangen zur Wochenansicht über den Menüpunkt  Zeiterfassung &gt; Meine Stundenliste und wählen hier die Registerkarte "Wochenansicht" aus. ![](../.gitbook/assets/bildschirmfoto-2019-05-13-um-11.33.16.png) 
+Wir gelangen zur Wochenansicht über den Menüpunkt  Zeiterfassung &gt; Meine Stundenliste und wählen hier die Registerkarte "Wochenansicht" aus.  
+
+![](../.gitbook/assets/bildschirmfoto-2019-05-13-um-11.33.16.png)
 
 Durch die Pfeiltasten rechts und links oben können wir zwischen den Wochen hin und her blättern. 
 
