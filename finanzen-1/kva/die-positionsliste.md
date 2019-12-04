@@ -1,4 +1,4 @@
-# Die Positionsliste
+# Die Positionsliste im KVA
 
 In der Positionsliste eines Finanzdokuments \(bspw. eines Kostenvoranschlags\) werden die Positionen oder Leistungen des Auftrags aufgelistet. 
 

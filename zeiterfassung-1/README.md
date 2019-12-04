@@ -6,7 +6,7 @@ description: >-
 
 # Zeiterfassung
 
-Die Agenturverwaltung folgende drei Arten, die Arbeitszeit zu erfassen: 
+Die Agenturverwaltung unterstützt folgende drei Arten, die Arbeitszeit zu erfassen: 
 
 * **Timer:** Für Mitarbeiter, die viel zwischen Aufgaben hin und her springen und über den Tag verteilt an verschiedenen Projekte arbeiten. 
 * **Wochenansicht** Für Mitarbeiter, die ihre Zeiten lieber am Ende einer Woche oder eines Monats in einem Rutsch erfassen möchten 

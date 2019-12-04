@@ -23,5 +23,27 @@ Funktionen sind auch ist auch im Kontext der Zeiterfassung relevant. Mehr erfahr
 
 
 
+Wie ihr Funktionen zur Erstellung von Kostenvoranschlägen verwendet, erfahrt ihr hier:
+
+{% page-ref page="../../finanzen-1/kva/die-positionsliste.md" %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -12,7 +12,7 @@ Durch die Pfeiltasten rechts und links oben können wir zwischen den Wochen hin 
 
 ![](../.gitbook/assets/bildschirmfoto-2019-05-13-um-11.38.25.png)
 
-Durch einfaches Eintragen von Zeiten in diese Tabelle erzeugen wir neue Zeiterfassungseinträge an den entsprechenden Tagen oder ändern bereits eingetragene Werte.
+Durch einfaches Eintragen von Zeiten in diese Tabelle erzeugen wir neue Zeiterfassungseinträge an den entsprechenden Tagen oder ändern bereits eingetragene Werte. Das jeweilige Projekt und die verwendete Funktion wird in der linken Spalte angezeigt.
 
 ![](../.gitbook/assets/bildschirmfoto-2019-05-13-um-11.33.51.png)
 

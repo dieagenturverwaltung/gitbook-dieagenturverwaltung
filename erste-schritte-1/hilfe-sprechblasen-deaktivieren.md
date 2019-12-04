@@ -1,2 +1,2 @@
-# Hilfe-Sprechblasen deaktivieren
+# Hilfe-Sprechblasen
 
