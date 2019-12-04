@@ -6,10 +6,14 @@ description: >-
 
 # Meine Stundenliste
 
-![](../.gitbook/assets/bildschirmfoto-2019-11-18-um-11.45.06.png) 
+ 
+
+![](../.gitbook/assets/bildschirmfoto-2019-11-18-um-11.45.06.png)
 
 Ihr gelangt sofort zur Übersicht aller  Zeiterfassungseinträge, strukturiert nach Kalendertag und erhaltet Basisinformationen wie Projekt, Tätigkeit und erfasste Dauer zu jedem Eintrag.  
-![](../.gitbook/assets/bildschirmfoto-2019-11-18-um-11.44.03.png) 
+ 
+
+![](../.gitbook/assets/bildschirmfoto-2019-11-18-um-11.44.03.png)
 
 Zur Erstellung eines neuen Eintrags könnt ihr die Schaltfläche "Neuer Eintrag" verwenden oder ein Datum klicken. 
 
