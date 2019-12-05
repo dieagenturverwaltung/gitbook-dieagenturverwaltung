@@ -12,7 +12,7 @@ description: Auf diesen Wegen erreicht dich eine Benachrichtigung zu einer Wiede
 
 War ein Nutzer über längere Zeit nicht am System angemeldet, erhält er eine E-Mail mit  einem Hinweis auf offene Wiedervorlagen.
 
-### Benachrichtigung auf Slack
+### Benachrichtigung in Slack
 
 Nutzer von Agenturen die den Messaging-Dienst "Slack" nutzen erhalten ihre Benachrichtigungen zu Wiedervorlagen dort als Direkt-Nachricht vom Agenturverwaltungs-Slack-Bot.
 
