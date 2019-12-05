@@ -33,13 +33,33 @@ Durch einfaches Eintragen von Zeiten in diese Tabelle erzeugen wir neue Zeiterfa
 2,75  => 2 h 45 min`
 {% endhint %}
 
-Über die Schaltfläche "Neuer Eintrag" kann ich eine neue Zeile in der Wochentabelle erzeugen. 
+### Neue Zeile hinzufügen
 
-![](../.gitbook/assets/bildschirmfoto-2019-05-13-um-11.34.09.png)
+Über die Schaltfläche "Neuer Eintrag" kann ich eine neue Zeile in der Wochentabelle erzeugen. 
 
 Dabei wähle ich wieder Projekt, Funktion und Tätigkeit aus und ergänze ggf. eine Notiz und speichere. Anschliessend kann ich Zeiten in die neu angelegte Zeile eintragen.
 
-## Weitere Tipps:
+{% hint style="info" %}
+**Tipp:** Schau dir die gerade gemachten Einträge aus der Wochenliste einmal in der normalen Stundenliste an. Du siehst, dass für jedes Kästchen in der Wochenliste ein eigener Eintrag in der Stundenliste hinterlegt wurde. Die Einträge hängen miteinander zusammen und können in jeder der beiden Ansichten verändert werden.
+{% endhint %}
 
-In der Wochenansicht können Details von Einträgen weder bearbeitet noch gelöscht werden. Möchte ich einen Eintrag löschen, kann ich das in der Ansicht "Meine Stundenliste" tun.
+### Tagessummen
+
+Festangestellt Mitarbeiter sehen oben am Tagesdatum auch, ob sie die in ihrem Arbeitsvertrag vereinbarte Stundensumme erreichen, oder ob noch Einträge für den jeweiligen Tag fehlen.
+
+![](../.gitbook/assets/bildschirmfoto-2019-12-05-um-11.06.02.png)
+
+### Kürzlich genutzte Einträge wiederverwenden
+
+Unterhalb der Einträge dieser Woche schlägt das System mir auch Einträge vor, die ich kürzlich verwendet habe. Diese Einträge kann ich genau so nutzen wie die Einträge oben, an denen ich bereits arbeite.
+
+![](../.gitbook/assets/zuletz-verwendet.jpg)
+
+### Ändern von Projekt, Funktion oder Details
+
+{% hint style="info" %}
+In der Wochenansicht können Details von Einträgen weder bearbeitet noch gelöscht werden. Möchte ich das tun, kann ich das in der Ansicht "Meine Stundenliste" tun.
+{% endhint %}
+
+
 

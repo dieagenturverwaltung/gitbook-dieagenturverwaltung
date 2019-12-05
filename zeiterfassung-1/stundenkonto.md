@@ -6,9 +6,9 @@ description: >-
 
 # Stundenkonto
 
-Das Stundenkonto ist euer Mini-Dashboard mit den wichtigsten Informationen rund um die Zeiterfassung. Auf einen Blick könnt ihr erkennen, ob euer Arbeitszeitkonto ausgeglichen ist oder es an Anpassungsbedarf gibt.
+Das Stundenkonto ist euer Mini-Dashboard mit den wichtigsten Informationen rund um die Zeiterfassung. Auf einen Blick könnt ihr erkennen, ob euer Arbeitszeitkonto ausgeglichen ist.
 
-Zum Stundenkonto gelangt ihr über Zeiterfassung &gt; Meine Stundenkonto. __
+Zum Stundenkonto gelangt ihr über Zeiterfassung &gt; Meine Stundenliste
 
 ![](../.gitbook/assets/bildschirmfoto-2019-11-18-um-11.45.06.png)
 
@@ -17,10 +17,9 @@ Anschließend wählt ihr die Registerkarte "Mein Stundenkonto" aus.
 
 ![](../.gitbook/assets/bildschirmfoto-2019-11-25-um-09.29.46.png)
 
-Im Stundenkonto werden euch nun folgende Daten angezeigt:   
+Im Stundenkonto werden euch nun folgende Daten angezeigt: 
 
-
-* **Vereinbarte Arbeitszeit:** Diese berechnet sich aus den Sollstunden, die für dein Nutzerkonto durch einen Administrator hinterlegt wurden, abzüglich Feiertage und Betriebsferien. Die Zählung beginnt am Tag deiner ersten Zeitbuchung im System und endet am heutigen Tag.
+* **Vereinbarte Arbeitszeit:** Diese berechnet sich aus der mit deinem Unternehmen vereinbarten Arbeitszeit, die für dein Nutzerkonto durch einen Administrator hinterlegt wurden, abzüglich Feiertage und Betriebsferien. Die Zählung beginnt am Tag deiner ersten Zeitbuchung im System zu deinem aktullen Arbeitsvertrag und endet am heutigen Tag.
 * **Geleistete Arbeitszeit:** Dies ist die Summe der erfassten Zeiterfassungseinträge mit Ausnahme von Einträgen für Urlaub und Krankheit.
 * **Urlaub:** Dies ist die Summe der erfassten Urlaubstage.
 * **Krankenstand:** Dies ist die Summe der erfassten Krankheitstage
