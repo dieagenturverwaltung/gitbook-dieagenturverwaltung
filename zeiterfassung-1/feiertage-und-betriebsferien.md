@@ -8,11 +8,11 @@ description: >-
 
 ## Feiertage und Betriebsferien in der Agenturverwaltung
 
-Feiertage und Betriebsferien sind Tage, an denen die regulär vereinbarte Arbeitszeit eines festangestellten Mitarbeiters auf null \(=0\) gesetzt wird.
+Feiertage und Betriebsferien sind Tage, an denen das Team nicht arbeitet, d.h. die regulär vereinbarte Arbeitszeit eines festangestellten Mitarbeiters an einem Feiertag ist null.
 
-Mit der Konfiguration von Feiertage und Betriebsferien werden daher Abweichungen zur der regulär vereinbarte Arbeitszeit je Wochentag eines Mitarbeiter vorgenommen.
+Mit der Konfiguration von Feiertagem und Betriebsferien werden daher Abweichungen zur der regulär vereinbarten Arbeitszeit je Wochentag eines Mitarbeiter vorgenommen.
 
-Dies gilt nur für festangestellten Mitarbeiter mit einem hinterlegten Stundenkonto. Feiertage und Betriebsferien haben keine Auswirkungen auf freiberufliche Mitarbeiter. 
+Dies gilt nur für festangestellte Mitarbeiter mit einem hinterlegten Stundenkonto. Feiertage und Betriebsferien haben _keine_ Auswirkungen auf die Arbeitszeiten freiberuflicher Mitarbeiter, da für diese keine Soll-Arbeitszeiten konfiguriert werden.
 
 ## Konfiguration von Feiertagen und Betriebsferien
 
@@ -26,7 +26,7 @@ Auf der Konfigurationsseite werden alle konfigurierten Feiertage und Betriebsfer
 
 ![](../.gitbook/assets/bildschirmfoto-2019-11-25-um-10.31.37.png)
 
-Über einen Klick auf den x-Button \( ![](../.gitbook/assets/bildschirmfoto-2019-11-25-um-10.23.24.png) \) können Feiertage und Betriebsferien entfernt werden. 
+Bundesweite Feiertage sind bereits vorkonfiguriert, sie können nun um lokale Feiertage und ggf. Brückentage an denen die Agentur geschlossen ist \(Betriebsferien\) ergänzt werden. Über einen Klick auf den x-Button \( ![](../.gitbook/assets/bildschirmfoto-2019-11-25-um-10.23.24.png) \) können Feiertage und Betriebsferien entfernt werden. 
 
 In der ersten Zeile kann ein neuer Feiertag hinzugefügt werden, indem zuerst eine Bezeichnung vergeben und das entsprechende Datum ausgewählt wird. Mit einem anschließenden Klick auf den Speichern-Button wird der Feiertag hinzugefügt.    
  
