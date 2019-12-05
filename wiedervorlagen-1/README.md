@@ -3,6 +3,6 @@
 Auf den Unterseite erfahrt ihr, 
 
 * was Wiedervorlagen sind,
-* Wie diese angelegt werden,
+* wie diese angelegt werden,
 * wie das Benachrichtigungskonzept funktioniert.
 
