@@ -17,7 +17,7 @@ Lade dein Logo hoch und erstelle deinen Briefkopf mit eurer Anschrift, Bankverbi
 
 Sprich den Kundenservice an 
 
-* Wenn Dein Logo und deine Primary-Brand-Color zu hinterlegen
+* Wenn du euer Unternehmenslogo und eure Primary-Brand-Color hinterlegen möchtest
 * Wenn Du Hilfe bei den Layout-Einstellungen des Briefpapiers brauchst
 * Die Standard-Einstellungen für die Erzeugung von Projektnummern, Kostenvoranschlagsnummern, Rechnungsnummer verändern möchtest
 
