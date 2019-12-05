@@ -18,6 +18,21 @@ Durch einfaches Eintragen von Zeiten in diese Tabelle erzeugen wir neue Zeiterfa
 
 ![](../.gitbook/assets/bildschirmfoto-2019-05-13-um-11.33.51.png)
 
+{% hint style="info" %}
+**Folgende Eingabeformate werden erkannt**  
+`15    => 15 min  
+0.25  => 15 min  
+1,    => 1 h  
+1:00  => 1h  
+100   => 1h  
+1,5   => 1 h 30 min  
+130   => 1 h 30 min  
+1 30  => 1 h 30 min  
+02:45 => 2 h 45 min  
+245   => 2 h 45 min  
+2,75  => 2 h 45 min`
+{% endhint %}
+
 Über die Schaltfläche "Neuer Eintrag" kann ich eine neue Zeile in der Wochentabelle erzeugen. 
 
 ![](../.gitbook/assets/bildschirmfoto-2019-05-13-um-11.34.09.png)
