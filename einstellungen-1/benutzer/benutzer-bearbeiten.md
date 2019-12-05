@@ -1,12 +1,18 @@
 # Benutzer bearbeiten
 
-Benutzer-Login freigeben und sperren
+### Einen Benutzer freigeben und sperren
 
-Hilfe-Sprechblasen
+### Avatarbilder
 
-Funktionen
+### Profileinstellungen: Hilfe & Benachrichtigungen
 
-Tätigkeiten
+### Einstellungen der Zeiterfassung
+
+#### Funktionen
+
+#### Tätigkeiten
+
+### Arbeitszeit und interne Stundensatz
 
 
 

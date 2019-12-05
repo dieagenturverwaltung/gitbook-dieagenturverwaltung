@@ -18,7 +18,7 @@
 
 ## Berechtigungen des Nutzers überprüfen
 
-## Benutzer einladen sein Passwort zu setzen
+## Benutzer einladen, sein Passwort zu setzen
 
 Wird der Nutzer eingeladen erhält er per Email einen transaktionalen Link zu einer Seite auf der er sein Passwort setzen kann. 
 

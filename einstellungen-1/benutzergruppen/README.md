@@ -6,9 +6,29 @@ Mit Benutzergruppen werden Berechtigungen definiert: Wer darf Projekte bearbeite
 
 Ein Nutzer kann mehreren Benutzergruppen angehören.
 
+## Mögliche Anwendungsszenarien 
+
+#### Nutzergruppe "Zeiterfassung"
+
+...
+
+#### Nutzergruppe "Buchhaltung"
+
+#### ...
+
+#### Nutzergruppe "Projektleitung"
+
+...
+
+#### Benutzergruppe "Vorgänge und Adressbuch"
+
+...
+
 ## Administratoren
 
-Ein Nutzer kann der Gruppe "Administrator" angehören und hat damit Vollzugriff auf alle Funktionen des Systems.
+Gehört ein Nutzer Gruppe "Administrator" an, hat er damit Vollzugriff auf alle Funktionen und Daten des Systems.
+
+Administratoren können auch anderen Nutzern Administratorenrechte einräumen.
 
 Administratoren können sich auch in der Rolle eines anderen Benutzers am System anmelden. Das geht über "Einstellungen &gt; Benutzer", dann den entsprechenden Benutzer aufrufen und dort auf "Mit diesem Benutzer am System anmelden" drücken.
 
@@ -16,15 +36,7 @@ Administratoren können sich auch in der Rolle eines anderen Benutzers am System
 **Tipp**: Diese Funktion kann hilfreich sein wenn man neue Benutzergruppen einrichtet und testen möchte worauf ein Nutzer dieser Gruppe dann Zugriff hat
 {% endhint %}
 
-## Anwendungsszenarien für Benutzergruppen
-
-#### Benutzergruppe für Zeiterfassung
-
-#### Benutzergruppe für Projektleitung
-
-#### Benutzergruppe Belegerfassung
-
-#### Benutzergruppe Vorgänge und Adressbuch
+#### 
 
 
 
