@@ -6,11 +6,13 @@ description: Die Agenturverwaltung erlaubt das Anlegen mehrerer Briefpapiere.
 
 ## Logo hochladen
 
-Das Bild muss mit ausreichender Auflösung zur Verfügung stehen damit es nicht unscharf beim Drucken wird. z:b. 800x800 Pixel. Sehr große Dateien erzeugen auch große PDF-Rechnungsdokumente. Empfohlen werden PNG- oder JPEG-Dateien mit einer Grösse von 30-60KB.
+Das Bild muss mit ausreichender Auflösung zur Verfügung stehen damit es nicht unscharf beim Drucken wird. z:b. 800x800 Pixel. Sehr große Dateien erzeugen auch große PDF-Rechnungsdokumente da die Grafik Teil jedes Dokuments ist das aus der Agenturverwaltung erstellt wird. D.h. Dokumente werden auch beim E-Mail-Versand entsprechend grösser. Empfohlen werden PNG- oder JPEG-Dateien mit einer Grösse von 30-60KB.
 
 Das Logo sollte keinen Rand haben. Position und Grösse des Logos können über die Felder Höhe \(in Milimetern\) sowie den X- und Y-Offset \(der Nullpunkt des Koordinatensystems ist dabei links oben auf der DIN A4 Seite\) jeweils einzeln für das Hoch- sowie das Querformat \(A4\) eingestellt werden.
 
-![Alle Abmessungen im Briefpapier werden in Milimeter gemessen. Hat die Logo-Grafik einen Rand, muss dieser bei der Positionierung ggf. ber&#xFC;cksichtigt werden.](../../.gitbook/assets/koordinatensystem.png)
+Alle Abmessungen im Briefpapier werden in Milimeter angegeben. Hat die Logo-Grafik einen Rand, muss dieser bei der Positionierung ggf. berücksichtigt werden.
+
+![](../../.gitbook/assets/koordinatensystem.png)
 
 Analog dazu können die Positionen des Brieffußes und der Seitenzahlen angepasst werden.
 
