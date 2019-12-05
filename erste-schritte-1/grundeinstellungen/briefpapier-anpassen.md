@@ -10,12 +10,20 @@ Das Bild muss mit ausreichender Auflösung zur Verfügung stehen damit es nicht 
 
 Das Logo sollte keinen Rand haben. Position und Grösse des Logos können über die Felder Höhe \(in Milimetern\) sowie den X- und Y-Offset \(der Nullpunkt des Koordinatensystems ist dabei links oben auf der DIN A4 Seite\) jeweils einzeln für das Hoch- sowie das Querformat \(A4\) eingestellt werden.
 
+![Alle Abmessungen im Briefpapier werden in Milimeter gemessen. Hat die Logo-Grafik einen Rand, muss dieser bei der Positionierung ggf. ber&#xFC;cksichtigt werden.](../../.gitbook/assets/koordinatensystem.png)
+
+Analog dazu können die Positionen des Brieffußes und der Seitenzahlen angepasst werden.
+
+Das Seitenformat für Briefpapier ist DIN A4 - daraus ergibt sich eine Breite von 210mm und eine Höhe von 297mm.
+
+> **Hinweis**: Damit Dokumente auch von einfacheren Druckern \(z.B. bei euren Kunden\) ausgedruckt werden können sollten sie einen Seitenrand von 15 - 20mm vorsehen. Elemente die ausserhalb dieser Zone liegen sind zwar im PDF sichtbar, werdem beim Ausdruck aber ggf. angeschnitten.
+
 {% hint style="info" %}
 **Benötigst du Hilfe beim Layout?**  
   
-Es gibt noch viele weitere Möglichkeiten, z.B. Logos im Brieffuß, Logo nur auf der ersten Seite, mehrere Logos, randlose Vollflächige Hintergrundgrafiken, Spalten im Brieffuß usw. diese Einstellungen sind nicht alle über die Benutzeroberfläche zugänglich.  
+Es gibt noch viele weitere Möglichkeiten, z.B. Logos im Brieffuß, Logo nur auf der ersten Seite, mehrere Logos, randlose Vollflächige Hintergrundgrafiken, Spalten oder bündige Textausrichtung im Brieffuß usw. diese Einstellungen sind nicht alle über die Benutzeroberfläche zugänglich.  
   
-Sprecht dazu den [Kundenservice](mailto:info@dieagenturverwaltung.de) an.
+Sprecht dazu gerne unseren [Kundenservice](mailto:info@dieagenturverwaltung.de) an.
 {% endhint %}
 
 ## Wichtige Informationen im Brieffuß
@@ -26,7 +34,9 @@ Dort ist u.a. vermerkt, dass deutlich erkennbar sein sollte, wer wem eine Rechnu
 
 Im Briefpapier hinterlegen müsst ihr allerdings die vollständige Adresse des Leistungserbringers, also eurer Agentur. Auch eure Bankverbindung sollte sich im Brieffuß befinden, sodass eure Kunden die Rechnungen auch begleichen können.
 
-**Auf einen Blick: Diese Informationen gehören in den Brieffuß**
+## **Diese Informationen gehören in den Brieffuß**
+
+#### **Auf einen Blick**
 
 * Name und Rechtsform eurer Agentur
 * die vollständige Postanschrift
@@ -44,12 +54,13 @@ Bei der Rechtsform GmbH oder GmbH & Co KG ist dies beispielsweise:
 Wenn ihr unsicher seid: Euer Steuerberater kann hier auch weiterhelfen.
 
 {% hint style="info" %}
-**Beispiel:**  
+**Beispiel für einen vollständigen Brieffuß:**  
 Muster Werbeagentur GmbH Wiesendamm 3 20000 Hamburg   
-Tel.: 040 - 41 1111-0 info@wagner-werbeagentur.de www.muster-werbeagentur.de  
-Geschäftsführer: Max Muster Registergericht Hamburg, HRB 1234   
-USt-Id Nr.: DE1234123412 \| FA Hamburg \| HRB: HH 123412  
-IBAN DE20 1234 1234 1234 1234 12 BIC ABCDEFGXXX
+Tel.: 040 - 41 1111-0 Fax.: 040 - 41 1111-99  
+info@wagner-werbeagentur.de www.muster-werbeagentur.de  
+Geschäftsführer: Max Muster Registergericht Hamburg, HRB: HH 123412  
+USt-Id Nr.: DE1234123412 Finanzamt Hamburg  
+IBAN DE20 1234 1234 1234 1234 12 BIC ABCDEFGXXX Mustersparkasse 
 {% endhint %}
 
 
