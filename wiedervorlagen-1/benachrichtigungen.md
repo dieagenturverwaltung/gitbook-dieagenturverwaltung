@@ -1,10 +1,24 @@
+---
+description: Auf diesen Wegen erreicht dich eine Benachrichtigung zu einer Wiedervorlage
+---
+
 # Benachrichtigungen
 
-Pebblebox in der Navigation
+### Anzeige von fälligen Wiedervorlagen in der Navigation
 
-Benachrichtigung per E-Mail wenn der Benutzer länger nicht am System angemeldet war
+![Das auff&#xE4;llige, rote Label zeigt die Anzahl deiner f&#xE4;lligen Wiedervorlagen.](../.gitbook/assets/bildschirmfoto-2019-12-05-um-12.07.55.png)
 
-Benachrichtigung per Slack-Bot
+### Benachrichtigung per E-Mail
 
-Benachrichtigungseinstellungen ändern
+War ein Nutzer über längere Zeit nicht am System angemeldet, erhält er eine E-Mail mit  einem Hinweis auf offene Wiedervorlagen.
+
+### Benachrichtigung auf Slack
+
+Nutzer von Agenturen die den Messaging-Dienst "Slack" nutzen erhalten ihre Benachrichtigungen zu Wiedervorlagen dort als Direkt-Nachricht vom Agenturverwaltungs-Slack-Bot.
+
+### Benachrichtigungseinstellungen ändern
+
+Unter "Einstellungen &gt; Mein Profil" kann jeder Nutzer für sich entscheiden, wie er benachrichtigt werden möchte.
+
+![](../.gitbook/assets/notification-settings.jpg)
 
