@@ -61,5 +61,7 @@ Unterhalb der Einträge dieser Woche schlägt das System mir auch Einträge vor,
 In der Wochenansicht können Details von Einträgen weder bearbeitet noch gelöscht werden. Möchte ich das tun, kann ich das in der Ansicht "Meine Stundenliste" tun.
 {% endhint %}
 
+## Zeiterfassung in der Wochenansicht: Ein Beispiel
 
+![](https://www.dieagenturverwaltung.de/assets/images/gifs/Zeiterfassung-Wochenansicht.gif)
 

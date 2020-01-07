@@ -25,10 +25,6 @@ Vorgänge // Aufgaben und Zusammenarbeit in Projekten
 
 Wiedervorlage // Benachrichtigungen und Erinnerungen für dich und deine Kollegen
 
-## 
-
-## 
-
 ## Registrierung & Anmeldung
 
 ### Registrierung
@@ -76,9 +72,20 @@ Detaillierte Informationen zum Thema Zeiterfassung im Allgemeinen und zur Verwen
 
 ### Vorgängen im Rahmen von Projekten
 
-_Hier findest du bald Informationen zur Verwendung von Vorgängen._
+Vorgänge sind Aufgaben, die mit Deadlines und Kommentaren versehen werden. Sie können sowohl für die **Organisation des eigenen Arbeitstages** als auch in Projekten zur **Organisation eines Teams** verwendet werden. 
+
+Detaillierte Informationen zum Thema Vorgänge findest du hier:
+
+{% page-ref page="../vorgaenge-1/" %}
 
 ### Wiedervorlage // Erinnerungen für dich und deine Kollegen
 
-_Hier findest du bald Informationen zur Verwendung von Wiedervorlagen._
+Wiedervorlagen sind ein wichtiges Werkzeug, um im Agenturalltag den Überblick zu behalten.  
+In der Agenturverwaltung erfüllen Wiedervorlagen den Zweck einer Erinnerungen für einen Benutzer. 
+
+Detaillierte Informationen zum Thema Wiedervorlagen  findest du hier:
+
+{% page-ref page="../wiedervorlagen-1/" %}
+
+s
 

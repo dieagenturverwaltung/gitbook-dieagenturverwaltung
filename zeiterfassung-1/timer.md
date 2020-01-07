@@ -30,6 +30,10 @@ Wir können den Timer auch direkt aus der Zeiterfassungsliste starten um eine Ak
 
 ![](../.gitbook/assets/zeit5.png)
 
+## Zeiterfassung mit dem Timer: ein Beispiel
+
+![](https://www.dieagenturverwaltung.de/assets/images/gifs/Zeiterfassung-Timer.gif)
+
 ## Weitere Tipps:
 
 * Läuft kein Timer, können wir auch einen Eintrag in der Liste öffnen, Ergänzungen vornehmen und den Timer für diesen Eintrag dann aus dem Dialog erneut starten.
