@@ -20,3 +20,5 @@ Geplante Budgets
 
 Import von Kontakten
 
+Fixkosten
+
