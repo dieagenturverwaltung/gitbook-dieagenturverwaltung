@@ -1,7 +1,7 @@
 ---
 description: >-
-  In diesem Kapitel erfahren wir wie wir uns an- und abmelden und unser Passwort
-  ändern oder neu setzen.
+  In diesem Kapitel erfahren wir, wie wir uns an- und abmelden und unser
+  Passwort ändern oder neu setzen.
 ---
 
 # Anmelden und Abmelden
@@ -9,6 +9,18 @@ description: >-
 ## Anmeldung mit E-Mail-Adresse und Passwort
 
 ## Abmeldung \(Logout\)
+
+Im Einstellungsmenü rechts oben auf der Seite  \(es klappt auf klick auf\) befindet sich ein Button "Maria Muster abmelden". Dieser Button zeigt einerseits an, wer gerade angemeldet ist \(indem dein Name dort steht\), andererseits führt ein Klick darauf dazu dass dieser Browser abgemeldet wird.
+
+### Abmeldung von entfernten Geräten
+
+Wenn Du dich beispielsweise gestern in einem Internetcafé auf einem öffentlichen Browser angemeldet  und vergessen hast, dich wieder abzumelden, kannst Du das in deinem Profil tun.
+
+Dazu klickst du wieder auf das Einstellungsmenü \(oben rechts\) und dann auf "Einstellungen". Im nächsten Schritt klickst Du auf die Kachel "Mein Profil". Dort öffnest du den Reiter "Angemeldete Geräte". Hier kannst Du dich mit einem Klick von dem \(entfernten\) Gerät abmelden, in diesem Beispiel vom entfernten Rechner eines Internetcafés in Berlin.
+
+![](../.gitbook/assets/gera-t-abmelden.png)
+
+
 
 ## Passwort setzen
 
@@ -18,7 +30,7 @@ description: >-
 
 #### Passwort-Reset-E-Mail an andere Benutzer senden
 
-#### Neuen Benutzer einladen sein Passwort zu setzen
+#### Neuen Benutzer einladen sein Passwort selbst zu erstellen
 
 ## Wissenswertes zu Passwörtern
 
