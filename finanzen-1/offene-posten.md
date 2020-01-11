@@ -34,6 +34,8 @@ Diese nach Umsatz sortierte Kundenliste zeigt zum einen welcher Kunde den meiste
 
 Das hier ermittelte Zahlungsziel je Kunde ist ein Durchschnittswert aus der Differenz zwischen Rechnungsdatum und Zahlungseingang.
 
+Sind 0 Tage angegeben liegen für diesen Kunden noch keine Daten vor.
+
 ## Kreditoren
 
 In dieser Liste finden sich alle an unser Unternehmen adressierten Lieferantenrechnungen, die im System bereits erfasst, jedoch noch nicht bezahlt wurden.
