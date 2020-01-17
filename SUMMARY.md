@@ -119,6 +119,7 @@
     * [Druckversionseinstellungen](finanzen-1/vorlagen/druckversionseinstellungen.md)
     * [Vorlagen in andere Dokument umwandeln](finanzen-1/vorlagen/vorlagen-in-andere-dokument-umwandeln.md)
   * [Offene Posten](finanzen-1/offene-posten.md)
+  * [Kassenbuch für Bargeldverkehr](finanzen-1/kassenbuch-fuer-bargeldverkehr.md)
   * [Export der Finanzbuchhaltungsdaten](finanzen-1/export-der-finanzbuchhaltungsdaten.md)
   * [Provisionen](finanzen-1/provisionen.md)
   * [Agenturfixkosten](finanzen-1/agenturfixkosten.md)
