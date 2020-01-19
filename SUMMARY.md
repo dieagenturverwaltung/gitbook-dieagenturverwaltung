@@ -17,6 +17,7 @@
   * [Stundenkonto](zeiterfassung-1/stundenkonto.md)
   * [Tätigkeiten](zeiterfassung-1/taetigkeiten.md)
   * [Funktionen](zeiterfassung-1/funktionen.md)
+  * [Abwesenheiten](zeiterfassung-1/abwesenheiten.md)
   * [Feiertage und Betriebsferien](zeiterfassung-1/feiertage-und-betriebsferien.md)
 * [Was sind Wiedervorlagen?](wiedervorlagen-1/README.md)
   * [So werden Wiedervorlagen angelegt](wiedervorlagen-1/so-werden-wiedervorlagen-angelegt.md)
