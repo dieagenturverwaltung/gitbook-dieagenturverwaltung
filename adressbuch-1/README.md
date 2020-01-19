@@ -12,7 +12,7 @@ In der Agenturverwaltung gibt es **zwei logisch voneinander getrennte Verzeichni
 Organisationen und Personen können miteinander verknüpft werden, indem eine Person als Ansprechpartner einer Organisation mit einer optionalen Position innerhalb der Organisation zu dieser hinzugefügt wird.
 
 {% hint style="info" %}
-Beispiel  
+**Beispiel**  
 Max Muster ist Director Marketing bei der Organisation FastCargo GmbH. Gleichzeitig ist er der Präsident der Organisation Logistikverband Niedersachsen e.V.   
 D.h. ein und diesselbe Person gehört als Ansprechpartner zu mehreren Organisationen. Die persönlich E-Mail-Adresse und Mobiltelefonnummer von Max Muster wird an der Person gespeichert und ist somit auch über die beiden Organisationen in denen Max Muster Ansprechpartner ist auffindbar.
 {% endhint %}
@@ -81,7 +81,7 @@ Mehr dazu kann hier nachgelesen werden:
 
 Wiedervorlagen an Organisationen oder Personen sind sehr hilfreich wenn es z.B. um die Neugeschäftsentwicklung geht. Sie können ein Teammitglied z.B. an ein bestimmtes Ereignis im Zusammenhang mit der letzten Kontaktaufnahme erinnern \("Können Sie mich dazu Mitte Februar noch einmal anrufen, dann weiss ich ob wir das Budget dafür freigeben können"\).
 
-Wiedervorlagen an Adressbuchkontakten funktionieren darüberhinaus genau wie bei Projekten:
+Wiedervorlagen an Adressbuchkontakten funktionieren darüberhinaus genau wie bei Projekten oder Finanzdokumenten:
 
 {% page-ref page="../wiedervorlagen-1/" %}
 

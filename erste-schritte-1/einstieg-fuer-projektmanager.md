@@ -73,7 +73,13 @@ todo
 
 ### Operative Arbeit organisieren // Die Projektverwaltung
 
-todo
+Die Projektverwaltung ist die operative Schaltzentrale der Agenturverwaltung. In der Projektverwaltung findet sowohl die Planung, als auch die Erfassung von Agentur- und Fremdleistungen sowie die Abrechnung statt.
+
+Eine Einführung in die Projektverwaltung findest du auf der Seite Projektverwaltung und auf den Unterseiten des Bereichs.
+
+{% page-ref page="../projektverwaltung-1/" %}
+
+Eine Übersicht über beispielhafte Projektabläufe und deren Abbildung in der Agenturverwaltung findest du bald hier.
 
 ### Zeiterfassung // 3 Wege, um die eigene Arbeitszeit zu erfassen
 
