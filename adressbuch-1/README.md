@@ -85,8 +85,6 @@ Wiedervorlagen an Adressbuchkontakten funktionieren darüberhinaus genau wie bei
 
 {% page-ref page="../wiedervorlagen-1/was-sind-wiedervorlagen.md" %}
 
-
-
 ## Verwendung von Organisationen und Personen in der Projektverwaltung und Finanzdokumenten
 
 {% page-ref page="kontakte-verwenden.md" %}
