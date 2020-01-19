@@ -37,6 +37,6 @@ Wir gelangen zur Projekt-Detailseite und sehen hier, dass das Projekt im Etat �
 Nun können wir in diesem Projekt beispielsweise erste Vorgänge anlegen oder einen Kostenvorschlag erstellen.
 
 {% hint style="info" %}
-**Übrigens**: Es macht unter Umständen Sinn nicht für jeden Neugeschäftskostenvoranschlag ein Projekt anzulegen. Stellt eure Agentur sehr vielen Neukunden im Monat Angebote zu, ohne zu Wissen, ob sich daraus tatsächlich ein Auftrag ergibt, ist es einfacher, das Projekt erst nach Freigabe eines Kostenvoranschlags zu erstellen und den freigegebenen Kostenvoranschlag erst dann dem neuen Projekt zuzuordnen. Auf diese Weise wird vermieden, dass wir die Übersicht aufgrund sehr vieler nicht realisierte Projekte verlieren.
+**Übrigens**: Es macht unter Umständen Sinn nicht für jeden Neugeschäftskostenvoranschlag ein Projekt anzulegen. Stellt eure Agentur sehr vielen Neukunden im Monat Angebote zu, ohne zu Wissen ob sich daraus tatsächlich ein Auftrag ergibt, ist es  einfacher, das Projekt erst nach Freigabe eines Kostenvoranschlags zu erstellen und den freigegebenen Kostenvoranschlag erst dann dem neuen Projekt zuzuordnen. Auf diese Weise vermeiden wir ein System voller nicht realisierter Projekte zu führen.
 {% endhint %}
 

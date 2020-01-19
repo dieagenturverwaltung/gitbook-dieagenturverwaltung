@@ -83,7 +83,7 @@ Wiedervorlagen an Organisationen oder Personen sind sehr hilfreich wenn es z.B. 
 
 Wiedervorlagen an Adressbuchkontakten funktionieren darüberhinaus genau wie bei Projekten:
 
-{% page-ref page="../wiedervorlagen-1/was-sind-wiedervorlagen.md" %}
+{% page-ref page="../wiedervorlagen-1/" %}
 
 ## Verwendung von Organisationen und Personen in der Projektverwaltung und Finanzdokumenten
 

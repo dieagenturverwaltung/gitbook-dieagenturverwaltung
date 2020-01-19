@@ -46,11 +46,13 @@ Auf der Anmelde-Seite kannst du dich dann mit deiner E-Mail-Adresse und deinem P
 Deine Startseite ist üblicherweise das Dashboard, in welchem dir für dich relevante Informationen dargestellt werden.  
  ![](../.gitbook/assets/bildschirmfoto-2019-12-02-um-13.32.46.png) 
 
-Als Projektmitarbeiter sind für dich wahrscheinlich vor allem die Box zur Zeiterfassung und die Box mit den fälligen, dir zugewiesenen Vorgängen nützlich. Mit einem Klick auf den Button oben rechts "Alle anzeigen" kannst du zu einer Detailseite navigieren. 
+Als Projektmitarbeiter sind für dich wahrscheinlich vor allem die Box zur Zeiterfassung und die Box mit den fälligen, dir zugewiesenen Vorgängen nützlich. Mit einem Klick auf den Button oben rechts "Alle anzeigen" kannst du zu einer Detailseite navigieren.   
+  
 
 ![](../.gitbook/assets/vorga-nge.png)
 
-Ansonsten erfolgt die Navigation innerhalb der Agenturverwaltung über das Menu unterhalb eures Logos. 
+Ansonsten erfolgt die Navigation innerhalb der Agenturverwaltung über das Menu unterhalb eures Logos.   
+  
 
 ![](../.gitbook/assets/bildschirmfoto-2019-12-02-um-13.37.56.png)
 
@@ -84,4 +86,6 @@ In der Agenturverwaltung erfüllen Wiedervorlagen den Zweck einer Erinnerungen f
 Detaillierte Informationen zum Thema Wiedervorlagen  findest du hier:
 
 {% page-ref page="../wiedervorlagen-1/" %}
+
+s
 

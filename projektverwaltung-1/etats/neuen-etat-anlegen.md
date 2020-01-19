@@ -8,7 +8,7 @@ Spätestens bei Erstellung eines Projekts für einen neuen Kunden erstellen wir 
 
 ### Was gehört zu einem Etat?
 
-Ein Etat benötigt bei der Erstellung zunächst nur einen Namen. Die Stundensätze des neuen Etats ergeben sich - sofern nichts anderes eingestellt wird - aus der Agenturpreisliste. Sie können aber für die Projekte diese Etats auch angepasst werden. 
+Ein Etat benötigt bei der Erstellung zunächst nur einen Namen. Die Stundensätze des neuen Etats ergeben sich sofern nichts anderes eingetellt wird aus der Agenturpreisliste. Sie können aber für die Projekte diese Etats auch angepasst werden. 
 
 Hier erfährst du wie man die agenturweite **Standardpreisliste** für Funktionen anpasst:
 
