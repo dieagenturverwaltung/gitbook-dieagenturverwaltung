@@ -24,6 +24,17 @@ Wie lange ein Arbeitstag ist, hängt vom Arbeitsverhältnis des Mitarbeiters ab.
 Würde der Mitarbeiter an einem Freitag Urlaub nehmen, entspräche der Urlaubstag hier nur 4 Stunden.
 {% endhint %}
 
+## Abwesenheiten bearbeiten
+
+Eine Abwesenheit kann durch Klick auf einen der Abwesenheitstag bearbeitet werden. Es öffnet sich dann ein Dialog, in dem der Abwesenheitstyp und Anzahl der Stunden der Abwesenheit für den entsprechenden Tag bearbeitet werden können.
+
+{% hint style="info" %}
+**Halbe Urlaubstage eintragen**  
+Hat ein MItarbeiter an einem Mittwoch Urlaub und er arbeitet mittwochs gewöhnlich 8 Stunden, kann hier im Dialog 4 Stunden eingetragen werden, wenn es sich nur um einen halben Urlaubstag handelt.
+{% endhint %}
+
+Es ist hier auch möglich die Abwesenheit des entsprechenden Tages zu löschen oder auch den gesamten Zeitraum - also z.B. alle Einträge eines Urlaubs - der Abwesenheit zu löschen.
+
 ## Berechtigungen für den Abwesenheitskalender
 
 ![](../.gitbook/assets/absence-auth.png)
