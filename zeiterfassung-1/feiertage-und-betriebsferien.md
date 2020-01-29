@@ -36,3 +36,15 @@ In der ersten Zeile kann ein neuer Feiertag hinzugefügt werden, indem zuerst ei
 
 Halbe Feiertage \(wie in diesem Beispiel "Heiligabend"\) können durch das Häkchen "halbtags" konfiguriert werden. Was das für den einzelnen Mitarbeiter bedeutet, hängt von seinem Arbeitsverhältnis ab. Ein Mitarbeiter der 8 Stunden an diesem Tag arbeitet, muss nur 4 Stunden arbeiten, ein Mitarbeiter der z.B. nur eine halbe Stelle besetzt, entsprechend nur 2 Stunden. Für Mitarbeiter die an diesem Wochentag frei haben, verhält sich dieser Feiertag rechnerisch neutral.
 
+## Brückentage
+
+Manche Agenturen schliessen, z.B. wenn zwischen einem Feiertag und dem Wochenende nur ein Tag liegt das Büro ganz. Dabei gibt es zwei mögliche Vereinbarungen:
+
+#### a\) Arbeitnehmer müssen an diesen Tagen Urlaub nehmen
+
+In diesem Fall darf der Brückentag nicht in der Liste der Feiertage mit aufgeführt sein, statt dessen wird - idalerweise gleich zu Jahresbeginn ein Urlaubstag an dem entsprechenden Tag für das ganze Team eingetragen.
+
+#### b\) Diese Tage sind frei
+
+Wenn an diesem Tag bei vollem Ausgleich nicht gearbeitet wird, kann er einfach wie ein Feiertag behandelt werden und in die Liste der Fei
+
