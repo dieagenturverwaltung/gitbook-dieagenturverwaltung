@@ -34,6 +34,31 @@ Mit Klick auf den Speichern-Button werden die Vorgänge angelegt.
 
 Zur Bearbeitung eines Vorgangs wird dieser einfach angeklickt. In der Bearbeitungsmaske können alle Felder angepasst oder aktualisiert werden.
 
+**Dokumente hochladen**
+
+Im Tab "Dokumente" können Datei-Anhänge zu diesem Vorgang per Drag & Drop hinzugefügt werden.
+
+### Checkliste um den Fortschritt eines Vorgangs zu erkennen
+
+Vorgänge verfügen über ein Beschreibungsfeld. Diese kann zum Einen genutzt werden, um nützliche Informationen, z.B. ein Briefing, weiterführende Links oder eine Checkliste, ähnlich einer Todo-Liste zu hinterlegen.
+
+{% hint style="info" %}
+Eine Checkliste entsteht automatisch wenn in der Beschreibung des Vorgangs folgende Syntax verwendet wird:
+
+`Folgendes bitte umsetzen  
+[x] Briefing erstellen  
+[x] Motivauswahl  
+[ ] TouchUp Motive  
+[ ] Interne Abstimmung  
+[ ] Motiv-Versand`
+{% endhint %}
+
+Die Agenturverwaltung erkennt an den eckigen Klammern im Fliesstext automatisch, dass es sich um ein Checklistenelement handelt.
+
+Der Status der Checkliste dieses Vorgangs wird in der Vorgangsübersicht dann mit einem Fortschrittsbalken angezeigt aus dem zu erkennen ist wieviele Aufgaben des Vorgangs bereits erledigt wurden:
+
+![](../.gitbook/assets/bildschirmfoto-2020-01-26-um-16.17.35.png)
+
 ### Gleichzeitig mehrere Vorgänge bearbeiten
 
 Eine Mehrfachbearbeitung ist über den Button "Mehrere Vorgänge bearbeiten"![](../.gitbook/assets/bildschirmfoto-2019-12-05-um-10.52.47.png)möglich. Im sich öffnenden Stapelverarbeitungsdialog können links die zu bearbeitenden Vorgänge ausgewählt. Auf der rechten Seite werden dann die anzupassenden Felder durch die Check-Box zur Bearbeitung markiert und anschließend mit einem neuen Wert belegt.

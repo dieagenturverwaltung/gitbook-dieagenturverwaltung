@@ -1,7 +1,7 @@
 ---
 description: >-
   Unter Abwesenheiten verstehen wir in der Agenturverwaltung z.B. Abwesenheit
-  durch Kranheit oder Urlaub.
+  durch Krankheit oder Urlaub.
 ---
 
 # Abwesenheiten
@@ -51,5 +51,5 @@ Wir empfehlen, nicht das ganze Team dazu zu berechtigen auch den Abwesenheitstyp
 
 ![Ansicht f&#xFC;r die Mitarbeiterin &quot;Alexandra Kuglers&quot; ohne Berechtigung die Abwesenheitstypen anderer Nutzer.](../.gitbook/assets/bildschirmfoto-2020-01-19-um-14.26.52.png)
 
-In obigen Beispiel ist Alexandra Kuglers nicht berechtigt die Abwesenheitstypen anderer Mitarbeiter einzusehen, daher sind diese nur als ausgegraut erkennbar - es ist für Alexandra nicht ersichtlich welcher Mitarbeiter krank oder im Urlaub ist, nur ob er an einem bestimmten Tag da ist oder nicht.
+In obigen Beispiel ist Alexandra Kuglers nicht berechtigt die Abwesenheitstypen anderer Mitarbeiter einzusehen, daher sind diese nur als ausgegraut erkennbar - es ist für Alexandra nicht ersichtlich, welcher Mitarbeiter krank oder im Urlaub ist, nur ob er an einem bestimmten Tag da ist oder nicht.
 

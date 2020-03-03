@@ -1,8 +1,14 @@
+---
+description: >-
+  Die Seite beschreibt die vielfältigen Wege, nach Organisationen und Personen
+  in der Agenturverwaltung zu suchen.
+---
+
 # Suche nach Kontakten
 
 ## Suche nach Name
 
-Wir hier ein Suchbegriff angegeben, wird im Namen von Organisationen und in Vor- und Nachnamen von Personen gesucht. Es können auch mehrere Wort durch ein Leerzeichen getrennt werden.
+Wird hier ein Suchbegriff angegeben, wird im Namen von Organisationen und in Vor- und Nachnamen von Personen gesucht. Es können auch mehrere Wort durch ein Leerzeichen getrennt werden.
 
 ## Suche nach Tags
 
@@ -16,7 +22,7 @@ Fotograf
 Weihnachts-Newsletter
 {% endhint %}
 
-Über diese Feld können wir die Kontaktliste auf Ergebnisse einschränken die mit einem oder mehreren Tags verschlagwortet sind.
+Über diese Feld können wir die Kontaktliste auf Ergebnisse einschränken, die mit einem oder mehreren Tags verschlagwortet sind.
 
 ## Suche nach Ort
 
@@ -35,7 +41,7 @@ mit dem in diesem Feld eingetragenen Suchbegriff übereinstimmen.
 
 Sofern Kontakttypen \(z.B. Kunde, Lieferant, Partner, Interessent, Potenzieller Kunde, etc.\) für die Agentur konfiguriert sind kann das Suchergebnis entsprechend nach ihnen eingeschränkt werden.
 
-Sprecht uns an wenn wir dies für Eure Instanz konfigurieren sollen: [info@dieagenturverwaltung.de](mailto:info@dieagenturverwaltung.de)
+Sprecht uns an, wenn wir dies für Eure Agenturverwaltung konfigurieren sollen: [info@dieagenturverwaltung.de](mailto:info@dieagenturverwaltung.de)
 
 ## Export von Suchergebnissen
 

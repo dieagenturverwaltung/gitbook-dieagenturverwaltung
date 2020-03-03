@@ -1,3 +1,9 @@
+---
+description: >-
+  Diese Seite beschreibt die Begriffe und Funktionen in Adressbuch der
+  Agenturverwaltung.
+---
+
 # Adressbuch
 
 Das ist Adressbuch ist der Ort, an dem alle Stammdaten von Organisationen und Personen in der Agenturverwaltung zentral gespeichert werden.
@@ -14,7 +20,7 @@ Organisationen und Personen können miteinander verknüpft werden, indem eine Pe
 {% hint style="info" %}
 **Beispiel**  
 Max Muster ist Director Marketing bei der Organisation FastCargo GmbH. Gleichzeitig ist er der Präsident der Organisation Logistikverband Niedersachsen e.V.   
-D.h. ein und diesselbe Person gehört als Ansprechpartner zu mehreren Organisationen. Die persönlich E-Mail-Adresse und Mobiltelefonnummer von Max Muster wird an der Person gespeichert und ist somit auch über die beiden Organisationen in denen Max Muster Ansprechpartner ist auffindbar.
+D.h. ein und diesselbe Person gehört als Ansprechpartner zu mehreren Organisationen. Die persönlich E-Mail-Adresse und Mobiltelefonnummer von Max Muster wird an der Person gespeichert und ist somit auch über die beiden Organisationen, in denen Max Muster Ansprechpartner ist, auffindbar.
 {% endhint %}
 
 ## Organisationen
@@ -65,7 +71,9 @@ Mehr zur Suche nach Kontakten findest du hier:
 
 ## Notizen
 
-Notizen für Organisationen oder Kontakte funktionieren nach dem gleichen Muster wie Notizen an Projekten. Es können mehrere Notizen angelegt werden und diese können ggf. auch einem beschränktem Personenkreis - z.B. der Geschäftleitung - verfügbar gemacht werden.
+Notizen für Organisationen oder Kontakte funktionieren nach dem gleichen Muster wie Notizen an Projekten. Es können mehrere Notizen angelegt werden und diese können ggf. auch einem beschränktem Personenkreis - z.B. der Geschäftsleitung - verfügbar gemacht werden.
+
+Weitere Informationen zu Notizen sind hier zu finden:
 
 {% page-ref page="../projektverwaltung-1/notizen-in-der-projektverwaltung.md" %}
 
@@ -79,7 +87,7 @@ Mehr dazu kann hier nachgelesen werden:
 
 ## Wiedervorlagen
 
-Wiedervorlagen an Organisationen oder Personen sind sehr hilfreich wenn es z.B. um die Neugeschäftsentwicklung geht. Sie können ein Teammitglied z.B. an ein bestimmtes Ereignis im Zusammenhang mit der letzten Kontaktaufnahme erinnern \("Können Sie mich dazu Mitte Februar noch einmal anrufen, dann weiss ich ob wir das Budget dafür freigeben können"\).
+Wiedervorlagen an Organisationen oder Personen sind sehr hilfreich wenn es z.B. um die Neugeschäftsentwicklung geht. Sie können ein Teammitglied z.B. an ein bestimmtes Ereignis im Zusammenhang mit der letzten Kontaktaufnahme erinnern \("Können Sie mich dazu Mitte Februar noch einmal anrufen, dann weiss ich, ob wir das Budget dafür freigeben können"\).
 
 Wiedervorlagen an Adressbuchkontakten funktionieren darüberhinaus genau wie bei Projekten oder Finanzdokumenten:
 

@@ -37,8 +37,6 @@ Folgende Adresskontakte können verknüpft werden:
 
 {% hint style="info" %}
 **Tipp**  
-In den meisten F\#llen müssen die Adressdaten nicht manuell eingetragen oder über die Suche zugeordnet werden, weil das System das Finanzdokument einem Adresskontakt zuordnen kann wenn das Dokument mit einem Projekt verknüpft ist und die Adresse die mit dem Kunden des Projekt verknüpft wurde, beim Anlegen des Finanzdokuments automatisch vorgeschlagen wird.
+In den meisten Fällen müssen die Adressdaten nicht manuell eingetragen oder über die Suche zugeordnet werden, weil das System das Finanzdokument einem Adresskontakt zuordnen kann wenn das Dokument mit einem Projekt verknüpft ist und die Adresse die mit dem Kunden des Projekt verknüpft wurde, beim Anlegen des Finanzdokuments automatisch vorgeschlagen wird.
 {% endhint %}
-
-
 

@@ -14,6 +14,10 @@ Um aber die Berechtigung für ein spezifisches Projekt oder Etats auf spezifisch
 
 Das hat folgende Auswirkungen: **@Achim**
 
+* Zeiterfassung
+* Projekt ist nicht sichtbar \(Zeiterfassung, Finanzen, Dashboard, Reporting, ...\)
+* Beispiel PItch
+
 \*\*\*\*
 
 {% hint style="info" %}
