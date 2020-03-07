@@ -67,7 +67,11 @@ b\) für jede Version eine neue eindeutige Nummer erzeugt damit es später keine
 **Hinweis:** In deinem Unternehmen sind eventuell nicht alle Prozessschritte aktiviert. Sprich den Kundenservice an, wenn du daran etwas ändern möchtest: info@dieagenturverwaltung.de
 {% endhint %}
 
-## 
+In der Liste der Kostenvoranschläge kann auf einen Blick erkannt werden, in welchem Status sich ein Dokument befindet:
+
+![](../../.gitbook/assets/bildschirmfoto-2020-03-07-um-14.47.57.png)
+
+
 
 
 
