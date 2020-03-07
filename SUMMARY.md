@@ -76,6 +76,7 @@
     * [Druckversionseinstellungen](finanzen-1/allgemeines-zu-finanzdokumenten/druckversionseinstellungen.md)
     * [Dokument versenden](finanzen-1/allgemeines-zu-finanzdokumenten/dokument-versenden.md)
     * [Dokumente kopieren und in ander Dokumente umwandeln](finanzen-1/allgemeines-zu-finanzdokumenten/ausgangsrechnung-in-ein-anderes-dokument-kopieren.md)
+    * [Dokumente löschen und stornieren](finanzen-1/allgemeines-zu-finanzdokumenten/dokumente-loeschen-und-stornieren.md)
   * [Kostenvoranschläge](finanzen-1/kva/README.md)
     * [Neuen Kostenvoranschlag erstellen](finanzen-1/kva/neuen-kostenvoranschlag-erstellen.md)
     * [Tabellarischer Block im Dokumentenkopf](finanzen-1/kva/tabellarischer-block-im-dokumentenkopf.md)
