@@ -18,6 +18,8 @@ Eine Positionsliste besteht aus beliebig vielen Positionen, welche in Positionsg
 > * 4 Banner-Layouts 2500,- EUR
 > * 8 Headlines 3500,- EUR
 
+![Positionsgruppen k&#xF6;nnen dupliziert, gel&#xF6;scht und per Drag &amp; Drop sortiert werden.](../../../.gitbook/assets/bildschirmfoto-2020-03-07-um-14.55.38.png)
+
 ## Positionen
 
 Eine Position besteht dabei aus einer Positionsbezeichnung \(bspw. "Projektmanagement"\), und 
@@ -58,6 +60,19 @@ Die Agenturverwaltung hilft bei der Erstellung solcher Dokumente:
 
 * **Gliederung in Positionsgruppen:** Läuft ein Projekt in Phasen ab oder setzt sich aus verschiedenen Teilen zusammen, kann die Positionsliste in verschiedene Positionsgruppen aufgeschlüsselt werden.  Auch Positionsgruppen verfügen über die Möglichkeit einen einleitenden Text zu verfassen, der die Ziele der erbrachten zusammenfassen kann.
 * **Positionen beschreibend benennen:** Hilf dem Leser zu verstehen, was sich hinter einer Position verbirgt. Dafür können gliedernde Textfelder wie z.B. die Detailbeschreibung im Reiter Details einer Position geeignet sein.
+
+## Seitenumbrüche
+
+Seitenumbrüche werden im PDF angeeigneter Stelle automatisch erzeugt. Manchmal kann es zum Zweck er besseren Gliederung Sinn machen manuell Seitenumbrüche einzufügen. 
+
+Dabei gibt es vier Möglichkeiten
+
+a\) ganz oben vor der Kopfbemerkung  
+b\) zwischen Positionen einer Positionsgruppe \(die Schaltfläche befindet sich jeweils am Ende einer Positionsgruppe\)  
+c\) zwischen Positionsgruppen \(die Schaltfläche befindet sich ganze unten neben der Schaltfläche "Neue Positionsgruppe"\)  
+d\) ganz unten vor der Fußbemerkung
+
+Die Seitenumbrüche zwischen Positionen und zwischen Positionsgruppen können per Drag & Drop verschoben werden.
 
 ## Exkurs: Produkte, Stunden- oder Tagessätze kalkulieren?
 
