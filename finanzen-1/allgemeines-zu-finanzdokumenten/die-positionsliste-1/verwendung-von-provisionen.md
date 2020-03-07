@@ -22,6 +22,17 @@ Um die Änderungen anzuwenden, muss im Dialog unten "Speichern" gedrückt werden
 
 Unten in der Positionliste werden angelegt Provisionen in einer oder mehreren Zeilen ausgegeben. Durch Klick auf eine dieser Zeilen öffnet sich der Provisions-Editor und zeigt eine Kurzfassung unserer Provisionsliste. Hier können dann weitere Provisionen zu Funktionen hinzugefügt werden oder Verknüpfungen zwischen Positionen und Provisionen wieder gelöst werden.
 
+### Leistungstypen: Agentur- und Fremdleistung
+
+Eine Provision wird bei der Erstellung immer einem Leistungstypen zugewiesen, das heisst unabhängig vom Leistungstyp der Position auf die sich die Provision bezieht ist der Leistungstyp der Provision immer gleich.
+
+{% hint style="info" %}
+**Zwei Beispiele**   
+Wenn ich den Provisionstyp "Technikversicherung" anlege, definiere ich dass es sich um eine Fremdleistungsprovision handelt, denn der berechnete Provisionszuschlag muss ja an den Versicherer abgeführt werden.   
+  
+Nutze ich z.B. einen Provisionstyp "Handling-Fee", den ich auf eine Media-Fremdleistung - z.B. Facebook-Ads - anwende, wird der Provisionsanteil in meinem Dokument als Agenturleistung gewertet.
+{% endhint %}
+
 ## Darstellung von Provisionen in der Druckversion eines Finanzdokuments
 
 Provisionen können in der Druckversion direkt an der Position, gruppiert am Ende einer Positionsgruppe und gruppiert unterhalb der Positionsliste ausgegeben werden.
