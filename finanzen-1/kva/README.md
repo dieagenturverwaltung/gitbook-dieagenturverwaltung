@@ -43,7 +43,8 @@ Dieses Dokument wurde an den Kunden gesendet und wartet auf Feedback durch den K
 
 #### Freigabe 
 
-Dieser Kostenvoranschlag ist durch den Kunden freigegeben worden. Die Umsetzung kann starten. Das Budget des Dokuments wird dem Projektbudget zugerechnet sofern das Projekt nicht Geplante Budgets verwendet.
+Dieser Kostenvoranschlag ist durch den Kunden freigegeben worden. Die Umsetzung kann starten. Das Budget des Dokuments wird dem Projektbudget zugerechnet sofern das Projekt nicht Geplante Budgets verwendet.  
+Ein Kostenvoranschlag zu dem bereits eine Akonto-Rechnung erstellt wurde verbleibt im Status "Freigabe". In der Liste der Kostenvoranschläge ist in einem Fortschrittsblaken ersichtlich, welcher Anteil der Gesamtsumme bereits in Rechnung gestellt wurde.
 
 #### wartet auf Abrechnung
 
