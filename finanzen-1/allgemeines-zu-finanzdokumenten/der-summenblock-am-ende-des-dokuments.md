@@ -2,7 +2,7 @@
 
 Unterhalb der Positionsliste befinden sich eine Sektion mit den Summen des Dokuments.
 
-![Beispiel eines sehr ausf&#xFC;hrlichen Summenblick einer Schlussrechnung eines Projekts.](../../.gitbook/assets/bildschirmfoto-2020-03-07-um-15.21.28.png)
+![Beispiel eines sehr ausf&#xFC;hrlichen Summenblocks einer Schlussrechnung eines Projekts.](../../.gitbook/assets/bildschirmfoto-2020-03-07-um-15.21.28.png)
 
 #### Agentur- und Fremdleistung
 
