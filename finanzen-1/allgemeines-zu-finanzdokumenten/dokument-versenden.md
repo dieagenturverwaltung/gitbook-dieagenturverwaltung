@@ -10,5 +10,5 @@
 
 Wir empfehlen den Versand der Druckversion als PDF-Dokument da ein Anhang höhere Verbindlichkeit für den Kunden hat und später ggf. auch Offline in seinem E-Mail-Programm auffindbar ist.
 
-Nach dem Öffnen der Druckversion kann das PDF einfach über das Browsermenü \(Datei &gt; Speichern unter bzw. Ablage &gt; Speichern unter\) auf deinem Computer gespeichert werden und anschliessend auf einem beliebigen digitalen Kanal oder per Post versendet werden.
+Nach dem Öffnen der Druckversion kann das PDF einfach über das Browsermenü \(Datei &gt; Speichern unter bzw. Ablage &gt; Speichern unter\) auf deinem Computer gespeichert werden und anschliessend auf einem beliebigen digitalen Kanal oder ausgedruckt per Post versendet werden.
 
