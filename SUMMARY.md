@@ -74,6 +74,7 @@
       * [Verwenden von Buyouts](finanzen-1/allgemeines-zu-finanzdokumenten/die-positionsliste-1/verwenden-von-buyouts.md)
     * [Der Summenblock am Ende des Dokuments](finanzen-1/allgemeines-zu-finanzdokumenten/der-summenblock-am-ende-des-dokuments.md)
     * [Druckversionseinstellungen](finanzen-1/allgemeines-zu-finanzdokumenten/druckversionseinstellungen.md)
+    * [Dokument versenden](finanzen-1/allgemeines-zu-finanzdokumenten/dokument-versenden.md)
     * [Dokumente kopieren und in ander Dokumente umwandeln](finanzen-1/allgemeines-zu-finanzdokumenten/ausgangsrechnung-in-ein-anderes-dokument-kopieren.md)
   * [Kostenvoranschläge](finanzen-1/kva/README.md)
     * [Neuen Kostenvoranschlag erstellen](finanzen-1/kva/neuen-kostenvoranschlag-erstellen.md)
