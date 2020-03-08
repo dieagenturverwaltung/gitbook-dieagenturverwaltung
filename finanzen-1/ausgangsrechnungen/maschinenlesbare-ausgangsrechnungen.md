@@ -11,7 +11,8 @@ Der QR-Code erscheint nur auf der Druckversion unbezahlter Ausgangsrechnungen we
 
 {% hint style="info" %}
 **Möchtet ihr diese Funktion nutzen?**  
-Sendet eure Bankverbindung mit IBAN und BIC an den [Kundenservice](mailto:info@dieagenturverwaltung.de).
+Sendet eure Bankverbindung mit IBAN und BIC an den [Kundenservice](mailto:info@dieagenturverwaltung.de).  
+Wir konfigurieren die Funktion für euch.
 {% endhint %}
 
 

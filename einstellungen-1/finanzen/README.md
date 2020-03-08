@@ -2,7 +2,7 @@
 
 {% page-ref page="../../finanzen-1/provisionen.md" %}
 
-Textbausteine
+{% page-ref page="textbausteine.md" %}
 
 {% page-ref page="../../finanzen-1/kostenkategorien-auswerten.md" %}
 

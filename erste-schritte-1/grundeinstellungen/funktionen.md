@@ -30,7 +30,7 @@ Funktionen sind auch im Kontext der Zeiterfassung relevant, da jeder Zeiterfassu
 
 Mehr zu Funktionen in der Zeiterfassung erfahrt hier ihr: 
 
-{% page-ref page="../../zeiterfassung-1/funktionen.md" %}
+{% page-ref page="../../einstellungen-1/zeiterfassung/funktionen.md" %}
 
 ## Funktionen in Finanzdokumenten
 

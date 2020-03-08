@@ -1,4 +1,4 @@
-# Dokumente kopieren und in ander Dokumente umwandeln
+# Dokument kopieren oder in anderes Dokument umwandeln
 
 In Kostenvoranschlägen, Ausgangsrechnungen, Gutschriften und Vorlagen gibt es im Reiter "Optionen" die Möglichkeit das gesamte Dokument zu kopieren:
 

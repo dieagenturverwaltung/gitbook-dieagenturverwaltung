@@ -1,2 +1,0 @@
-# Teilleistungsrechnung erstellen
-

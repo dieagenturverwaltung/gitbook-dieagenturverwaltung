@@ -1,4 +1,4 @@
-# Der Summenblock am Ende des Dokuments
+# Mehrwertsteuer, Rabatte, Gesamtsummen
 
 Unterhalb der Positionsliste befinden sich eine Sektion mit den Summen des Dokuments.
 
@@ -43,4 +43,10 @@ Es ist möglich einen oder mehrere Brutto-Abzüge zu definieren, sie verhalten s
 #### Brutto-Summe
 
 Die Brutto-Summe addiert die Netto-Summe, die Mehrwertsteuer und subtrahiert ggf. Brutto-Abzüge.
+
+\*\*\*\*
+
+**Mehr über Abzüge erfährst du übrigens in diesem Video:**
+
+{% embed url="https://www.youtube.com/watch?v=r40GOc1WNpw&t=3s" %}
 

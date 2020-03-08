@@ -46,13 +46,21 @@ Generell ist die Verwendung von Tätigkeiten optional.
 
 Was es mit Tätigkeiten im Detail auf sich hat, und wo sie angelegt werden steht hier:
 
-{% page-ref page="../../../zeiterfassung-1/taetigkeiten.md" %}
-
-
+{% page-ref page="../../zeiterfassung/taetigkeiten.md" %}
 
 ### Arbeitsverhältnisse definieren
 
+Damit die Zeiterfassung, die Wochenansicht der Vorgänge und der Abwesenheitskalender auch anzeigen können, an welchen Tagen ein Mitarbeiter arbeitet, kann ein Mitarbeiter als "Festangestellt" geführt werden. Das geht im Reiter "Arbeitsverhältnis".  
+Dort kann hinterlegt werden, wieviele Stunden ein Mitarbeiter an welchen Wochentagen normalerweise arbeitet.
 
+Am Arbeitsverhältnis kann auch der interne Stundensatz hinterlegt werden.
+
+{% hint style="info" %}
+**Den internen Stundensatz sollte euer Steuerberater ermitteln**
+
+Er sollte neben dem Gehalt auch indirekte Kosten wie Büro, Lohnnebenkosten, Fahrzeugflotte und vor allem den Leerlauf enthalten.  
+Bei den meisten Agenturen liegt dieser Wert zwischen 40 und 80 EUR.
+{% endhint %}
 
 ### Einen Benutzer freigeben und sperren ohne ihn zu löschen
 

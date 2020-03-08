@@ -10,7 +10,7 @@ Eine Preisliste beschreibt alle von einer Agentur angebotenen Funktionen oder Le
   
 In welcher Funktion ein Mitarbeiter Arbeitszeit erfassen kann, kann am Mitarbeiter konfiguriert werden.
 
-{% page-ref page="../../zeiterfassung-1/funktionen.md" %}
+{% page-ref page="../../einstellungen-1/zeiterfassung/funktionen.md" %}
 
 
 

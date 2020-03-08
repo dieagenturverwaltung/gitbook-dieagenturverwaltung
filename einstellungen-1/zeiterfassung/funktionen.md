@@ -14,7 +14,7 @@ Sie sind ein zentrales Element der Agenturverwaltung, da sie sowohl die Grundlag
 
 Allgemeine Informationen zur Agenturpreisliste und zur Konfiguration der in eurer Agentur zur Verfügung stehenden Funktionen dieser findet ihr hier:
 
-{% page-ref page="../erste-schritte-1/grundeinstellungen/funktionen.md" %}
+{% page-ref page="../../erste-schritte-1/grundeinstellungen/funktionen.md" %}
 
 ### Warum Funktionen?
 
@@ -24,7 +24,7 @@ Die Auswahl der korrekten Funktion ist wichtig, da Funktionen die Basis für das
 
 So erkennen Projektleiter bereits früh in einem Projekt, ob wir ein Arbeitszeitbudget überzogen haben und wieviel Arbeitszeitbudget noch verfügbar ist.
 
-![Projekt-Controlling: Gegen&#xFC;berstellung kalkulierter und angefallener Agenturleistungen im Projekt-Reporting](../.gitbook/assets/screen-kalk-angefallene-stunden-je-funktion.png)
+![Projekt-Controlling: Gegen&#xFC;berstellung kalkulierter und angefallener Agenturleistungen im Projekt-Reporting](../../.gitbook/assets/screen-kalk-angefallene-stunden-je-funktion.png)
 
 ### Mitarbeitern Funktionen zuweisen
 
@@ -32,7 +32,7 @@ In vielen Fällen stehen einem Mitarbeiter zwei oder mehr Funktionen zur Auswahl
 
 Einem Benutzer kann aber auch nur eine Funktion zugewiesen werden. Dann entfällt die Auswahl. Die Zuordnung von Funktionen zu Benutzern findet in den Benutzereinstellungen statt.
 
-{% page-ref page="../einstellungen-1/" %}
+{% page-ref page="../" %}
 
 ### Was kostet eine Stunde den Kunden?
 
@@ -41,7 +41,7 @@ Der Preis für eine Stunde in der Funktion "Grafikdesign" unterscheidet sich dan
 
 Hier wird erklärt wie die Etatpreisliste eines Kunden bearbeitet werden kann.
 
-{% page-ref page="../projektverwaltung-1/etats/preisliste.md" %}
+{% page-ref page="../../projektverwaltung-1/etats/preisliste.md" %}
 
 
 
@@ -51,7 +51,7 @@ Um die Kosten für die Agentur zu ermitteln, wird nicht der Stundensatz der Funk
 
 Hier wird erklärt, wie dieser Preis sich zusammensetzt und wo man ihn einstellen kann.
 
-{% page-ref page="../einstellungen-1/benutzerverwaltung/benutzer/benutzer-bearbeiten.md" %}
+{% page-ref page="../benutzerverwaltung/benutzer/benutzer-bearbeiten.md" %}
 
 
 

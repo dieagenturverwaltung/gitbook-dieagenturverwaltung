@@ -22,5 +22,25 @@ Die häufigste Grund ist, dass die Erfassung von geleisteter Arbeit schlichtweg 
 
 Zeiterfassung kann aber auch sinnvoll sein, um aus den Zahlen zu lernen. Es lässt sich ableiten, wie rentabel gearbeitet wird, ob und bei welchen Tätigkeiten eventuell zu viel Zeit investiert wird. **Mehr Informationen dazu findest du in unserem** [**Blog-Post**](https://www.dieagenturverwaltung.de/blog/3-tipps-bei-der-einfuhrung-der-zeiterfassung/) **zu diesem Thema.**
 
+## **Einstellungen der Zeiterfassung**
+
+Funktionen in deen Nutzen ihre Arbeitszeiten erfassen  können konfiguieren:
+
+{% page-ref page="../einstellungen-1/zeiterfassung/funktionen.md" %}
+
+Wiederkehrende Tätigkeiten für die Zeiterfassung konfigurieren und Auswerten:
+
+{% page-ref page="../einstellungen-1/zeiterfassung/taetigkeiten.md" %}
+
+An welchen Tagen wird im Unternehmen nicht gearbeitet? Lokale Feiertage hier konfigurieren:
+
+{% page-ref page="../einstellungen-1/zeiterfassung/feiertage-und-betriebsferien.md" %}
+
+Vereinbarte Wochen-Arbeitszeit eines Benutzers konfigurieren:
+
+{% page-ref page="../einstellungen-1/benutzerverwaltung/benutzer/benutzer-bearbeiten.md" %}
+
+
+
 
 

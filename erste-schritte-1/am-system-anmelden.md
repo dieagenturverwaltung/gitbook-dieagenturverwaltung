@@ -8,9 +8,15 @@ description: >-
 
 ## Anmeldung mit E-Mail-Adresse und Passwort
 
+Die Anmeldung am System erfolgt mit E-Mail-Adresse und Passwort.
+
+Die URL unter die sich Nutzer anmelden und unter der Die Agenturverwaltung für dein Unternehmen zur Verfügung steht folgt diesem Schema
+
+> https://_unternehmensname_.dieagenturverwaltung.de
+
 ## Abmeldung \(Logout\)
 
-Im Einstellungsmenü rechts oben auf der Seite  \(es klappt auf klick auf\) befindet sich ein Button "Maria Muster abmelden". Dieser Button zeigt einerseits an, wer gerade angemeldet ist \(indem dein Name dort steht\), andererseits führt ein Klick darauf dazu dass dieser Browser abgemeldet wird.
+Im Einstellungsmenü rechts oben auf der Seite  \(es wird sichtbar wenn du darauf klickst\) befindet sich eine Schaltfläche "abmelden". Diese Schaltfläche zeigt einerseits an, wer gerade angemeldet ist \(indem dein Name dort steht\), andererseits führt ein Klick darauf dazu dass dieser Browser abgemeldet wird.
 
 ### Abmeldung von entfernten Geräten
 
@@ -26,11 +32,24 @@ Dazu klickst du wieder auf das Einstellungsmenü \(oben rechts\) und dann auf "E
 
 #### Passwort-vergessen Funktion nutzen
 
+Das Login-Formular verweist unten auf eine Passwort-vergessen Funktion. Hast du dein Passwort vergessen, kannst du diesem Link folgen. Du gibst anschliessend die E-Mail-Adresse an, die für dich in der Agenturverwaltung gespeichert ist.  
+Unser System sendet dir anschliessend an dieses E-Mail-Konto einen Link. Öffne den Link und vergibt dir ein neues Passwort.
+
 #### Eigenes Passwort neu setzen
+
+Wenn Du bereits angemeldet bist und dein Passwort neu setzen möchtest, kannst Du das in deinen Profileinstellungen machen:
+
+{% page-ref page="../einstellungen-1/benutzerverwaltung/mein-profil.md" %}
+
+
 
 #### Passwort-Reset-E-Mail an andere Benutzer senden
 
+Wenn du Zugriff auf die Benutzerverwaltung hast, kannst du auch anderen Benutzern eine E-Mail mit einem Link zusenden. Dieser Link führt den Nutzer zu einer Seite auf der er sich ein neues Passwort vergeben kann.
+
 #### Neuen Benutzer einladen sein Passwort selbst zu erstellen
+
+Hat ein neu angelegter Nutzer bisher noch gar kein Passwort so kannst du ihm eine Einladungs-E-Mail senden. Diese E-Mail enthält einen Link zu einer Seite auf der der neue Nutzer sein initiales Passwort einstellen kann.
 
 ## Wissenswertes zu Passwörtern
 
@@ -41,4 +60,11 @@ Dazu klickst du wieder auf das Einstellungsmenü \(oben rechts\) und dann auf "E
 * Für jede Applikation sollte ein eigenes Passwort verwendet werden.
 * Passwörter können in einem geeigneten Passwort-Safe z.B. 1Password organisiert werden.
 * Das Passwort sollte gelegentlich - z.B. alle paar Wochen oder nach Aufforderung durch den Systemadministrator - geändert werden.
+
+{% hint style="info" %}
+Passwörter werden  in unserer Datenbank destruktiv verschlüsselt gespeichert. Selbst unser Kundenservice kann diese Passwörter nicht mehr einsehen oder entschlüsseln.
+
+**Unser Kundenservice wird nie von dir verlangen dein Passwort zu nennen!   
+Bitte sende keine Passwörter per E-Mail an uns.**
+{% endhint %}
 

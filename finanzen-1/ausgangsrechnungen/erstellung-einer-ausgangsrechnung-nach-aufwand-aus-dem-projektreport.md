@@ -4,7 +4,7 @@ description: >-
   Ausgangsrechnung aus dem Projektreport erstellen können.
 ---
 
-# Erstellung einer Ausgangsrechnung nach Aufwand aus dem Projektreport
+# Erstellung einer Ausgangsrechnung nach Aufwand aus dem Projekt-Report
 
 Wir möchten euch organisatorische Aufgaben wie das Erstellen von Rechnungen so einfach wie möglich machen, sodass euch mehr Zeit für anderen Tätigkeiten im Agenturalltag bleiben.
 

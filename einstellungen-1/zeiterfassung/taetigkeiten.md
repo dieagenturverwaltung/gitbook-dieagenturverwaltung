@@ -29,20 +29,20 @@ Wurden in der Tätigkeitsliste für den zeiterfassenden Nutzer gar keine Tätigk
 
 Die Liste der auswählbaren Tätigkeiten kann durch berechtigte Benutzer in den Einstellungen unter Zeiterfassung &gt; Tätigkeiten bearbeitet werden.  
 
-![](../.gitbook/assets/bildschirmfoto-2019-11-25-um-09.58.14.png)
+![](../../.gitbook/assets/bildschirmfoto-2019-11-25-um-09.58.14.png)
 
 Auf der Konfigurationsseite werden alle verfügbaren Tätigkeiten aufgelistet.  
  
 
-![](../.gitbook/assets/bildschirmfoto-2019-11-25-um-10.19.46.png)
+![](../../.gitbook/assets/bildschirmfoto-2019-11-25-um-10.19.46.png)
 
-Über einen Klick auf den x-Button \( ![](../.gitbook/assets/bildschirmfoto-2019-11-25-um-10.23.24.png) \) können Tätigkeiten entfernt werden.   
+Über einen Klick auf den x-Button \( ![](../../.gitbook/assets/bildschirmfoto-2019-11-25-um-10.23.24.png) \) können Tätigkeiten entfernt werden.   
 Wurden diesen aber in vorhergehenden Zeiterfassungseinträgen genutzt, bleiben alte Zeiterfassungseinträge davon unberührt. 
 
 In der letzten Zeile kann eine neue Tätigkeit hinzugefügt werden, indem zuerst eine Bezeichnung vergeben und anschließend der Speichern-Button geklickt wird.  
  
 
-![](../.gitbook/assets/bildschirmfoto-2019-11-25-um-10.23.32.png)
+![](../../.gitbook/assets/bildschirmfoto-2019-11-25-um-10.23.32.png)
 
 {% hint style="info" %}
 **Hinweis**: Neu hinzugefügte Tätigkeiten müssen auch den entsprechenden Nutzern hinzugefügt werden, sie stehen ihnen sonst nicht in der Zeiterfassung zur Verfügung.
