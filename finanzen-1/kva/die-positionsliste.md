@@ -1,4 +1,4 @@
-# Die Positionsliste im Kostenvoranschlag
+# Mehrwertsteuer im Kostenvoranschlag
 
 In der Positionsliste eines Finanzdokuments \(bspw. eines Kostenvoranschlags\) werden die Positionen oder Leistungen des Auftrags aufgelistet. 
 
@@ -8,9 +8,13 @@ Weitere Informationen zur Positionsliste in Finanzdokumente findet du auf folgen
 
 ### Keine Mehrwertsteuer in Kostenvoranschlägen
 
-Von der Positionsliste anderer Dokumente wie Ausgangsrechnungen oder Gutschriften unterscheidet sich die Positionsliste des Kostenvoranschlags dadurch, dass sie kein Feld für Mehrwertsteuer unterhalb der Netto-Summe führt.
+Von anderen Dokumenten wie Ausgangsrechnungen oder Gutschriften unterscheidet sich die der Kostenvoranschlag dadurch, dass kein Feld für Mehrwertsteuer unterhalb der Netto-Summe geführt wird.
 
 D.h. die Leistungen werden netto angeboten, ein Verweis in der Fussbemerkung unterhalb der Positionsliste erklärt, dass sich das Angebot zzgl. der gesetzlichen Mehrwertsteuer versteht.
 
+{% hint style="info" %}
 Dieser Verweis ist rechtlicher Bestandteil des Kostenvoranschlags und darf nicht fehlen.
+{% endhint %}
+
+Der Verweis wird üblicherweise beim Anlegen des Dokuments automatisch eingefügt, wenn er als Standardtextbaustein für Kostenvoranschläge angelegt ist.
 

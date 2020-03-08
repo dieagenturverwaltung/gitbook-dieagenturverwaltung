@@ -8,7 +8,7 @@ Alternativ zu einem Foto steht auch eine grössere Sammlung von fertigen Avatar-
 
 Administratoren können dies auch für einen anderen Benutzer in den Benutzereinstellungen erledigen.
 
-![](../../.gitbook/assets/bildschirmfoto-2020-03-03-um-19.38.39.png)
+![](../../../.gitbook/assets/bildschirmfoto-2020-03-03-um-19.38.39.png)
 
 ### Profileinstellungen: Hilfe & Benachrichtigungen
 
@@ -18,7 +18,7 @@ Nutzer erhalten gelegentlich vom System E-Mails. Ist dies nicht gewünscht, kann
 
 Ebenso können die Hilfe-Texte die bei manchen Seitenelementen erscheinen hier deaktiviert werden.
 
-![](../../.gitbook/assets/bildschirmfoto-2020-03-03-um-19.55.01.png)
+![](../../../.gitbook/assets/bildschirmfoto-2020-03-03-um-19.55.01.png)
 
 ### Einstellungen der Zeiterfassung
 
@@ -32,7 +32,7 @@ Falls hier noch gar keine Funktionen zu finden sind, lege zunächst die Agenturp
 
 Hier steht, warum und wie das geht:
 
-{% page-ref page="../../projektverwaltung-1/etats/preisliste.md" %}
+{% page-ref page="../../../projektverwaltung-1/etats/preisliste.md" %}
 
 
 
@@ -46,7 +46,7 @@ Generell ist die Verwendung von Tätigkeiten optional.
 
 Was es mit Tätigkeiten im Detail auf sich hat, und wo sie angelegt werden steht hier:
 
-{% page-ref page="../../zeiterfassung-1/taetigkeiten.md" %}
+{% page-ref page="../../../zeiterfassung-1/taetigkeiten.md" %}
 
 
 
@@ -58,11 +58,11 @@ Was es mit Tätigkeiten im Detail auf sich hat, und wo sie angelegt werden steht
 
 Ein aktiver Benutzer kann gesperrt werden, er kann sich dann nicht mehr am System anmelden.
 
-![](../../.gitbook/assets/bildschirmfoto-2020-03-03-um-19.34.11.png)
+![](../../../.gitbook/assets/bildschirmfoto-2020-03-03-um-19.34.11.png)
 
 Ob ein Nutzer freigegeben ist oder nicht sehen Administratoren in der Liste der Benutzer. Dort ist auch erkennbar ob ein Nutzer gerade am System angemeldet ist und damit arbeitet.
 
-![](../../.gitbook/assets/bildschirmfoto-2020-03-03-um-19.33.28.png)
+![](../../../.gitbook/assets/bildschirmfoto-2020-03-03-um-19.33.28.png)
 
 {% hint style="info" %}
 **Hinweis:** Auch gesperrte Nutzer sind kostenpflichtig. Wenn ein Nutzer zur Zeit nicht für dein Unternehmen arbeitet, kannst du ihn einfach löschen und später ggf. wiederherstellen. Das kann eine Ersparnis zur Folge haben.

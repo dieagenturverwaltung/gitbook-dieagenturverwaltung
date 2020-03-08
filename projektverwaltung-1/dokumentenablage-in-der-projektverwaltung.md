@@ -17,5 +17,5 @@ Das heißt, ein am Projekt hochgeladenes Dokument ist nicht im verknüpften Etat
 
 Der Zugriff auf die Dokumente in Projekt, Etat und Kunde kann in den Berechtigungseinstellungen unter Einstellungen an einem spezifischen Benutzer oder an einer Benutzergruppe konfiguriert werden. Detaillierte Informationen zu den Berechtigungseinstellungen findet ihr hier:
 
-{% page-ref page="../einstellungen-1/benutzergruppen/" %}
+{% page-ref page="../einstellungen-1/benutzerverwaltung/benutzergruppen/" %}
 

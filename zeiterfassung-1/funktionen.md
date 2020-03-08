@@ -51,7 +51,7 @@ Um die Kosten für die Agentur zu ermitteln, wird nicht der Stundensatz der Funk
 
 Hier wird erklärt, wie dieser Preis sich zusammensetzt und wo man ihn einstellen kann.
 
-{% page-ref page="../einstellungen-1/benutzer/benutzer-bearbeiten.md" %}
+{% page-ref page="../einstellungen-1/benutzerverwaltung/benutzer/benutzer-bearbeiten.md" %}
 
 
 

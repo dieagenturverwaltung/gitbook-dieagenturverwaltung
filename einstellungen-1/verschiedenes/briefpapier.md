@@ -2,7 +2,7 @@
 
 Die Agenturverwaltung unterstützt die Verwendung mehrere Briefpapiere. Was zu einem  Briefpapier gehört und wie es bearbeitet wird erfahrt ihr hier:
 
-{% page-ref page="../erste-schritte-1/grundeinstellungen/briefpapier-anpassen.md" %}
+{% page-ref page="../../erste-schritte-1/grundeinstellungen/briefpapier-anpassen.md" %}
 
 ## Anwendungsbeispiele für Briefpapiere
 
