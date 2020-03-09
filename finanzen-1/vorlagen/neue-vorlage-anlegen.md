@@ -1,2 +1,0 @@
-# Neue Vorlage anlegen
-

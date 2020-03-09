@@ -45,7 +45,7 @@ In die monatlichen Werte fließen die Netto-Budgets projektgebundener Kostenvora
 
 Mehr zu Thema Fixkosten, wie sie sich zusammensetzen, und wie man sie definieren kann, steht hier:
 
-{% page-ref page="../finanzen-1/agenturfixkosten.md" %}
+{% page-ref page="../einstellungen-1/finanzen/agenturfixkosten.md" %}
 
 {% hint style="info" %}
 **Hinweis:**  

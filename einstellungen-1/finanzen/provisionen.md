@@ -33,5 +33,5 @@ Wird eine Provision in der Liste der Provisionen gelöscht, hat das keine Auswir
 
 Wie Provisionen in Finanzdokumenten eingesetzt und wie sie in der Druckversion dargestellt werden erfährst du hier:
 
-{% page-ref page="allgemeines-zu-finanzdokumenten/die-positionsliste-1/verwendung-von-provisionen.md" %}
+{% page-ref page="../../finanzen-1/allgemeines-zu-finanzdokumenten/die-positionsliste-1/verwendung-von-provisionen.md" %}
 

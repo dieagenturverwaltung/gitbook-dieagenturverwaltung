@@ -4,7 +4,7 @@
 
 Mehr dazu wie Provisionen angelegt werden erfährst du hier:
 
-{% page-ref page="../../provisionen.md" %}
+{% page-ref page="../../../einstellungen-1/finanzen/provisionen.md" %}
 
 ## Verwenden von Provisionen
 
