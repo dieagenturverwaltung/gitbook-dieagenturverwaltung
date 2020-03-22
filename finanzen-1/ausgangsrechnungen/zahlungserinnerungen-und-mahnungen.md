@@ -1,6 +1,6 @@
 # Zahlungserinnerungen und Mahnungen
 
-Im Reiter "Zahlungserinnerungen und Mahnungen" kann eine Zahlungserinnerung, erste oder zweite Mahnungsdruckversion erstellt werden.
+Im Reiter "Zahlungserinnerungen und Mahnungen" kann eine Druckversion einer Zahlungserinnerung, ersten oder zweiten Mahnung erstellt werden.
 
 Dabei kann die in der Rechnung gegebene Kopfbemerkung durch einen alternativen Text ersetzt werden, sowie ein Mahnungsdatum angegeben werden.
 

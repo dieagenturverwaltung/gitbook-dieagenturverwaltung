@@ -4,7 +4,7 @@ Im Reiter "Zugriffsrechte" kann der Zugriff auf einen spezifischen Etat beschrä
 
 Wie diese Funktion in der Projektverwaltung funktioniert, erfährst du hier:
 
-{% page-ref page="../zugriffsrechte-in-der-projektverwaltung.md" %}
+{% page-ref page="../projekteinstellungen/zugriffsrechte-in-der-projektverwaltung.md" %}
 
 
 

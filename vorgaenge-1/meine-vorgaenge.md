@@ -59,13 +59,17 @@ Der Status der Checkliste dieses Vorgangs wird in der Vorgangsübersicht dann mi
 
 ![](../.gitbook/assets/bildschirmfoto-2020-01-26-um-16.17.35.png)
 
-### Gleichzeitig mehrere Vorgänge bearbeiten
+### Dokumentenanhänge in Vorgängen
+
+Zu Vorgänge können auch Dokumente per Drag & Drop hochgeladen werden, das können beispielsweise Briefing-Informationen oder Materialen für die Umsetzung sein.
+
+### Stapelverarbeitung: Gleichzeitig mehrere Vorgänge bearbeiten
 
 Eine Mehrfachbearbeitung ist über den Button "Mehrere Vorgänge bearbeiten"![](../.gitbook/assets/bildschirmfoto-2019-12-05-um-10.52.47.png)möglich. Im sich öffnenden Stapelverarbeitungsdialog können links die zu bearbeitenden Vorgänge ausgewählt. Auf der rechten Seite werden dann die anzupassenden Felder durch die Check-Box zur Bearbeitung markiert und anschließend mit einem neuen Wert belegt.
 
 ![](../.gitbook/assets/bildschirmfoto-2019-12-05-um-10.52.17.png)
 
-### Erstellung von Statuslisten o.ä. mit der Druckfunktion
+### Erstellung von Statuslisten mit der Druckfunktion
 
 Mit Hilfe der Druck-Funktion ![](../.gitbook/assets/bildschirmfoto-2019-12-05-um-10.52.58.png) kann mit wenigen Klicks auf eine Statusliste im Briefpapier-Design der Agentur erstellt werden. Die anzuzeigenden Daten sind dabei im Druck-Wizard konfigurierbar.
 

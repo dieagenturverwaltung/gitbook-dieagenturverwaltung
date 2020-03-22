@@ -4,5 +4,7 @@ Kostenvoranschläge können dir oder einem anderen Nutzer im Team im Reiter "Wie
 
 Mehr zu Wiedervorlagen erfährst du hier:
 
-{% page-ref page="wiedervorlagen.md" %}
+{% page-ref page="../../wiedervorlagen-1/" %}
+
+
 

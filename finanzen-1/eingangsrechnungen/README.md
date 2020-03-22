@@ -1,8 +1,8 @@
 ---
 description: >-
-  Eingangsrechnungen sind Rechnungsdokumente und Belege der Lieferanten der
-  Agentur. Sie sind oft projektbezogen und gehen auf digitalem oder analogem Weg
-  ein.
+  Eingangsrechnungen sind Rechnungsdokumente und Belege der Lieferanten unseres
+  Unternehmens. Sie sind oft projektbezogen und gehen auf digitalem oder
+  analogem Weg ein.
 ---
 
 # Eingangsrechnungen

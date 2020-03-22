@@ -53,5 +53,18 @@ Es entstehen drei Buchungszeilen:
 Die letzte Zeile entfällt wenn die Eingangsrechnung vollständig, also zu 100% auf Projekte verbucht wurde.
 {% endhint %}
 
+## Stapelverarbeitung: Mehrere Einträge gleichzeitig bearbeiten
 
+Über die Stapelverarbeitungsfunktion können mehrere Einträge der gerade angezeigten Liste in einem Schritt bearbeitet werden.
+
+![](../.gitbook/assets/bildschirmfoto-2020-03-09-um-10.03.36.png)
+
+Es öffnet sich ein Dialog in dem ich in der Listenansich der linken Spalte Dokumente auswählen kann und im Formular in der rechten Spalte entscheide, welche Eigenschaften des Dokuments sich ändern sollen.
+
+![](../.gitbook/assets/bildschirmfoto-2020-03-09-um-10.04.22.png)
+
+{% hint style="info" %}
+**Anwendungsbeispiel**  
+Auf diese Weise können z.B. alle Buchungen, die am Monatsende an das Steuerberatungsbüro übertragen werden, in einem Schritt auf den Status "gebucht" umgestellt werden, damit sie in weiteren Verlauf nicht mehr von anderen Nutzern geändert werden.
+{% endhint %}
 
