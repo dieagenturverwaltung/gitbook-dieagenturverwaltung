@@ -23,6 +23,7 @@
   * [Vorgänge die ich beobachte](vorgaenge-1/vorgaenge-die-ich-beobachte.md)
   * [Wochenansicht der Vorgänge](vorgaenge-1/wochenansicht-der-vorgaenge.md)
 * [Projektverwaltung](projektverwaltung-1/README.md)
+  * [Projekte finden](projektverwaltung-1/projekte-finden.md)
   * [Kennzahlen und Begriffe](projektverwaltung-1/die-kennzahlen.md)
   * [Agenturleistungen in der Projektverwaltung](projektverwaltung-1/agenturleistungen-in-der-projektverwaltung.md)
   * [Reporting in der Projektverwaltung](projektverwaltung-1/reporting-in-der-projektverwaltung.md)
