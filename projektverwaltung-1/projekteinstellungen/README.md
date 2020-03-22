@@ -4,7 +4,7 @@ Im Reiter "Einstellungen" eines Projekts können verschiedene Verhaltensweisen d
 
 {% page-ref page="zugriffsrechte-in-der-projektverwaltung.md" %}
 
-{% page-ref page="./" %}
+{% page-ref page="projekteinstellungen-zeiterfassung.md" %}
 
 {% page-ref page="projekteinstellungen-benachrichtigungen.md" %}
 
