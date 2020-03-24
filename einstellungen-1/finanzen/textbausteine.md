@@ -26,3 +26,9 @@ Klick auf die Schaltfläche öffnet einen Dialog der uns erlaubt einen Textbaust
 
 ## Standardeinstellungen für Textbausteine am Etat definieren
 
+Die Standard-Textbausteine können auch für einen bestimmten überschrieben werden. Dazu werden sie in den Etat-Einstellungen konfiguriert:
+
+{% page-ref page="../../projektverwaltung-1/etats/etat-einstellungen/etat-spezifische-textbausteine.md" %}
+
+
+
