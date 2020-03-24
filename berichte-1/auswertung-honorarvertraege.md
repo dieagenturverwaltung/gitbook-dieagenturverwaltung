@@ -17,7 +17,7 @@ Die Bugets von Honorarverträgen können mit den angefallenen Leistungen auf den
 
 ![](../.gitbook/assets/bildschirmfoto-2020-03-08-um-11.45.59.png)
 
-## Anzeige von Honorarvertragsdaten im Etat-Reports
+## Anzeige von Honorarvertragsdaten im Etat-Report
 
 Im Reiter "Report" eines Etats werden auch Honorarvertragseckdaten angezeigt. 
 
