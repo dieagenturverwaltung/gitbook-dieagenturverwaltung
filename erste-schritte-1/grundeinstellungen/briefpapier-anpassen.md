@@ -65,5 +65,28 @@ USt-Id Nr.: DE1234123412 Finanzamt Hamburg
 IBAN DE20 1234 1234 1234 1234 12 BIC ABCDEFGXXX Mustersparkasse 
 {% endhint %}
 
+## Mehrspaltiger Brieffuß
+
+Mit einem kleinen Trick ist es möglich den Brieffuss in zwei oder drei Spalten laufen zu lassen. Trennt im Textfeld die Spalten mit dem Raute-Zeichen `#` voneinander:
+
+{% hint style="info" %}
+In diesem Beispiel landen alle Inhalte nach der Raute \(\#\) in der zweiten Spalte:  
+`Muster Werbeagentur GmbH  
+Wiesendamm 3 20000 Hamburg   
+Tel.: 040 - 41 1111-0   
+info@wagner-werbeagentur.de  
+www.muster-werbeagentur.de#Geschäftsführer: Max Muster  
+Registergericht Hamburg, HRB: HH 123412  
+USt-Id Nr.: DE1234123412Finanzamt Hamburg  
+IBAN DE20 1234 1234 1234 1234 12  
+BIC ABCDEFGXXX Mustersparkasse` 
+{% endhint %}
+
+So sieht die Aufteilung dann im Brieffuß aus:
+
+| Linke Spalte | Recht Spalte |
+| :--- | :--- |
+| Muster Werbeagentur GmbH Wiesendamm 3 20000 Hamburg  Tel.: 040 - 41 1111-0  info@wagner-werbeagentur.de www.muster-werbeagentur.de | Geschäftsführer: Max Muster Registergericht Hamburg, HRB: HH 123412 USt-Id Nr.: DE1234123412 Finanzamt Hamburg IBAN DE20 1234 1234 1234 1234 12 BIC ABCDEFGXXX Mustersparkasse |
+
 
 
