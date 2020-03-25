@@ -4,5 +4,5 @@ Im Reiter "Zugriffsrechte" kann der Zugriff auf ein spezifisches Projekt beschr√
 
 Wie diese Funktion in der Projektverwaltung funktioniert, erf√§hrst du hier:
 
-{% page-ref page="../projekteinstellungen/zugriffsrechte-in-der-projektverwaltung.md" %}
+{% page-ref page="projekteinstellungen/zugriffsrechte-in-der-projektverwaltung.md" %}
 

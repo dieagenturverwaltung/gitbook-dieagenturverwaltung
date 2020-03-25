@@ -1,10 +1,10 @@
 # Projekteinstellungen: Benachrichtigungen
 
-Im Reiter "Einstellungen" eines Projekts kann unter "Benachrichtigungen" konfiguriert werden, unter welchen Umständen ein Projektleiter über Budget-Überziehungen in diesem Projekt benachrichtigt werden soll.
+Im Reiter "Einstellungen" eines Projekts kann unter "Benachrichtigungen" konfiguriert werden, unter welchen Umständen der Projektleiter eines Projekts über Budget-Überziehungen in diesem Projekt benachrichtigt werden soll.
 
-![](../../.gitbook/assets/bildschirmfoto-2020-03-22-um-12.48.00.png)
+Im Reiter "Allgemeintes" gibt es ein Benutzer-Auswahlfeld "Verantwortlicher". Dieses Feld zeigt an, wer zur Zeit dieses Projekt leitet. Dieser Nutzer erhält ggf. Benachrichtigungen.
 
-Im Benutzerauswahlfeld kann angegeben werden, welcher Nutzer bei einer Budgetüberziehung benachrichtigt werden soll. Standardmässig ist das der Projektleiter, als derjenige, der das Projekt angelegt hat.
+![](../../../.gitbook/assets/bildschirmfoto-2020-03-25-um-14.55.57.png)
 
 Mit den Häkchen kann angegeben werden, ob eine Überziehung überhaupt zu einer Benachrichtigung führen soll.
 
@@ -12,7 +12,7 @@ Mit den Häkchen kann angegeben werden, ob eine Überziehung überhaupt zu einer
 Bei einigen  - z.B. internen - Projekten, ist gar kein Budgetrahmen hinterlegt. Diese Projekte sind dann immer überzogen, eine Benachrichtigung wäre daher nicht nützlich.
 {% endhint %}
 
-Mit dem Prozent-Auswahlfeld kann angegeben werden, ab wann ein Projekt den angegebenen Nutzer benachrichtigen soll.
+Mit dem Prozent-Auswahlfeld kann angegeben werden, ab wann ein Projekt den Projektleiter benachrichtigen soll.
 
 #### Verbleibendes Budget von Funktionen
 
@@ -22,7 +22,13 @@ Beispiel für ein verbleibendes Budget einer Funktionen wäre z.B.  "Grafikdesig
 
 Im Hauptmenü unter Berichte &gt; Überzogene Budgets können alle Projektüberziehungen eingesehen werden:
 
-![](../../.gitbook/assets/bildschirmfoto-2020-03-22-um-12.57.42.png)
+![](../../../.gitbook/assets/bildschirmfoto-2020-03-22-um-12.57.42.png)
+
+### Filter nach Projektleiter und nach neuesten Ereignissen
+
+Diese Liste kann für Administratoren entweder alle oder die Projekte eines bestimmten Nutzers anzeigen. Für Nicht-Administratoren zeigt sie lediglich die eigenen Projekte an.
+
+Mit dem Filter "Nur Überziehungen der letzten 24 h anzeigen" werden nur Projekte angezeigt bei denen Ereignisse in den letzten 24 h zu einer Überziehung geführt haben.
 
 ## Benachrichtigungen per E-Mail
 
