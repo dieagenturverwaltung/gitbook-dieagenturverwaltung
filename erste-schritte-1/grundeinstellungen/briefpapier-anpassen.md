@@ -90,3 +90,12 @@ So sieht die Aufteilung dann im Brieffuß aus:
 
 Analog dazu kann eine zweite Raute verwendet werden, um drei Spalten darzustellen.
 
+## Weitere Anpassungsmöglichkeiten
+
+Es ist möglich die Schriftart und den Schriftgrad \(z.B. bold\) anzupassen.  
+Ebenso kann im Brieffuß ein Logo verwendet werden.  
+  
+Diese Anpassungen sind nicht über die Web-Oberfläche möglich.   
+Sprecht gerne unserern Kundenservice dazu an:  
+info@dieagenturverwaltung.de
+
