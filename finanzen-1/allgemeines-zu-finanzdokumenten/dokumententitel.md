@@ -6,11 +6,13 @@ Ein Finanzdokument führt zwei Titel. Zum einen den Dokumententyp \(z.B. "Ausgan
 
 ## Änderung der Bezeichnung des Dokumententyps
 
-Um den Dokumententyp z.B. von "Kostenvoranschlag" in "Nachkalkulation" zu ändern, können wir einfach neben dem Bleistift auf die Bezeichnung klicken und das Feld anders beschriften.
+Um die Bezeichnung des Dokumententyps z.B. von "Kostenvoranschlag" in "Nachkalkulation" zu ändern, können wir einfach neben dem Bleistift auf die Bezeichnung klicken und das Feld anders beschriften.
 
 {% hint style="info" %}
 **Hinweis**: Im Gegensatz zu den vorgeschlagenen Bezeichnungen \(z.B: "Ausgangsrechnung"\) werden manuell geänderte Bezeichnungen nicht automatisch in andere Sprachen \("Invoice"\) übersetzt, wenn die Sprache in den Druckversionseinstellungen geändert wird.
 {% endhint %}
+
+Diese Möglichkeit ist hauptsächlich Spezialanforderungen bestimmter Kunden an eure Dokumente geschuldet. Im Alltag findet sie selten Anwendung.
 
 ## Änderung des Betreffs
 
