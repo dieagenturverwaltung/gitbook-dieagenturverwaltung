@@ -35,6 +35,14 @@ Wie ihr Projekte anlegt, konfiguriert, überwacht und abrechnet erfahrt ihr auf 
 
 ## Projektstatus
 
+{% hint style="info" %}
+**Statuswechsel nur mit bestimmten Berechtigungen ermöglichen**  
+Es kann auch definiert werden, dass ein Nutzer nur unter bestimmten Bedingungen - z.B. nur mit Administrator-Rechten -  einen Status ändern kann.   
+Ein Anwendungsszeario wäre z.B. das erneute Öffnen eines bereits geschlossenen Projekts nur durch Administratoren zu erlauben.  
+Sprecht unseren Kundenservice an wenn ihr solche Regeln in euren Abläufen habt:  
+info@dieagenturverwaltung.de
+{% endhint %}
+
 ## Was ist ein Projekt?
 
 ## Wann sollte ein Projekt unterteilt werden?
