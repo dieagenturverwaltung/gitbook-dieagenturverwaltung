@@ -33,7 +33,18 @@ Geplante Budgets
 Benutzerdefinierte Berichte  
 Benutzerdefinierte Filter
 
+## Impressum
 
+Dieses Handbuch wird herausgegeben von 
+
+Die Agenturverwaltung  
+Eschelsweg 4  
+22767 Hamburg  
+  
+**Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**  
+Achim Köllner
+
+[Zum Impressum](https://www.dieagenturverwaltung.de/impressum/)
 
 
 
