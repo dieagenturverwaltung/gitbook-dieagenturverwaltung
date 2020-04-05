@@ -31,3 +31,17 @@ Neue Funktionen werden in der übergeordneten Agenturpreisliste hinzugefügt. Di
 
 {% page-ref page="../../erste-schritte-1/grundeinstellungen/funktionen.md" %}
 
+## Vorlagen für Etat-Preislisten am Kunden definieren
+
+Preislistenvorlagen können auch am Kunden definiert werden. Wir empfehlen dies jedoch nur in Ausnahmefällen, hier steht wie es geht:
+
+{% page-ref page="../untitled/einstellungen.md" %}
+
+
+
+
+
+
+
+
+

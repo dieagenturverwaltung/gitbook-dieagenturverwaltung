@@ -38,6 +38,7 @@
     * [Finanzen](projektverwaltung-1/untitled/finanzen.md)
     * [Agenturleistung](projektverwaltung-1/untitled/agenturleistung.md)
     * [Fremdleistung](projektverwaltung-1/untitled/fremdleistung.md)
+    * [Einstellungen](projektverwaltung-1/untitled/einstellungen.md)
     * [Notizen](projektverwaltung-1/untitled/notizen.md)
     * [Wiedervorlagen](projektverwaltung-1/untitled/wiedervorlagen.md)
   * [Etats](projektverwaltung-1/etats/README.md)
