@@ -22,7 +22,9 @@ Das heißt, wenn wir ein Projekt zu einem Kunden anlegen, landet das einfach in 
 
 ## Der Etat-Status
 
-Ein Etat kann über den Status von "aktiv" auf "geschlossen" gestellt werden. Die im Etat definierten Projekte gelten dann unabhängig von deren Status auch als geschlossen. D.h. es können keine weiteren Arbeitszeiten oder Fremdleistungen darauf gebucht werden, neue Finanzdokumente wie Kostenvoranschläge, Gutschriften oder Rechnungen können auch nicht mehr für diese Projekte erstellt werden
+Ein Etat kann über den Status von `aktiv` auf `geschlossen` gestellt werden. Die im Etat definierten Projekte gelten dann unabhängig von deren Status auch als geschlossen. D.h. es können keine weiteren Arbeitszeiten oder Fremdleistungen darauf gebucht werden, neue Finanzdokumente wie Kostenvoranschläge, Gutschriften oder Rechnungen können auch nicht mehr für diese Projekte erstellt werden.
+
+Der Status `ruhend` dokumentiert, dass ein Etat zur Zeit zwar nicht geschlossen ist, sich jedoch wie ein geschlossener Etat verhält, d.h. es können z.B. auf die Projekte des Etats keine Zeiten darauf gebucht werden.
 
 {% hint style="info" %}
 **Statuswechsel nur mit bestimmten Berechtigungen ermöglichen**  
