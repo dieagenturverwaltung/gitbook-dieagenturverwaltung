@@ -52,5 +52,13 @@ Unterhalb der Zeiterfassungsliste könnt ihr die Einträge des Zeitraums den ihr
 
 ![](../.gitbook/assets/bildschirmfoto-2019-12-05-um-10.16.10.png)
 
+## Mehrere Einträge gleichzeitig bearbeiten
+
+Über den Button "Stapelbearbeitung" rechts oben öffnet sich ein Dialog mit einer Liste der auf dieser Seite sichtbaren Einträge.
+
+![](../.gitbook/assets/bildschirmfoto-2020-04-05-um-09.54.58.png)
+
+Die mit dem Häkchen links markierten Einträge, können alle in einem Schritt geändert werden. Dabei kann je nach Kontext z.B. das Projekt geändert werden, die Funktion oder Tätigkeit, oder - in Stundenlisten eines Projekts zum Beispiel - der Mitarbeiter.
+
 
 
