@@ -29,9 +29,13 @@ Ein Projekt ist darüber hinaus die Grundlage für viele operative Prozesse in d
 
 Wie ihr Projekte anlegt, konfiguriert, überwacht und abrechnet erfahrt ihr auf den Unterseiten.
 
-## Filter in der Projektliste
-
 ## Die Projektnummer
+
+Die Projektnummer ist die eindeutige Kennung, die beim Erstellen eines Projekts nach dem von euch vorgegebenen Muster erzeugt wird. Diese Nummer kann z.B. an Lieferanten herausgegeben werden damit diese bei der Rechnungsstellung später auf das Projekt verweisen können. So wird bei der Belegerfassung viel Zeit gespart.
+
+Nach welchem Muster eine Projektnummer aufgebaut sein kann, erfährst du hier:
+
+{% page-ref page="../../erste-schritte-1/grundeinstellungen/nummernsysteme.md" %}
 
 ## Projektstatus
 
@@ -49,9 +53,20 @@ Sprecht unseren Kundenservice an wenn ihr solche Regeln in euren Abläufen habt:
 info@dieagenturverwaltung.de
 {% endhint %}
 
-## Was ist ein Projekt?
-
 ## Wann sollte ein Projekt unterteilt werden?
 
+Projekte in Teilschritte zu zerlegen macht aus unterschiedlichsten Gründen Sinn, beispielsweise weil sich Teilabschnitte leichter kalkulieren, beim Einkauf freigeben und abrechnen lassen.
+
+Weitere Hinweise dazu in unserem Blog:  
+[https://www.dieagenturverwaltung.de/blog/projekte-richtig-unterteilen/](https://www.dieagenturverwaltung.de/blog/projekte-richtig-unterteilen/)
+
 ## Auswertung mehrerer Projekte
+
+Um Gruppen von Projekten auszuwerten bieten sich entweder Etats an oder falls die Projekte aus bestimmten Gründen nicht zusammen in einem Etat liegen können Benutzerdefinierte Filter. Mit diesen Filtern ist es zum Beispiel möglich alle Projekte einer bestimmten Branche oder alle Media-Projekte auszuwerten.
+
+Wie Benutzerdefinierte Filter verwendet werden steht hier:
+
+{% page-ref page="../../einstellungen-1/berichte/benutzerdefinierte-filter.md" %}
+
+
 
