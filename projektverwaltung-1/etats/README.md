@@ -20,3 +20,15 @@ Etats benötigen wir, um Gruppen von Projekten auswerten zu können. Außerdem s
 
 Das heißt, wenn wir ein Projekt zu einem Kunden anlegen, landet das einfach in einem Standard-Etat "Projekte". Hier gilt für jedes Projekt dieses Kunden dann die gleiche Preisliste.
 
+## Der Etat-Status
+
+Ein Etat kann über den Status von "aktiv" auf "geschlossen" gestellt werden. Die im Etat definierten Projekte gelten dann unabhängig von deren Status auch als geschlossen. D.h. es können keine weiteren Arbeitszeiten oder Fremdleistungen darauf gebucht werden, neue Finanzdokumente wie Kostenvoranschläge, Gutschriften oder Rechnungen können auch nicht mehr für diese Projekte erstellt werden
+
+{% hint style="info" %}
+**Statuswechsel nur mit bestimmten Berechtigungen ermöglichen**  
+Es kann auch definiert werden, dass ein Nutzer nur unter bestimmten Bedingungen - z.B. nur mit Administrator-Rechten -  einen Status ändern kann.   
+Ein Anwendungsszeario wäre z.B. das erneute Öffnen eines bereits geschlossenen Etats nur durch Administratoren zu erlauben.  
+Sprecht unseren Kundenservice an wenn ihr solche Regeln in euren Abläufen habt:  
+info@dieagenturverwaltung.de
+{% endhint %}
+

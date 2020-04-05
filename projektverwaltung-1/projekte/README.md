@@ -31,9 +31,15 @@ Wie ihr Projekte anlegt, konfiguriert, überwacht und abrechnet erfahrt ihr auf 
 
 ## Filter in der Projektliste
 
-## Projektnummer
+## Die Projektnummer
 
 ## Projektstatus
+
+Ein Projekt kann über den Status von `aktiv` auf `geschlossen` gestellt werden wenn es abgeschlossen ist. Es können dann keine weiteren Arbeitszeiten oder Fremdleistungen darauf gebucht werden. Neue Finanzdokumente wie Kostenvoranschläge, Gutschriften oder Rechnungen können auch nicht mehr für diese Projekte erstellt werden.
+
+Ein Projekt im Status `abzurechnen` signalisiert, dass die Arbeiten abgeschlossen sind und das Projekt darauf wartet von der zuständigen Person abgerechnet zu werden.
+
+Der Status `ruhend` dokumentiert, dass ein Projekt zur Zeit zwar nicht geschlossen ist, sich jedoch wie ein geschlossenes Projekt verhält, d.h. es können z.B. keine Zeiten darauf gebucht werden.
 
 {% hint style="info" %}
 **Statuswechsel nur mit bestimmten Berechtigungen ermöglichen**  

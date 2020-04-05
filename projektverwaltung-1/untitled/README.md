@@ -16,3 +16,9 @@ Jeder Kunde hat ein einzigartiges Kürzel, welches für Projekt- und Rechnungsnu
 
 Da an einem Kunden-Datensatz alle Etat- und Projekte-Informationen zusammenkommen, lassen sich hier Kunden-weite Reportings und Berichte anzeigen und auswerten.
 
+## Der Kunden-Status
+
+Ein Kunde kann über den Status von "aktiv" auf "ruhend" gestellt werden. Alle Etats sowie Projekte dieses Kunden gelten dann unabhängig von deren Status auch als geschlossen. D.h. es können keine weiteren Arbeitszeiten oder Fremdleistungen darauf gebucht werden, neue Finanzdokumente wie Kostenvoranschläge, Gutschriften oder Rechnungen können auch nicht mehr für diese Projekte erstellt werden.
+
+Der Status kann jederzeit zurückgestellt werden.
+
