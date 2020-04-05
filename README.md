@@ -4,7 +4,7 @@
 
 ## Gliederung
 
-Du findest zu jedem Menüeintrag in der Agenturverwaltung ein entsprechendes Kapitel in dieses Handbuch.
+Du findest zu jedem Menüeintrag in der Agenturverwaltung ein entsprechendes Kapitel in diesem Handbuch.
 
 ## Suche
 
@@ -22,11 +22,11 @@ Wenn du ein neuer Nutzer bist, lies dir zunächst die ersten Schritte durch:
 
 ## Daten in den Abbildungen und Beispielen
 
-Alles Daten in Abbildungen und Beispielen sind frei erfunden. Wir verweisen in manchen Fällen auf die fiktive, von uns erfundene Agentur "Hase Kommunikation". Diese Agentur existiert nicht, ebensowenig die in Beispielen verwendeten Nutzer, ihre Telefonnummern und E-Mail-Adressen.
+Alle Daten in Abbildungen und Beispielen sind frei erfunden. Wir verweisen in manchen Fällen auf die fiktive, von uns erfundene Agentur "Hase Kommunikation". Diese Agentur existiert nicht, ebensowenig die in Beispielen verwendeten Nutzer, ihre Telefonnummern und E-Mail-Adressen.
 
 ## Feststehende Begriffe
 
-Wir schreiben bestimmte Wörter gross, wenn sie feststehende Begrifffe repräsentieren.  
+Wir schreiben bestimmte Wörter groß, wenn sie feststehende Begrifffe repräsentieren.  
 Zum Beispiel:  
 Die Agenturverwaltung  
 Geplante Budgets  
