@@ -1,3 +1,7 @@
+---
+description: Gebrauchsanweisung für die Cloud-Agentursoftware "Die Agenturverwaltung"
+---
+
 # Über dieses Handbuch
 
 ![](.gitbook/assets/bildschirmfoto-2020-03-08-um-12.58.10.png)
