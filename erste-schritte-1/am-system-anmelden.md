@@ -57,9 +57,9 @@ Hat ein neu angelegter Nutzer bisher noch gar kein Passwort so kannst du ihm ein
 * Das Passwort sollte nirgendwo im Klartext notiert werden.
 * Das Passwort sollte niemand anderem als dem Nutzer bekannt sein.
 * Das Passwort sollte neben Buchstaben auch Zahlen und Sonderzeichen enthalten.
-* Für jede Applikation sollte ein eigenes Passwort verwendet werden.
-* Passwörter können in einem geeigneten Passwort-Safe z.B. 1Password organisiert werden.
-* Das Passwort sollte gelegentlich - z.B. alle paar Wochen oder nach Aufforderung durch den Systemadministrator - geändert werden.
+* Für jede Applikation sollte ein eigenes Passwort verwendet werden. **Auf keinen Fall sollte das Passwort für Die Agenturverwaltung auch z.B. für Banking, Social Media Accounts oder E-Mail-Postfächer verwendet werden!**
+* Wie empfehlen Passwörter in einem geeigneten, verschlüsselten Passwort-Safe z.B. [1Password](https://1password.com/de/) zu organisieren.
+* Das Passwort sollte gelegentlich - z.B. alle paar Wochen oder nach Aufforderung durch den Systemadministrator - geändert werden. Die Agenturverwaltung weist dich gelegentlich darauf hin.
 
 {% hint style="info" %}
 Passwörter werden  in unserer Datenbank destruktiv verschlüsselt gespeichert. Selbst unser Kundenservice kann diese Passwörter nicht mehr einsehen oder entschlüsseln.
