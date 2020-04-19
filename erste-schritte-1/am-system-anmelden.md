@@ -68,3 +68,34 @@ Passwörter werden  in unserer Datenbank destruktiv verschlüsselt gespeichert. 
 Bitte sende keine Passwörter per E-Mail an uns.**
 {% endhint %}
 
+## **Ich kann mich nicht anmelden**
+
+Sollte das System deine Anmeldung verweigern, wird dir eine Fehlermeldung angezeigt:
+
+#### Dieser Nutzer ist nicht bekannt
+
+* Hast Du dich bei der URL vertippt?
+* Ist dein Benutzer gesperrt worden?
+* Ist dein Benutzer gelöscht oder noch nicht angelegt worden?
+
+#### Der Zugang für diesen Account temporär deaktivert
+
+Der kostenlose Testzeitraum für Die Agenturverwaltung ist abgelaufen.  
+Sprich den Kundenservice an: [info@dieagenturverwaltung.de](mailto:info@dieagenturverwaltung.de)
+
+#### Bitte gib deine Emailadresse und dein Passwort an
+
+Du hast kein Passwort angegeben.
+
+#### Die Zugangsdaten wurden vom System nicht akzeptiert
+
+Möglicherweise hast Du das falsche Passwort angegeben oder eine E-Mail-Adresse die nicht im System hinterlegt war?
+
+#### Deine IP-Adresse wurde wegen zu vielen Fehlversuchen vorübergehend gesperrt
+
+Solltest Du diese Meldung sehen ohne dass du beim Anmelden mehrere Fehlversuche hattest, wende dich an den Kundenservice: [info@dieagenturverwaltung.de](mailto:info@dieagenturverwaltung.de)
+
+## Ich kann mich anmelden, sehe aber keine Menüpunkte
+
+Möglicherweise wurden dir noch keine Berechtigungen erteilt. Sprich einen Administrator an.
+
