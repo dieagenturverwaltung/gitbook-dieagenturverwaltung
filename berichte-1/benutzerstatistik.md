@@ -8,7 +8,7 @@ Die rote bzw. grüne Statusampel zeigt an, ob ein Nutzer alle Stunden der im Zei
 
 Ein Klick auf das Brief-Icon öffnet eine vorausgefülle E-Mail mit einer Erinnerung, fehlende Zeiten im hier ausgewählten Zeitraum zu erfassen, an den entsprechenden Nutzer.
 
-![](../.gitbook/assets/benutzerstatistik.png)
+![](../.gitbook/assets/benutzerstatistik%20%281%29.png)
 
 In diesem Video werden die Kennzahlen und Funktionen der Benutzerstatistik erläutert.
 
