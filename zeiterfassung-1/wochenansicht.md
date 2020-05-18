@@ -6,7 +6,7 @@ description: >-
 
 # Wochenansicht
 
-In diesem Video erfahren wir, wie wir einen Zeiterfassungseintrag in der Wochenansicht anlegen und Zeiten für eine ganze Woche eintragen können. Solltet ihr diesen Inhalt lieber lesen wollen, scrollt einfach weiter nach unten.
+In diesem Video erfahren wir, wie wir einen Zeiterfassungseintrag in der Wochenansicht anlegen und Zeiten für eine ganze Woche eintragen können. Solltet ihr diesen Inhalt lieber lesen wollen, scrollt einfach über das Video hinweg.
 
 {% embed url="https://www.youtube.com/watch?v=ikMA0O\_q6GM" caption="Screencast: Zeiterfassung in der Wochenansicht - schnell und übersichtlich" %}
 
