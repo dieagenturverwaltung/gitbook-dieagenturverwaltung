@@ -6,7 +6,12 @@ description: >-
 
 # Meine Stundenliste
 
- 
+In diesem Video erfahren wir etwas über die Möglichkeiten der Zeiterfassungsliste, wie wir einen Zeiterfassungseintrag anlegen und wie wir Einträge bearbeiten können. Solltet ihr diesen Inhalt lieber lesen wollt, scrollt einfach ein Stück nach unten.
+
+{% embed url="https://www.youtube.com/watch?v=efr9tJUFgUo" %}
+
+  
+Über das Menü  Zeiterfassung &gt; Meine Stundenliste gelangen wir zu unserer Stundenliste. 
 
 ![](../.gitbook/assets/bildschirmfoto-2019-11-18-um-11.45.06.png)
 

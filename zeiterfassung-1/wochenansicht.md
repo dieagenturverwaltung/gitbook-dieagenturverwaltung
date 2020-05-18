@@ -6,6 +6,10 @@ description: >-
 
 # Wochenansicht
 
+In diesem Video erfahren wir, wie wir einen Zeiterfassungseintrag in der Wochenansicht anlegen und Zeiten für eine ganze Woche eintragen können. Solltet ihr diesen Inhalt lieber lesen wollen, scrollt einfach weiter nach unten.
+
+{% embed url="https://www.youtube.com/watch?v=ikMA0O\_q6GM" caption="Screencast: Zeiterfassung in der Wochenansicht - schnell und übersichtlich" %}
+
 Wir gelangen zur Wochenansicht über den Menüpunkt  Zeiterfassung &gt; Meine Stundenliste und wählen hier die Registerkarte "Wochenansicht" aus.  
 
 ![](../.gitbook/assets/bildschirmfoto-2019-05-13-um-11.33.16.png)
