@@ -8,6 +8,10 @@ description: >-
 
 Das ist vor allem sinnvoll, wenn wir innerhalb eines Tages viel zwischen unterschiedlichen Projekten hin und her springen und unsere Zeiten möglichst exakt erfassen wollen.
 
+Um die Timer-Funktion zu nutzen, muss sie unter Einstellungen &gt; Zeiterfassung aktiviert sein:
+
+![](../.gitbook/assets/timer.png)
+
 Ein Timer ist eine Stoppuhr, die jeder Benutzer für sich laufen lassen kann, um seine Arbeitszeit zu erfassen. Der Timer kann auf verschiedene Weise gestartet werden.
 
 In dem nachfolgenden Video erfahren wir, wie die Zeiterfassung mit dem Timer funktioniert. Solltet ihr diesen Inhalt lieber lesen wollen, scrollt einfach über das Video hinweg.

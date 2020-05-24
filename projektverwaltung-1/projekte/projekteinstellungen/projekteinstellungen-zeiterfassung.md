@@ -12,6 +12,14 @@ Innerhalb eines Kampagnen-Etats wurde ein Projekt für Media angelegt, dass nur 
 Ihr möchtet ein Projekt pausieren, jedoch nicht auf ruhend oder geschlossen stellen, da noch Fremdleistungen erfasst werden sollen und das Projekt auch weiterhin in allen Statistiken auftauchen soll.
 {% endhint %}
 
+## Zeiterfassung an den Kostenvoranschlagspositionen aktivieren
+
+Die Zeiterfassung an Kostenvoranschlagspositionen kann unter Einstellungen &gt; Zeiterfassung systemweit aktiviert werden:
+
+![](../../../.gitbook/assets/position.png)
+
+Im Anschluss kann definiert werden, an welchen Kostenvoranschlagspositionen Zeit erfasst werden darf.
+
 ## Zeiterfassung an den Kostenvoranschlagspositionen eines Projekts
 
 Um innerhalb eines Projekts genauer aufschlüsseln zu können, in welchem Zusammenhang Leistungen angefallen sind, kann auch Zeit an bestimmten Kostenvoranschlagspositionen erfasst werden.
