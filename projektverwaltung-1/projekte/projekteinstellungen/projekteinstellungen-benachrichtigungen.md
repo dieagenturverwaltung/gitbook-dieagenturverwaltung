@@ -4,7 +4,7 @@ Im Reiter "Einstellungen" eines Projekts kann unter "Benachrichtigungen" konfigu
 
 Im Reiter "Allgemeintes" gibt es ein Benutzer-Auswahlfeld "Verantwortlicher". Dieses Feld zeigt an, wer zur Zeit dieses Projekt leitet. Dieser Nutzer erhält ggf. Benachrichtigungen.
 
-![](../../../.gitbook/assets/bildschirmfoto-2020-03-25-um-14.55.57.png)
+![](../../../.gitbook/assets/bildschirmfoto-2020-05-24-um-13.44.00.png)
 
 Mit den Häkchen kann angegeben werden, ob eine Überziehung überhaupt zu einer Benachrichtigung führen soll.
 

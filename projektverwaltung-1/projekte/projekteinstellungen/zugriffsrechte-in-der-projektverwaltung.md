@@ -12,17 +12,15 @@ Um aber die Berechtigung für ein spezifisches Projekt oder Etats auf spezifisch
 
 Über das Dropdown-Element "Benutzer, die dieses Projekt sehen können" kann die Sichtbarkeit auf einzelne Benutzer eingeschränkt werden. Dazu werden nacheinander die Benutzer, welche Zugriffs erhalten sollen, ausgewählt. 
 
-Das hat folgende Auswirkungen: **@Achim**
-
-* Zeiterfassung
-* Projekt ist nicht sichtbar \(Zeiterfassung, Finanzen, Dashboard, Reporting, ...\)
-* Beispiel PItch
-
-\*\*\*\*
+Andere Benutzer der Agenturverwaltung \(mit Ausnahme von Administratoren\) können dieses Projekt dann nicht mehr sehen.
 
 {% hint style="info" %}
-Ihr wollt für euch oder die Mitarbeiter eures Teams persönliche Projekte anlegen, ohne dabei in der Projektübersicht den Überblick zu verlieren?
-
-Dann wählt lediglich euren Namen bzw. den Namen eures Teammitglieds aus. Andere Benutzer der Agenturverwaltung können dieses Projekt dann nicht mehr sehen.
+**Anwendungsszenario "Pitch"**  
+Ihr arbeitet mit einem kleinen Team an einer geheimen Wettbewerbspräsentation \(Pitch\) und möchtet vermeiden, dass alle anderen Nutzer den Namen dieses Projekts in der Zeiterfassung sehen können.  
+  
+**Anwendungsszenario "Verkürzung der Projektliste"**  
+Ihr könnt durch die Verwaltung von Projektteams die Projektlisten in der Zeiterfassung und anderern Übersichten für die Teammitglieder deutlich verkürzen.
 {% endhint %}
+
+Wir empfehlen von dieser Funktion nur in wirklichen Ausnahmefällen gebrauch zu machen, da sie die Komplexität für alle \(Ich kann mein Projekt nicht finden?\) signifikant erhöht.
 
