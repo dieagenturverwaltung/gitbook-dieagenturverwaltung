@@ -6,6 +6,14 @@ Diese Liste erlaubt uns, zu überprüfen, ob wir für jede kalkulierte Position 
 
 ![](../../../.gitbook/assets/bildschirmfoto-2020-06-03-um-18.57.30.png)
 
+{% hint style="info" %}
+**Diese Darstellung zeigt anhand von Ampel-Farben die grösser der Margen an.**
+
+a\) unter 0 % =&gt; rot  
+b\) 0% bis 20% =&gt; gelb  
+c\) über 20% =&gt; grün
+{% endhint %}
+
 ## Geplante Budgets automatisch aus KV-Positionen erzeugen
 
 Mit der Schaltfläche unterhalb dieser Liste können wir einen Assistenten öffnen, der uns dabei hilft automatisch aus allen kalkulierte Positionen eines Kostenvoranschlags Geplante Budgets zu erzeugen. Anschliessend können diese Budgets im Tab "Forecasting" bearbeitet werden.
