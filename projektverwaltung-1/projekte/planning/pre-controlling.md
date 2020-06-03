@@ -4,11 +4,11 @@ Unter Pre-Controlling verstehen wir in diesem Fall die Gegenüberstellung zwisch
 
 Diese Liste erlaubt uns, zu überprüfen, ob wir für jede kalkulierte Position eine ausreichende Marge erzielen werden.
 
-![](../../../.gitbook/assets/pre-controlling.png)
+![](../../../.gitbook/assets/bildschirmfoto-2020-06-03-um-18.57.30.png)
 
-## Geplante Budgets automatisch erzeugen
+## Geplante Budgets automatisch aus KV-Positionen erzeugen
 
-Mit der Schaltfläche unterhalb der Liste können wir einen Assistenten öffnen, der uns dabei hilft automatisch aus allen kalkulierte Positionen eines Kostenvoranschlags Geplante Budgets zu erzeugen. Anschliessend können diese Budgets im Tab "Forecasting" bearbeitet werden.
+Mit der Schaltfläche unterhalb dieser Liste können wir einen Assistenten öffnen, der uns dabei hilft automatisch aus allen kalkulierte Positionen eines Kostenvoranschlags Geplante Budgets zu erzeugen. Anschliessend können diese Budgets im Tab "Forecasting" bearbeitet werden.
 
 ![](../../../.gitbook/assets/bildschirmfoto-2020-05-24-um-14.55.03.png)
 

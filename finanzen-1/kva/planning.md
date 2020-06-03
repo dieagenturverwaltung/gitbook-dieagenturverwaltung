@@ -1,5 +1,7 @@
 # Budgetplanung
 
+![](../../.gitbook/assets/bildschirmfoto-2020-06-03-um-19.08.55.png)
+
 Geplante Budgets für Agentur- und Fremdleistung können auch am Kostenvoranschlag definiert werden. Sie verhalten sich genau so wie am Projekt.
 
 {% page-ref page="../../projektverwaltung-1/projekte/planning/" %}
