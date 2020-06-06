@@ -32,9 +32,22 @@ Die Netto-Summe kumuliert noch einmal alle Beträge.
 
 #### Mehrwertsteueranteil und -satz
 
-Ist das Dokument eine Ausgangsrechnung oder Gutschrift, so kann hier die Mehrwertsteuer eingestellt werden.  
-Die Voreinstellungen beziehen sich auf den deutschen Markt, sollte dein Unternehmen z.B. in Österreich sitzen, lass uns das wissen, wir konfigurieren dann die entsprechenden Mehrwertsteuersätze für dich.   
-Den Kundenservice erreichst du hier: info@dieagenturverwaltung.de
+Handelt es sich beim Dokument um eine Ausgangsrechnung oder Gutschrift, so kann hier der Mehrwertsteuersatz eingestellt werden, der Mehrwertsteueranteil errechnet sich dann automatisch anhand Netto-Summe abzügl. Netto-Abzüge.  
+Die Voreinstellungen beziehen sich auf den deutschen Markt, sollte dein Unternehmen z.B. in Österreich sitzen, kannst Du im Haupt-Menü rechts oben auf Einstellungen klicken und dort in der Rubrik "Finanzen" auf die Kachel "Mehrwertsteuersätze" klicken.  Hier kann das Land, in dem dein Unternehmen registriert ist eingestellt werden.
+
+![](../../.gitbook/assets/bildschirmfoto-2020-06-05-um-14.47.59.png)
+
+{% hint style="info" %}
+**Wechselnde gesetzliche Mehrwertsteuersätze**  
+In Deutschland kam es 2007, 2020 und 2021 aufgrund von Gesetzesänderungen zu wechselnden Mehrwersteuersätzen. Diese spiegeln sich auch in der Agenturverwaltung wieder.  
+Wird eine Rechnung beispielsweise im Mai 2020 erstellt, wird automatisch der im Mai 2020 gültige Mehrwersteuersatz verwendet.   
+**Wichtig**: Wird das Datum eines bereits erstellten Dokuments so geändert, dass sich daraus eine Änderung der Mehrwertsteuer ergibt, wird diese nicht autmatisch geändert. Statt dessen wird der Nutzer mit einem prominenten Hinweis konfrontiert den Mehrwertsteuersatz zu ändern.
+{% endhint %}
+
+{% hint style="info" %}
+**Achtung bei Leistungszeiträumen, die über den Gültigkeitszeitraum eines Mehrwertsteuersatzes hinweg ziehen!**   
+Die Mehrwertsteuer bezieht sich auf den Leistungszeitraum der Rechnung, daher macht es keinen Sinn Rechnungen über einen Leistungszeitraum zu stellen, der einen Wechsel der Mehrwertsteuersätze mit sich bringt - z.B. von 01.05.2020 bis 30.11.2020. Wir empfehlen in solchen Fälllen zwei Rechnungen zu erstellen. Also z.B. für den Zeitraum 01.05.2020 - 30.06.2020 und 01.07.2020 bis 30.11.2020.
+{% endhint %}
 
 #### Brutto Abzüge
 
