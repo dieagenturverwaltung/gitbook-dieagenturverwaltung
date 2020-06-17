@@ -6,7 +6,7 @@ description: >-
 
 # Periodische Teilabrechnung \(Retainer\)
 
-## Was ist eine Periodisch Teilabrechnung?
+## Was ist eine periodische Teilabrechnung?
 
 Angenommen ihr habt einen Beratungsvertrag mit einem Kunden abgeschlossen, der über ein Jahr läuft und bei dem vereinbart wurde, dass monatlich ein Zwölftel der Agentur- und Fremdleistung abgerechnet werden.   
 Zusätzlich habt ihr dem Kunden einen Rabatt von 1.000 EUR gewäht.  
