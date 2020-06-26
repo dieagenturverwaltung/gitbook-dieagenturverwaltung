@@ -53,3 +53,7 @@ Mehr zu Abzügen findet sich hier:
 
 {% page-ref page="../allgemeines-zu-finanzdokumenten/der-summenblock-am-ende-des-dokuments.md" %}
 
+### Was tun wenn Rechnungsdatum und Leistungszeitraum nicht zusammenfallen?
+
+Die MwSt im System wird anhand des gewählten Rechnungsdatums vorgeschlagen, relevant ist jedoch der Leistungszeitraum. Solltet Ihr eine auf Juni datierte Rechnung für eine Leistung im Juli erstellen wollen, könnt ihr das Datum der Rechnung zunächst auf Juli stellen, dann die MwSt von 16% auswählen und anschliessend das Datum wieder zurückdatieren. Ihr erhaltet dann zwar eine Warnung, könnt das Dokument so jedoch trotzdem speichern.
+
