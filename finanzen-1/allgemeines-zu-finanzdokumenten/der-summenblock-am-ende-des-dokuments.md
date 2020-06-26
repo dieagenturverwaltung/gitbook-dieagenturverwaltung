@@ -53,6 +53,8 @@ Die Mehrwertsteuer bezieht sich auf den Leistungszeitraum der Rechnung, daher ma
 
 Es ist möglich einen oder mehrere Brutto-Abzüge zu definieren, sie verhalten sich wie Netto-Abzüge, allerdings beziehen sie sich auf die Netto-Summe zzgl. Mehrwertsteuer.
 
+Brutto-Abzüge machen z.B. Sinn wenn eine Akonto-Rechnung \(aufgrund einer gesetzlichen MwSt-Umstellung\) mit einem anderen MwSt-Satz erstellt wurde als die Schlussrechnung. Sie kann dann mit zwei Bruttoabzügen \(einmal der Nettobetrag der Akonto-Rechnung, einmal der MwSt-Anteil der Akonto-Rechnung\) von der Gesamtsumme der Schlussrechnung abgezogen werden.
+
 #### Brutto-Summe
 
 Die Brutto-Summe addiert die Netto-Summe, die Mehrwertsteuer und subtrahiert ggf. Brutto-Abzüge.
