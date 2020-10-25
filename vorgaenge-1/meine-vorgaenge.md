@@ -20,7 +20,9 @@ Selbst wenn ein Vorgang nur für den Autor angelegt ist, er ist im Projekt und -
 
 ### Erstellen von Vorgängen
 
-Mit einem Klick auf den Button "+ neuen Vorgang anlegen" können ein oder mehrere Vorgänge über den Schnelleingabe-Wizard erstellt werden.
+Mit einem Klick auf den Button "+ neuen Vorgang anlegen" kann ein Vorgang angelegt werden.
+
+Die Auswahlfeld direkt rechts am Schalter erlaubt auch das Erstellen mehrerer Vorgänge über den Schnelleingabe-Wizard:
 
 ![](../.gitbook/assets/bildschirmfoto-2019-12-05-um-10.47.14.png)
 
@@ -29,6 +31,26 @@ In dem großen Freitextfeld können gleich mehrere Vorgänge zeilenweise angeleg
 Die Werte der anderen Felder \(Status, Priorität, Beginnt am, Projekt\) werden an allen Vorgängen hinterlegt. 
 
 Mit Klick auf den Speichern-Button werden die Vorgänge angelegt.
+
+### 
+
+### Vorgänge aus Positionen eines Kostenvoranschlags erzeugen
+
+Im Auswahlfeld "Neuer Vorgang" gibt es auch die Optione "Vorgänge aus KV-Positionen erstellen". Hier kann ein Kostenvoranschlag gesucht und ausgewählt werden. Iim nächsten Schritt werden dann Positionen dieses KVs ausgewählt und mit einem Klick in Vorgänge umgewandelt. 
+
+Befindet sich der Nutzer in der Liste der Vorgänge eines Projekts, werden diese Vorgänge in diesem Projekt angelegt. Ansonsten im Projekt, des ausgewählten Kostenvoranschlags. Liegt auch hier kein Projekt vor, so werden die Vorgänge ohne Projekt erzeugt.
+
+[https://youtu.be/cxFMR1vE-wA](https://youtu.be/cxFMR1vE-wA)
+
+### Zeit an Vorgängen erfassen
+
+Innerhalb eines Projekts kann Zeit auch an Vorgängen erfasst werden. Dazu legt man einen Vorgang an und aktiviert den Schalter "Vorgang für die Zeiterfassung zur Verfügung stellen".
+
+Im Zeiterfassungsdialog, wird dann nach der Auswahl des Projekts abgefragt, zu welchem Vorgang der Zeiterfassungseintrag gehört:
+
+{% embed url="https://youtu.be/Q6MbNSeFPZw" %}
+
+An Vorgängen erfasste Zeiten können im Reiter "Agenturleistungen" eines Kunden, Etats oder Projekts ausgewertet werden.
 
 ### Bearbeiten von Vorgängen
 
