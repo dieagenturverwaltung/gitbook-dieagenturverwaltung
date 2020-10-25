@@ -1,3 +1,9 @@
+---
+description: >-
+  Vorgänge können verwendet werden um Projekte in Abschnitte zu unterteilen oder
+  Aufgaben innerhalb des Teams zu verwalten.
+---
+
 # Meine Vorgänge
 
 Eine Übersicht über alle, mir zugewiesenen Vorgänge erhalte ich in auf der Seite "Meine Vorgänge", welche ich über die Navigation erreichen kann.
@@ -114,4 +120,14 @@ Hier werden deine eigenen Vorgänge und die Vorgänge anderer Nutzer die du beob
 Einen guten Überblick über aktuell relevante Vorgänge erhält man auch auf dem persönlichen Dashboard. In zwei Widget werden zum einen alle für mich freigegebenen, **fälligen Vorgänge,** sortiert nach ihrer Fälligkeit, angezeigt. Dies hilft jene Vorgänge zu identifizieren, welche aktuell deine Aufmerksamkeit benötigen. In dem zweiten Widget "**Meine Vorgänge**" werden alle mir zugewiesenen Vorgänge, gemäß ihrer Sortierung in der Registerkarte "Meine Vorgänge" angezeigt. Über den "Alles anzeigen &gt;"-Button jeweils oben rechts im Widget gelangt man zur Übersichtsseite.
 
 ![](../.gitbook/assets/bildschirmfoto-2019-12-05-um-10.28.05.png)
+
+
+
+{% hint style="info" %}
+**Vorgänge für Standardprozesse bei wiederkehrenden Projekten**  
+Die Agenturverwaltung erlaubt auch die Konfiguration von Standardprojekten, die z.B. einem wiederkehrenden Ablauf folgen und bei deren Initialisierung gleich eine Reihe von Vorgängen erstellt werden sollen. 
+
+Sollte das bei eurem Unternehmen der Fall sein, sprecht uns an:   
+info@dieagenturverwaltung.de
+{% endhint %}
 
