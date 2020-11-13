@@ -8,6 +8,8 @@
 
 ## Textbausteine für den tabellarischen Kopf eines Finanzdokuments
 
+In Textbausteinen können auch Variablen verwendet werden. Diese werden in der Druckversion dann mit Werten aus dem jeweiligen Dokumentenkontext ersetzt.
+
 ![](../../.gitbook/assets/bildschirmfoto-2020-03-08-um-10.15.40.png)
 
 Die Werte für die verwendeten Variablen werden automatisch in die Druckversion eingefügt. Im oberen Teil des tabellarischen Blocks erscheinen die aus dem Dokument automatisch ermittelten Werte, im unteren Teil können wir mit den zusätzlichen tabellarischen Feldern die Liste einfach ergänzen:
