@@ -6,6 +6,8 @@ Mehr dazu wie Provisionen angelegt werden erfährst du hier:
 
 {% page-ref page="../../../einstellungen-1/finanzen/provisionen.md" %}
 
+[Mehr zu Darstellungsmöglichkeiten von Provisionen in der Druckversion](https://wiki.dieagenturverwaltung.de/finanzen-1/allgemeines-zu-finanzdokumenten/druckversionseinstellungen#darstellungsmoeglichkeiten-von-provisionen)
+
 ## Verwenden von Provisionen
 
 Provisionen können in einem Finanzdokument \(Ausgangsrechnung, Kostenvoranschlag, Gutschrift, Vorlage\) auf zwei Arten einer Position hinzugefügt werden.

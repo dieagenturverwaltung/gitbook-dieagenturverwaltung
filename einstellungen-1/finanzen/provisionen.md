@@ -35,3 +35,5 @@ Wie Provisionen in Finanzdokumenten eingesetzt und wie sie in der Druckversion d
 
 {% page-ref page="../../finanzen-1/allgemeines-zu-finanzdokumenten/die-positionsliste-1/verwendung-von-provisionen.md" %}
 
+[Mehr zu Darstellungsmöglichkeiten von Provisionen in der Druckversion](https://wiki.dieagenturverwaltung.de/finanzen-1/allgemeines-zu-finanzdokumenten/druckversionseinstellungen#darstellungsmoeglichkeiten-von-provisionen)
+
