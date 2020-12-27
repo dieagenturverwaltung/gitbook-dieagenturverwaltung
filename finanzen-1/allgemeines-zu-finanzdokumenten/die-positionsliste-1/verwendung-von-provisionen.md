@@ -6,7 +6,11 @@ Mehr dazu wie Provisionen angelegt werden erfährst du hier:
 
 {% page-ref page="../../../einstellungen-1/finanzen/provisionen.md" %}
 
-[Mehr zu Darstellungsmöglichkeiten von Provisionen in der Druckversion](https://wiki.dieagenturverwaltung.de/finanzen-1/allgemeines-zu-finanzdokumenten/druckversionseinstellungen#darstellungsmoeglichkeiten-von-provisionen)
+[Mehr zu Darstellungsmöglichkeiten von Provisionen in der Druckversion](https://wiki.dieagenturverwaltung.de/finanzen-1/allgemeines-zu-finanzdokumenten/druckversionseinstellungen#darstellungsmoeglichkeiten-von-provisionen):
+
+{% page-ref page="../../kva/druckversionseinstellungen.md" %}
+
+
 
 ## Verwenden von Provisionen
 
@@ -22,7 +26,7 @@ Um die Änderungen anzuwenden, muss im Dialog unten "Speichern" gedrückt werden
 
 ### Provisions-Editor
 
-Unten in der Positionliste werden angelegt Provisionen in einer oder mehreren Zeilen ausgegeben. Durch Klick auf eine dieser Zeilen öffnet sich der Provisions-Editor und zeigt eine Kurzfassung unserer Provisionsliste. Hier können dann weitere Provisionen zu Funktionen hinzugefügt werden oder Verknüpfungen zwischen Positionen und Provisionen wieder gelöst werden.
+Unten in der Positionsliste werden angelegt Provisionen in einer oder mehreren Zeilen ausgegeben. Durch Klick auf eine dieser Zeilen öffnet sich der Provisions-Editor und zeigt eine Kurzfassung unserer Provisionsliste. Hier können dann weitere Provisionen zu Funktionen hinzugefügt werden oder Verknüpfungen zwischen Positionen und Provisionen wieder gelöst werden.
 
 ### Leistungstypen: Agentur- und Fremdleistung
 
@@ -30,7 +34,7 @@ Eine Provision wird bei der Erstellung immer einem Leistungstypen zugewiesen, da
 
 {% hint style="info" %}
 **Zwei Beispiele**   
-Wenn ich den Provisionstyp "Technikversicherung" anlege, definiere ich dass es sich um eine Fremdleistungsprovision handelt, denn der berechnete Provisionszuschlag muss ja an den Versicherer abgeführt werden.   
+Wenn ich den Provisionstyp "Technikversicherung" anlege, definiere ich dass es sich um eine Provision für Fremdleistung handelt, denn der berechnete Provisionszuschlag muss ja an den Versicherer abgeführt werden.   
   
 Nutze ich z.B. einen Provisionstyp "Handling-Fee", den ich auf eine Media-Fremdleistung - z.B. Facebook-Ads - anwende, wird der Provisionsanteil in meinem Dokument als Agenturleistung gewertet.
 {% endhint %}
