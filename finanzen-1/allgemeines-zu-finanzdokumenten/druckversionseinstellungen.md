@@ -173,3 +173,9 @@ Dies lässt sich verhindern indem die Darstellungsoption "Fremdleistungen nicht 
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.41.09.png)
 
+#### Mehr zu Provisionen:
+
+{% page-ref page="../../einstellungen-1/finanzen/provisionen.md" %}
+
+{% page-ref page="die-positionsliste-1/verwendung-von-provisionen.md" %}
+
