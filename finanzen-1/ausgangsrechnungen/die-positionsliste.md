@@ -4,13 +4,13 @@ Wie man Positionen anlegt, bearbeitet, dupliziert, löscht und importiert erfäh
 
 {% page-ref page="../allgemeines-zu-finanzdokumenten/die-positionsliste-1/" %}
 
-## Mehrwertsteuersatz
+## Umsatzsteuersatz
 
-In Ausgangsrechnungen lässt sich darüber hinaus unterhalb der Positionsliste die Mehrwertsteuer definieren. Hier wird erklärt wie das geht:
+In Ausgangsrechnungen lässt sich darüber hinaus unterhalb der Positionsliste die Umsatzsteuer definieren. Hier wird erklärt wie das geht:
 
 {% embed url="https://www.youtube.com/watch?v=jUJAL1lQjH4&t=1s" %}
 
-## Welchen Mehrwertsteuersatz nutzen?
+## Welchen Umsatzsteuersatz nutzen?
 
 {% hint style="info" %}
 **Als Faustregel für Agenturen gilt: 19%**   
@@ -21,7 +21,7 @@ Selbst wenn ihr Waren und Dienstleistungen von einem Lieferanten, z.B. einem Cat
 
 ## Temporäre MwSt-Umstellung 2020 in Deutschland 
 
-Die Bundesregierung hat am 04.06.2020 einen Gesetzesentwurf auf den Weg gebracht, der vorsieht, die Mehrwertsteuersätze für den Zeitraum 01.07.2020 bis 31.12.2020 von derzeit 7 bzw. 19% auf 5 und 16% zu senken.
+Die Bundesregierung hat am 04.06.2020 einen Gesetzesentwurf auf den Weg gebracht, der vorsieht, die Umsatzsteuersätze für den Zeitraum 01.07.2020 bis 31.12.2020 von derzeit 7 bzw. 19% auf 5 und 16% zu senken.
 
 **Was bedeutet das für die Abrechnung einer Agentur?**
 
@@ -31,7 +31,7 @@ Die Änderung macht sich i.der Regel nicht wirtschaftlich bemerkbar, da Agenture
 
 #### Wann wird welcher MwSt-Satz angewendet?
 
-Generell gilt: Das Datum der **Leistungserbringung** ist ausschlaggebend für den Mehrwertsteuersatz. Bei Agenturen ist die Leistungserbringung meist erst am Ende des Zeitraums in dem an einem Projekt gearbeitet gegeben. D.h. mit Abgabe eines Ergebnisses - z.B: Bannern, einer Webseite oder einem Workshop.Wenn es sich irgendwie vermeiden lässt, sollten Rechnungen, deren Leistungszeitraum über den 01.07.2020 oder den 31.12.2020 hinaus gehen, in zwei Dokumente aufgeteilt werden: **Ein Dokument mit Leistungen vor der Mehrwertsteuersatz-Umstellung und ein Dokument mit den Leistungen nach der Umstellung**.
+Generell gilt: Das Datum der **Leistungserbringung** ist ausschlaggebend für den Umsatzsteuersatz. Bei Agenturen ist die Leistungserbringung meist erst am Ende des Zeitraums in dem an einem Projekt gearbeitet gegeben. D.h. mit Abgabe eines Ergebnisses - z.B: Bannern, einer Webseite oder einem Workshop.Wenn es sich irgendwie vermeiden lässt, sollten Rechnungen, deren Leistungszeitraum über den 01.07.2020 oder den 31.12.2020 hinaus gehen, in zwei Dokumente aufgeteilt werden: **Ein Dokument mit Leistungen vor der Umsatzsteuersatz-Umstellung und ein Dokument mit den Leistungen nach der Umstellung**.
 
 #### Achtung bei Stornorechnungen \(Rechnungskorrektur\)
 

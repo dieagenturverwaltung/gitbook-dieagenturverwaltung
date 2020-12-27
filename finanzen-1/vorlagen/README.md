@@ -6,7 +6,7 @@ Vorlagen verhalten sich analog zu Kostenvoranschlägen, Gutschriften oder Ausgan
 
 ## Was wird aus einer Vorlage in mein neues Dokument übernommen?
 
-Aus der Vorlage werden - sofern in der Vorlage definiert - Kopf- und Fussbemerkungen, zusätzliche Tabellarische Felder, Positionen, Abzüge und - beim Erstellen einer Ausgangsrechnung - der Mehrwertsteuersatz in das neue Dokument übernommen.
+Aus der Vorlage werden - sofern in der Vorlage definiert - Kopf- und Fussbemerkungen, zusätzliche Tabellarische Felder, Positionen, Abzüge und - beim Erstellen einer Ausgangsrechnung - der Umsatzsteuersatz in das neue Dokument übernommen.
 
 ## Anwendungsszenarien für Vorlagen
 

@@ -1,6 +1,8 @@
 # Druckversionseinstellungen
 
-![](../../.gitbook/assets/bildschirmfoto-2020-03-07-um-12.27.08.png)
+![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.21.12.png)
+
+### 
 
 ### Sprache
 
@@ -114,4 +116,60 @@ Wir wollen dem Kunden hier die Wahl zwischen dem Starter und dem FullService-Pak
 Das Angebot ist also eine Preisauskunft.  
 Der Kunde soll hier aber nicht die Summe aller Optionen \(21.000 EUR\) angezeigt bekommen, weil die angebotenen Positionen sich nicht eigenen zusammen bestellt zu werden.
 {% endhint %}
+
+## Darstellungsmöglichkeiten von Provisionen
+
+Provisionen, können auf verschiedene Arten in der Druckversion angezeigt werden.
+
+### Darstellungen an der Position
+
+In diesem Beispiel werden Provisionen an jeder Position ausgewiesen, jedoch nicht an der Positionsgruppe. Die Zwischensumme der Positionsgruppen enthält daher auch die Summe der Provisionen:
+
+![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.29.52.png)
+
+Da Provisionen in diesem Beispiel nicht an der Positionsgruppe aufgeführt werden sollen, enthält die Positionsgruppe lediglich die Summe aus Positionswerten und Provisionen und schlüsselt letztere nicht weiter auf.
+
+### Darstellung An der Positionsgruppe
+
+Im folgenden Beispiel werden Provisionen sowohl an der Position als auch an der Positionsgruppe ausgewiesen. Die Gruppe führt die Provisionen daher nur noch einmal der Übersicht halber als enthalten auf, da die Positionen diese ja bereits aufführen.
+
+![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.30.59.png)
+
+Wird dagegen nur an der Positionsgruppe eine Provision angezeigt, nicht an der Position selbst, zeigt die Zwischensumme der Positionsgruppe an, dass die Provisionen sich zuzüglich verstehen:
+
+![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.31.40.png)
+
+### Darstellung im Summenblock unterhalb der Positionsliste
+
+Im Summenblock können Provisionen auf verschiedene Arten erscheinen:
+
+a\) Wenn Provisionen in Positionen und/oder Gruppen angezeigt werden, so zeigt der Summenblock diese als _enthalten_ an:
+
+![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.50.16.png)
+
+b\) In diese Beispiel wurden Provisionen _nur_ im Summenblock angezeigt, daher verstehen sie sich hier zuzüglich der Agentur- und Fremdleistung.
+
+![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.52.41.png)
+
+Hier die gleiche Darstellung wenn "Fremdleistungen nicht explizit ausweisen" aktiviert ist:
+
+![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.53.32.png)
+
+c\) Sind Provisionen in einem Dokument enthalten, sollen aber nicht im Summenblock angezeigt werden, so ergeben sie sich aus den Summen der Positionen oder Positionsgruppen:
+
+![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.53.04.png)
+
+### Provisionen nicht darstellen, sondern in die Einzelpreise der Positionen einrechnen
+
+Hier werden Provisionen weder an der Position, noch an der Positionsgruppe noch im Summenblock unterhalb der Positionsliste ausgewiesen.
+
+Sie werden dann automatisch in die Einzelpreise eingerechnet. 
+
+![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.30.17.png)
+
+Da in diesem Beispiel Provisionen für sowohl Agentur- als auch Fremdleistungen verwendet wurden, lässt sich deren Anteil noch an der zweispaltigen Ausgabe von Agentur- und Fremldeistung erahnen. 
+
+Dies lässt sich verhindern indem die Darstellungsoption "Fremdleistungen nicht explizit ausweisen" aktiviert wird:
+
+![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.41.09.png)
 

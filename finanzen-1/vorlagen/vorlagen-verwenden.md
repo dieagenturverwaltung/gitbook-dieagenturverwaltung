@@ -6,7 +6,7 @@ description: Wo und wie können Vorlagen verwendet werden?
 
 ## Beim Anlegen eines Finanzdokuments
 
-Wird ein neues Dokument angelegt, kann eine Vorlage ausgewählt werden. Aus der Vorlage werden - sofern in der Vorlage definiert - Kopf- und Fussbemerkungen, zusätzliche Tabellarische Felder, Positionen, Abzüge und - beim Erstellen einer Ausgangsrechnung - der Mehrwertsteuersatz in das neue Dokument übernommen.
+Wird ein neues Dokument angelegt, kann eine Vorlage ausgewählt werden. Aus der Vorlage werden - sofern in der Vorlage definiert - Kopf- und Fussbemerkungen, zusätzliche Tabellarische Felder, Positionen, Abzüge und - beim Erstellen einer Ausgangsrechnung - der Umsatzsteuersatz in das neue Dokument übernommen.
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-03-09-um-09.40.43.png)
 

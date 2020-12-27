@@ -32,6 +32,6 @@ Beide Buchungen werden zum angegebenen Datum der Abhebung auf "bezahlt" gesetzt 
 
 Üblicherweise wird dann eine Korrekturbuchung vorgenommen, z.B. "Übertrag 12.04.2020". Oder "Schwund". Geht es um eine Verlust-Buchung wird dazu eine Eingangsrechnung erstellt und über den Reiter Zahlung auf "bezahlt heute, bar" gestellt.
 
-Ist zu viel Geld in der Kasse kann eine Ausgangsrechnung mit einem geeigneten Betreff erzeugt werden. Diese Buchungen sind leistungsfrei und sollten keine Mehrwertsteuer enthalten.  
+Ist zu viel Geld in der Kasse kann eine Ausgangsrechnung mit einem geeigneten Betreff erzeugt werden. Diese Buchungen sind leistungsfrei und sollten keine Umsatzsteuer enthalten.  
 
 

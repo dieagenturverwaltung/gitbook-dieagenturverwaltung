@@ -1,4 +1,4 @@
-# Mehrwertsteuer, Rabatte, Gesamtsummen
+# Umsatzsteuer, Rabatte, Gesamtsummen
 
 Unterhalb der Positionsliste befinden sich eine Sektion mit den Summen des Dokuments.
 
@@ -30,34 +30,34 @@ In unserem Beispiel wurden in einer Akonto-Rechnung vom 06.06.2019 bereits 8000 
 
 Die Netto-Summe kumuliert noch einmal alle Beträge.
 
-#### Mehrwertsteueranteil und -satz
+#### Umsatzsteueranteil und -satz
 
-Handelt es sich beim Dokument um eine Ausgangsrechnung oder Gutschrift, so kann hier der Mehrwertsteuersatz eingestellt werden, der Mehrwertsteueranteil errechnet sich dann automatisch anhand Netto-Summe abzügl. Netto-Abzüge.  
-Die Voreinstellungen beziehen sich auf den deutschen Markt, sollte dein Unternehmen z.B. in Österreich sitzen, kannst Du im Haupt-Menü rechts oben auf Einstellungen klicken und dort in der Rubrik "Finanzen" auf die Kachel "Mehrwertsteuersätze" klicken.  Hier kann das Land, in dem dein Unternehmen registriert ist eingestellt werden.
+Handelt es sich beim Dokument um eine Ausgangsrechnung oder Gutschrift, so kann hier der Umsatzsteuersatz eingestellt werden, der Umsatzsteueranteil errechnet sich dann automatisch anhand Netto-Summe abzügl. Netto-Abzüge.  
+Die Voreinstellungen beziehen sich auf den deutschen Markt, sollte dein Unternehmen z.B. in Österreich sitzen, kannst Du im Haupt-Menü rechts oben auf Einstellungen klicken und dort in der Rubrik "Finanzen" auf die Kachel "Umsatzsteuersätze" klicken.  Hier kann das Land, in dem dein Unternehmen registriert ist eingestellt werden.
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-06-05-um-14.47.59.png)
 
 {% hint style="info" %}
-**Wechselnde gesetzliche Mehrwertsteuersätze**  
+**Wechselnde gesetzliche Umsatzsteuersätze**  
 In Deutschland kam es 2007, 2020 und 2021 aufgrund von Gesetzesänderungen zu wechselnden Mehrwersteuersätzen. Diese spiegeln sich auch in der Agenturverwaltung wieder.  
 Wird eine Rechnung beispielsweise im Mai 2020 erstellt, wird automatisch der im Mai 2020 gültige Mehrwersteuersatz verwendet.   
-**Wichtig**: Wird das Datum eines bereits erstellten Dokuments so geändert, dass sich daraus eine Änderung der Mehrwertsteuer ergibt, wird diese nicht autmatisch geändert. Statt dessen wird der Nutzer mit einem prominenten Hinweis konfrontiert den Mehrwertsteuersatz zu ändern.
+**Wichtig**: Wird das Datum eines bereits erstellten Dokuments so geändert, dass sich daraus eine Änderung der Umsatzsteuer ergibt, wird diese nicht autmatisch geändert. Statt dessen wird der Nutzer mit einem prominenten Hinweis konfrontiert den Umsatzsteuersatz zu ändern.
 {% endhint %}
 
 {% hint style="info" %}
-**Achtung bei Leistungszeiträumen, die über den Gültigkeitszeitraum eines Mehrwertsteuersatzes hinweg ziehen!**   
-Die Mehrwertsteuer bezieht sich auf den Leistungszeitraum der Rechnung, daher macht es keinen Sinn Rechnungen über einen Leistungszeitraum zu stellen, der einen Wechsel der Mehrwertsteuersätze mit sich bringt - z.B. von 01.05.2020 bis 30.11.2020. Wir empfehlen in solchen Fälllen zwei Rechnungen zu erstellen. Also z.B. für den Zeitraum 01.05.2020 - 30.06.2020 und 01.07.2020 bis 30.11.2020.
+**Achtung bei Leistungszeiträumen, die über den Gültigkeitszeitraum eines Umsatzsteuersatzes hinweg ziehen!**   
+Die Umsatzsteuer bezieht sich auf den Leistungszeitraum der Rechnung, daher macht es keinen Sinn Rechnungen über einen Leistungszeitraum zu stellen, der einen Wechsel der Umsatzsteuersätze mit sich bringt - z.B. von 01.05.2020 bis 30.11.2020. Wir empfehlen in solchen Fälllen zwei Rechnungen zu erstellen. Also z.B. für den Zeitraum 01.05.2020 - 30.06.2020 und 01.07.2020 bis 30.11.2020.
 {% endhint %}
 
 #### Brutto Abzüge
 
-Es ist möglich einen oder mehrere Brutto-Abzüge zu definieren, sie verhalten sich wie Netto-Abzüge, allerdings beziehen sie sich auf die Netto-Summe zzgl. Mehrwertsteuer.
+Es ist möglich einen oder mehrere Brutto-Abzüge zu definieren, sie verhalten sich wie Netto-Abzüge, allerdings beziehen sie sich auf die Netto-Summe zzgl. Umsatzsteuer.
 
 Brutto-Abzüge machen z.B. Sinn wenn eine Akonto-Rechnung \(aufgrund einer gesetzlichen MwSt-Umstellung\) mit einem anderen MwSt-Satz erstellt wurde als die Schlussrechnung. Sie kann dann mit zwei Bruttoabzügen \(einmal der Nettobetrag der Akonto-Rechnung, einmal der MwSt-Anteil der Akonto-Rechnung\) von der Gesamtsumme der Schlussrechnung abgezogen werden.
 
 #### Brutto-Summe
 
-Die Brutto-Summe addiert die Netto-Summe, die Mehrwertsteuer und subtrahiert ggf. Brutto-Abzüge.
+Die Brutto-Summe addiert die Netto-Summe, die Umsatzsteuer und subtrahiert ggf. Brutto-Abzüge.
 
 \*\*\*\*
 
