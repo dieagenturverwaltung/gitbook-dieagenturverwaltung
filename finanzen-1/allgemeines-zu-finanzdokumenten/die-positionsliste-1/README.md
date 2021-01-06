@@ -61,6 +61,10 @@ Die Agenturverwaltung hilft bei der Erstellung solcher Dokumente:
 * **Gliederung in Positionsgruppen:** Läuft ein Projekt in Phasen ab oder setzt sich aus verschiedenen Teilen zusammen, kann die Positionsliste in verschiedene Positionsgruppen aufgeschlüsselt werden.  Auch Positionsgruppen verfügen über die Möglichkeit einen einleitenden Text zu verfassen, der die Ziele der erbrachten zusammenfassen kann.
 * **Positionen beschreibend benennen:** Hilf dem Leser zu verstehen, was sich hinter einer Position verbirgt. Dafür können gliedernde Textfelder wie z.B. die Detailbeschreibung im Reiter Details einer Position geeignet sein.
 
+### Positionen aus einem anderen Dokument importieren
+
+{% embed url="https://youtu.be/LvjeGQ820Q0" %}
+
 ## Seitenumbrüche
 
 Seitenumbrüche werden im PDF angeeigneter Stelle automatisch erzeugt. Manchmal kann es zum Zweck er besseren Gliederung Sinn machen manuell Seitenumbrüche einzufügen. 
