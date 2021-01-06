@@ -8,11 +8,15 @@ Beim Aufruf des Reiters "Agenturleistung" seht ihr einen übergeordneten Filter 
 
 
 
-Zeitliche Einschränkung
+## Zeitliche Einschränkung
 
+Die Werte dieses Berichts beziehen sich ggf. auf den oben ausgewählten Leistungszeitraum.
 
+## Agenturleistung nach Funktionen
 
-Agenturleistung nach Funktionen
+Wurden Funktionen im KV oder in Geplanten Budgets vorgegeben, können wir an dieser Stelle erkennen, wieviel des Budgets in einer bestimmten Funktion bereits verbraucht wurde. So lässt sich auch ggf. gleich zu Anfang im Verlauf eines Projekts eine Budgetüberziehung erkennen, obwohl das Gesamtbudget des Projekts noch ausreichend zu sein scheint.
+
+![](../.gitbook/assets/clip1.jpg)
 
 Agenturleistung nach Tätigkeiten
 
