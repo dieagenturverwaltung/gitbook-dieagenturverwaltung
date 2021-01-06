@@ -8,6 +8,8 @@ Das ausgewählte Zielformat entscheidet dabei was für ein Dokument man erzeugt 
 
 Projekt und Datum können vor der Erstellung des Dokuments definiert werden, da sich daraus je nach Konfiguration eures Unternehmens die Dokumentennummer \(z.B. die Rechnungsnummer\) ergibt.
 
+{% embed url="https://youtu.be/XREGoTId2ho" %}
+
 ## Automatische Anpassung der Preise beim Kopieren in Projekte mit anderen Preislisten
 
 Eine Änderung des Projekts beim neu erzeugten Dokument kann zur Folge haben, dass die Preise im Zielprojekt andere sind als im Projekt in dem unser Dokument gerade liegt.

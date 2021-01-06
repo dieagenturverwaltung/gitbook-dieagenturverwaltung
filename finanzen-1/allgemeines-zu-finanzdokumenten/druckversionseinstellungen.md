@@ -38,6 +38,8 @@ Wie man das Briefpapier anpasst und weitere Briefpapiere erstellt, erfährst du 
 
 Diese Funktion ermöglicht es eine verkürzte Version der Positionsliste in der Druckversion anzuzeigen.
 
+{% embed url="https://youtu.be/KxwwuFR9iTc" %}
+
 #### Nur Positionsgruppen aufführen, keine Einzelpositionen
 
 In dieser Darstellungsart werden nur die Überschriften und Zwischensummen der Positiongruppen angezeigt. Die einzelnen Positionen mit ihren Details werden ausgeblendet. Dadurch wird das Dokument stark gekürzt, Details wie z.B. die Anzahl von Stunden einer bestimmten Funktion oder Einzelpreise bestimmter Fremdleistungen werden dadurch nicht transparent angezeigt.
@@ -72,6 +74,8 @@ So wird eine Positiongruppe mit mehrere Positionen ...
 > _Beratung, Fahrtkosten, Hotel_
 
 ### Fremdleistungen einfach als "Leistungen" anzeigen
+
+{% embed url="https://youtu.be/PndYHNzEv7o" %}
 
 In manchen Fällen werden dem Kunden eingekaufte Leistungen als Agenturleistung verkauft. Um für die interne Auswertung trotzdem festhalten zu können welcher Teil des Budgets für externe Lieferanten reserviert bleiben soll, kann man mit dieser Funktion auf die getrennte Anzeige von Agentur- und Fremdleistungen verzichten. Es wird dann kein Leistungstyp angezeigt. Die Betragsspalten für Agentur- und Fremdleistung in der Positionsliste fallen auf eine Spalte zusammen.
 
@@ -120,6 +124,10 @@ Der Kunde soll hier aber nicht die Summe aller Optionen \(21.000 EUR\) angezeigt
 ## Darstellungsmöglichkeiten von Provisionen
 
 Provisionen, können auf verschiedene Arten in der Druckversion angezeigt werden.
+
+{% embed url="https://youtu.be/6-GrfFRJTdo" %}
+
+
 
 ### Darstellungen an der Position
 

@@ -16,6 +16,8 @@ Mehr dazu wie Provisionen angelegt werden erfährst du hier:
 
 Provisionen können in einem Finanzdokument \(Ausgangsrechnung, Kostenvoranschlag, Gutschrift, Vorlage\) auf zwei Arten einer Position hinzugefügt werden.
 
+{% embed url="https://youtu.be/6-GrfFRJTdo" %}
+
 ### Positionsdialog
 
 Öffnet man eine Position findet man in der Registerkarte "Provisionen" die Möglichkeit Provisionen auszuwählen. Es können auch mehrere Provisionen einer Position zugeordnet werden, beispielsweise: KSK 4,2 % und Handling-Fee 10%
