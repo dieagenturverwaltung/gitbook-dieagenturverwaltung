@@ -105,7 +105,6 @@
     * [Wiedervorlagen](finanzen-1/kva/wiedervorlagen.md)
   * [Eingangsrechnungen](finanzen-1/eingangsrechnungen/README.md)
     * [Neue Eingangsrechnung erfassen](finanzen-1/eingangsrechnungen/neue-eingangsrechnung-erfassen.md)
-    * [Vorteile digitaler Belegerfassung](finanzen-1/eingangsrechnungen/vorteile-digitaler-belegerfassung.md)
     * [Paginiernummern](finanzen-1/eingangsrechnungen/paginiernummern.md)
     * [Kostenkategorien & KSK](finanzen-1/eingangsrechnungen/kostenkategorien-and-ksk.md)
     * [Zahlungsausgang verbuchen](finanzen-1/eingangsrechnungen/zahlungsausgang-verbuchen.md)
