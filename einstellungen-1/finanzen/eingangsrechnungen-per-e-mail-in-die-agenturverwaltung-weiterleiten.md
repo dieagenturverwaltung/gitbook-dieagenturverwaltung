@@ -1,4 +1,4 @@
-# Eingangsrechnungen per E-Mail in die Agenturverwaltung weiterleiten
+# Eingangsrechnungen per E-Mail importieren
 
 Die meisten unserer Mandanten verfügen über ein E-Mail-Postfach das eigens für Rechnungen von Lieferanten zur Verfügung steht. z.B. invoice@my-agency.com oder buchhaltung@meine-agentur.de
 

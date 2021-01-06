@@ -161,7 +161,7 @@
     * [Tätigkeiten](einstellungen-1/zeiterfassung/taetigkeiten.md)
     * [Feiertage und Betriebsferien](einstellungen-1/zeiterfassung/feiertage-und-betriebsferien.md)
   * [Finanzen](einstellungen-1/finanzen/README.md)
-    * [Eingangsrechnungen per E-Mail in die Agenturverwaltung weiterleiten](einstellungen-1/finanzen/eingangsrechnungen-per-e-mail-in-die-agenturverwaltung-weiterleiten.md)
+    * [Eingangsrechnungen per E-Mail importieren](einstellungen-1/finanzen/eingangsrechnungen-per-e-mail-in-die-agenturverwaltung-weiterleiten.md)
     * [Provisionen](einstellungen-1/finanzen/provisionen.md)
     * [Textbausteine](einstellungen-1/finanzen/textbausteine.md)
     * [Kostenkategorien](einstellungen-1/finanzen/kostenkategorien-auswerten.md)
