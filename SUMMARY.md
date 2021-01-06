@@ -13,6 +13,7 @@
   * [Anfrage an den Kundenservice stellen](erste-schritte-1/anfrage-an-den-kundenservice-stellen.md)
 * [Zeiterfassung](zeiterfassung-1/README.md)
   * [Meine Stundenliste](zeiterfassung-1/meine-stundenliste.md)
+  * [Zeiterfassung an Milestones von Projekten](zeiterfassung-1/zeiterfassung-an-milestones-von-projekten.md)
   * [Verbleibende Budgets beim Erfassen von Zeiten](zeiterfassung-1/verbleibende-budgets-beim-erfassen-von-zeiten.md)
   * [Timer](zeiterfassung-1/timer.md)
   * [Wochenansicht](zeiterfassung-1/wochenansicht.md)

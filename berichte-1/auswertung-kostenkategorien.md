@@ -9,5 +9,5 @@ Dieser Bericht zeigt die kumullierten Summen sowie das Verhältnis einer Kostenk
 Gehälter, Bürokosten, Freelancer Art, Freelancer Development, Bildlizenzen, Reisekosten
 {% endhint %}
 
-Die Auswertung von Kostenkategorien kann z.B. bei der Entscheidung helfen ob es sich lohnt Personal für Leistungen einzustellen, die bisher von Freelancern geliefert wurden oder laufende Kosten für Miete, Büro, Fahrzeugflotte auf den einzelnen Mitarbeiter umzulegen.
+Die Auswertung von Kostenkategorien kann z.B. bei der Entscheidung helfen ob es sich lohnt Personal für Leistungen einzustellen, die bisher von Freelancern geliefert wurden oder laufende Kosten für Miete, Büro, Fahrzeugflotte auf den einzelnen Mitarbeiter umzulegen. Ebenso lässt sich anhand von Kostenkategoriern erwägen ob es evtl. Sinn macht ein anderes Reisebüro zu beauftragen oder inhouse-Leistungen auzulagern.
 
