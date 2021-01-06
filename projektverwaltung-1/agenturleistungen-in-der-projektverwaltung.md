@@ -10,7 +10,7 @@ Beim Aufruf des Reiters "Agenturleistung" seht ihr einen übergeordneten Filter 
 
 ## Zeitliche Einschränkung
 
-Die Werte dieses Berichts beziehen sich ggf. auf den oben ausgewählten Leistungszeitraum.
+Alle Werte dieses Berichts beziehen sich ggf. auf den oben ausgewählten Leistungszeitraum.
 
 ## Agenturleistung nach Funktionen
 
@@ -18,11 +18,35 @@ Wurden Funktionen im KV oder in Geplanten Budgets vorgegeben, können wir an die
 
 ![](../.gitbook/assets/clip1.jpg)
 
-Agenturleistung nach Tätigkeiten
+## Agenturleistung nach Tätigkeiten
 
-Agenturleistung nach Mitarbeitern
+Diese Auswertung erlaubt die Betrachtung von erfassten Arbeitszeiten nach Tätigkeiten.
 
-Zeitstrahl
+![](../.gitbook/assets/bildschirmfoto-2021-01-06-um-14.02.40.png)
+
+Mehr zu Tätigkeiten in der Zeiterfassung:
+
+{% page-ref page="../einstellungen-1/zeiterfassung/taetigkeiten.md" %}
+
+
+
+## Agenturleistung nach Mitarbeitern
+
+In dieser Tabelle werden erfasste Zeiten kumuliert nach Mitarbeiter aufgeführt.
+
+## Agenturleistung nach KV-Position
+
+Wurden bestimmte KV-Positionen für die Zeiterfassung aktiviert,  kann an dieser Stelle ausgewertet werden wieviel Agenturleistungen an den jeweiligen Positionen erfasst wurde und wieviel Budget ihnen gegenübersteht.
+
+## Agenturleistung nach Vorgängen
+
+Wurden bestimmte Vorgänge innerhalb von Projekten für die Zeiterfassung aktiviert,  kann an dieser Stelle ausgewertet werden wieviel Agenturleistungen an den jeweiligen Vorgängen erfasst wurde.
+
+## Zeitstrahl
+
+In diesem Chart kann auf einen Blick erkannt werden, wann sich etwas auf einem Projekt getan hat.
+
+![](../.gitbook/assets/dwjxr7gwsaat6z0.jpg)
 
 
 
