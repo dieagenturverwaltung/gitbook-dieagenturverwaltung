@@ -59,7 +59,7 @@ Die letzten beiden Stati \(geöffnet,  sind abhängig davon ob der E-Mail-Server
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-03-07-um-15.46.30%20%281%29.png)
 
-## Versand eines PDFs
+## Speichern und versenden eines PDFs ausserhalb des Systems
 
 Wir empfehlen generell den Versand der Druckversion als PDF-Dokument da ein Anhang höhere Verbindlichkeit für den Kunden hat und später ggf. auch Offline in seinem E-Mail-Programm auffindbar ist.
 
