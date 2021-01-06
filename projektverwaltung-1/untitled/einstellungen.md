@@ -1,6 +1,4 @@
-# Einstellungen
-
-## Vorlagen für Etat-Preislisten am Kunden definieren
+# Vorlagen für Etat-Preislisten
 
 In bestimmten Fällen mag es vorkommen dass ein Kunde über sehr viele Etats verfügt. Das können z.B. Grosskonzerne mit etlichen Markenkampagnen sein.  
 Damit nicht bei jedem neu angzulegenden Etat die Standardpreisliste genutzt und dann für diesen Kunden überarbeitet werden muss erlaub die Agenturverwaltung die Konfiguration einer Etat-Preislistenvorlage am Kunden.
