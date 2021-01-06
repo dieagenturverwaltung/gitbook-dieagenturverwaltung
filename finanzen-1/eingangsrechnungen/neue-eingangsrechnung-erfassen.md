@@ -1,10 +1,10 @@
 # Neue Eingangsrechnung erfassen
 
-## Erfassung von Eingangsrechnungen die pauschal abgerechnet werden
+## Erfassung von Eingangsrechnungen, die pauschal abgerechnet werden
 
 {% embed url="https://youtu.be/Xo\_a1KqpeaE" %}
 
-## Erfassung von Eingangsrechnungen die nach Aufwand abgerechnet werden
+## Erfassung von Eingangsrechnungen, die nach Aufwand abgerechnet werden
 
 {% embed url="https://youtu.be/5OsBvrsRoXY" %}
 
@@ -17,7 +17,7 @@ Dieser Kostentyp sorgt dafür dass wir die Lieferantenrechnung zwar als Teil der
 Bewirtungskosten mit dem Kunden, falsch eingekaufte Lieferungen, Strafzettel usw.
 {% endhint %}
 
-## Erfassung von Freelancer-Rechnungen, die gleichzeitig Zeit erfassen
+## Erfassung von Freelancer-Rechnungen, wenn Freelancer Zeit im System erfassen
 
 Erfasst einer eurer Freelancer über die Zeiterfassung der Agenturverwaltung seine Aufwände, muss seine Rechnung nicht mehr pauschal oder berechenbar auf das Projekt gebucht werden. Die Kosten werden ja bereits über die Zeiterfassung im Projekt repräsentiert.
 
