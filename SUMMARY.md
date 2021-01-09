@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Über dieses Handbuch](README.md)
+* [Video Tutorials](video-tutorials.md)
 * [Erste Schritte](erste-schritte-1/README.md)
   * [Anmelden und Abmelden](erste-schritte-1/am-system-anmelden.md)
   * [Erste Grundeinstellungen](erste-schritte-1/grundeinstellungen/README.md)
