@@ -6,6 +6,8 @@ description: >-
 
 # Zeiterfassung
 
+![](../.gitbook/assets/maschine05.png)
+
 Die Agenturverwaltung unterstützt folgende drei Arten, die Arbeitszeit zu erfassen: 
 
 * **Timer:** Für Mitarbeiter, die viel zwischen Aufgaben hin und her springen und über den Tag verteilt an verschiedenen Projekte arbeiten. 
