@@ -4,7 +4,9 @@ description: Gebrauchsanweisung für die Cloud-Agentursoftware "Die Agenturverwa
 
 # Über dieses Handbuch
 
-![](.gitbook/assets/bildschirmfoto-2020-03-08-um-12.58.10.png)
+
+
+![](.gitbook/assets/ordner04.png)
 
 ## Gliederung
 
@@ -30,7 +32,7 @@ Alle Daten in Abbildungen und Beispielen sind frei erfunden. Wir verweisen in ma
 
 ## Feststehende Begriffe
 
-Wir schreiben bestimmte Wörter groß, wenn sie feststehende Begrifffe repräsentieren.  
+Wir schreiben bestimmte Wörter groß, wenn sie feststehende Begrifffe in Kontext dieses Handbuchs repräsentieren.  
 Zum Beispiel:  
 Die Agenturverwaltung  
 Geplante Budgets  
