@@ -35,7 +35,7 @@ Die Projektnummer ist die eindeutige Kennung, die beim Erstellen eines Projekts 
 
 Nach welchem Muster eine Projektnummer aufgebaut sein kann, erfährst du hier:
 
-{% page-ref page="../../erste-schritte-1/grundeinstellungen/nummernsysteme.md" %}
+{% page-ref page="../../erste-schritte-1/grundeinstellungen/nummernsysteme/" %}
 
 ## Projektstatus
 
