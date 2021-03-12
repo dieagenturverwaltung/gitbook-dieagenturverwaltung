@@ -4,7 +4,7 @@ Wenn konfiguriert, können Zeiten auch innerhalb des Projekts feinteiliger erfas
 
 ## Zeiterfassung an Kostenvoranschlägen
 
-{% embed url="https://youtu.be/HjbOTrgA3f0" %}
+{% embed url="https://youtu.be/cZf6md5h9eo" caption="Zeit an KV Positionen erfassen" %}
 
 ## Zeiterfassung an Vorgängen
 

@@ -16,7 +16,7 @@ Ein Timer ist eine Stoppuhr, die jeder Benutzer für sich laufen lassen kann, um
 
 In dem nachfolgenden Video erfahren wir, wie die Zeiterfassung mit dem Timer funktioniert. Solltet ihr diesen Inhalt lieber lesen wollen, scrollt einfach über das Video hinweg.
 
-{% embed url="https://www.youtube.com/watch?v=-NcrEbUSNBQ" caption="Screencast: Zeiterfassung mit dem Timer: einfach und minutengenau" %}
+{% embed url="https://youtu.be/zqwbNJLg7QM" caption="Screencast: Zeiterfassung mit dem Timer: einfach und minutengenau" %}
 
 Wenn wir mit einer neuen Tätigkeit beginnen, können wir den Timer einfach aus dem Menü starten. Wir sehen dann im Menü, dass gerade ein Timer im Hintergrund läuft. Diese Seite können wir dann verlassen und später zurückkehren.   
 

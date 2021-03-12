@@ -8,7 +8,7 @@ description: >-
 
 In diesem Video erfahren wir etwas über die Möglichkeiten der Zeiterfassungsliste, wie wir einen Zeiterfassungseintrag anlegen und wie wir Einträge bearbeiten können. Solltet ihr diesen Inhalt lieber lesen wollt, scrollt einfach über das Video hinweg.
 
-{% embed url="https://www.youtube.com/watch?v=efr9tJUFgUo" %}
+{% embed url="https://youtu.be/A\_ckOdG-\_Us" %}
 
   
 Über das Menü  Zeiterfassung &gt; Meine Stundenliste gelangen wir zu unserer Stundenliste. 

@@ -10,7 +10,7 @@ Funktionen sind ein zentrales Element der Agenturverwaltung, da sie für viele e
 
 Aus diesem Grund empfehlen wir, die Agenturpreisliste, zu Beginn der Nutzung der Agenturverwaltung mit den wichtigsten Funktionen zu konfigurieren. Eine nachträgliche Anpassung und Erweiterung ist natürlich möglich. Wie die Agenturpreisliste konfiguriert wird, erfahrt ihr hier:
 
-{% embed url="https://www.youtube.com/watch?v=oy88dymxq2Q&t=1s" %}
+{% embed url="https://youtu.be/eAOkaj5k-ds" caption="Die Agenturpreisliste in der Agenturverwaltung" %}
 
 ## Unterschiedliche Stundensätze in verschiedenen Kontexten
 
