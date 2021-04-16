@@ -18,6 +18,12 @@ Wurden Funktionen im KV oder in Geplanten Budgets vorgegeben, können wir an die
 
 ![](../.gitbook/assets/clip1.jpg)
 
+
+
+{% embed url="https://youtu.be/Lsp67sUrJUk" %}
+
+
+
 ## Agenturleistung nach Tätigkeiten
 
 Diese Auswertung erlaubt die Betrachtung von erfassten Arbeitszeiten nach Tätigkeiten.
