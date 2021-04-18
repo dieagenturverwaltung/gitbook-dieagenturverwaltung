@@ -48,7 +48,7 @@ Die Vertretung erhält dann eine Benachrichtigung und finde in ihren Wiedervorla
 
 Ist die Vertretung genehmigungspflichtig, wird sie nach der Beantragung über eine Wiedervorlage den Personen zugewiesen, die im Abwesenheitstyp als Genehmiger eingetragen sind.
 
-![](../../.gitbook/assets/genehmigen.png)
+![](../../.gitbook/assets/genehmigen%20%281%29.png)
 
 Die Zuweisung erfolgt bei einem vertretungspflichtigen Abwesenheitstyp erst, nachdem die Vertretung zugesagt hat.
 
@@ -77,4 +77,12 @@ Bei Mitarbeitern ohne die Berechtigung _Abwesenheiten &gt; Kalender &gt; Abwesen
 Für Yvonne ist in diesem Beispiel nur an ihren eigenen Abwesenheiten der Typ anhand der Farbe zu erkennen:
 
 ![](../../.gitbook/assets/no-type.png)
+
+## Abwesenheiten ändern oder löschen
+
+Durch Klick auf eine Abwesenheit im Kalender öffnet sich ein Dialog, der mir erlaubt, den Abwesenheitstyp zu ändern.
+
+Ich kann im Reiter "Abwesenheit ganz oder teilweise löschen" auch entweder den angeklickten Tag oder den ganzen Abwesenheitsantrag löschen.
+
+Ggf. noch existierende Wiedervorlagen für Vertretungen oder Genehmigungen werden dann enbenso gelöscht.
 

@@ -1,6 +1,6 @@
 # Zeiterfassung an Milestones von Projekten
 
-Wenn konfiguriert, können Zeiten auch innerhalb des Projekts feinteiliger erfasst werden.
+Wenn konfiguriert, können Zeiten auch innerhalb des Projekts feinteiliger erfasst werden - z.B. an den Positionen eines Kostenvoranschlags oder an bestimten Vorgängen innerhalb eines Projekts
 
 ## Zeiterfassung an Kostenvoranschlägen
 
@@ -13,4 +13,8 @@ Wenn konfiguriert, können Zeiten auch innerhalb des Projekts feinteiliger erfas
 Die Auswahl im Zeiterfassungsdialog erfolgt dann nach dem gleichen Prinzip wie bei den Kostenvoranschlagspositionen \(siehe oben\).
 
 Im Gegensatz zur Zeiterfassung an Kostenvoranschlagspositionen erlaubt die Erfassung von Zeiten an Vorgängen keine Rückschlüsse auf ein Budget. Wir erkennen wieviel Zeit auf welchem Vorgang erfasst wurde, jedoch nicht wieviel Budget für einen Vorgang zur Verfügung steht.
+
+{% embed url="https://youtu.be/gKQaIZ1HJC4" %}
+
+
 
