@@ -86,3 +86,13 @@ Ich kann im Reiter "Abwesenheit ganz oder teilweise löschen" auch entweder den 
 
 Ggf. noch existierende Wiedervorlagen für Vertretungen oder Genehmigungen werden dann enbenso gelöscht.
 
+## Kalender als iCal abonnieren
+
+Du kannst den Abwesenheitskalender auch mit deinem Apple iCal, Google-Calendar oder Outlook Kalender abonnieren.
+
+Wie das geht steht hier:
+
+{% page-ref page="../../einstellungen-1/integrationen/ical-integration.md" %}
+
+
+
