@@ -6,6 +6,8 @@ Dazu findest Du entweder unter Einstellungen &gt; Integrationen oder im Abwesenh
 
 ![](../../.gitbook/assets/bildschirmfoto-2021-04-19-um-09.24.20.png)
 
+> Die Möglichkeit den Kalender auch mit Abwesenheitstypen zu abonnieren, hängt davon ab, ob die Nutzerin auch die entsprechenden Berechtigungen \(Abwesenheitstypen anderer Nutzer sehen\) hat.
+
 Du kopierst Du die gewünschte URL, legst ein neues Kalenderabonnement in deinem Kalender an:
 
 ![](../../.gitbook/assets/bildschirmfoto-2021-04-19-um-09.36.32.png)
