@@ -39,7 +39,7 @@ Es ist hier auch möglich die Abwesenheit des entsprechenden Tages zu löschen o
 
 ![](../../.gitbook/assets/absence-auth.png)
 
-Damit MItarbeiter   
+Damit Mitarbeiter   
 a\) den Kalender des Teams einsehen und   
 b\) wie bisher Urlaub und Krankheit für sich selbst eintragen können  
 müssen die entsprechenden Berechtigungen in den jeweiligen Benutzergruppen vergeben. 
