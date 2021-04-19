@@ -25,6 +25,7 @@
   * [Stundenkonto](zeiterfassung-1/stundenkonto.md)
   * [Abwesenheiten](zeiterfassung-1/abwesenheiten/README.md)
     * [Abwesenheitskalender](zeiterfassung-1/abwesenheiten/abwesenheitskalender.md)
+    * [iCal-Integration](zeiterfassung-1/abwesenheiten/ical-integration.md)
     * [Dashboard-Widget "Aktuelle Abwesenheiten"](zeiterfassung-1/abwesenheiten/dashboard-widget-aktuelle-abwesenheiten.md)
     * [Abwesenheitsvertretungen](zeiterfassung-1/abwesenheiten/abwesenheitsvertretungen.md)
     * [Genehmigungen von Abwesenheiten](zeiterfassung-1/abwesenheiten/genehmigungen-von-abwesenheiten.md)
