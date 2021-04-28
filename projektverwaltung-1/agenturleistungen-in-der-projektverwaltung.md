@@ -16,7 +16,11 @@ Alle Werte dieses Berichts beziehen sich ggf. auf den oben ausgewählten Leistun
 
 Wurden Funktionen im KV oder in Geplanten Budgets vorgegeben, können wir an dieser Stelle erkennen, wieviel des Budgets in einer bestimmten Funktion bereits verbraucht wurde. So lässt sich auch ggf. gleich zu Anfang im Verlauf eines Projekts eine Budgetüberziehung erkennen, obwohl das Gesamtbudget des Projekts noch ausreichend zu sein scheint.
 
-![](../.gitbook/assets/clip1.jpg)
+![](../.gitbook/assets/bildschirmfoto-2021-04-28-um-22.14.29.png)
+
+Für "Assistenz" war in dieser Abbildung kein Budget vorgesehen. Die Funktion "Social Media Manager" wurde in der Zwischenzeit gelöscht, die darin bereits angefallenen Zeiten bleiben dabei erhalten.
+
+
 
 
 
