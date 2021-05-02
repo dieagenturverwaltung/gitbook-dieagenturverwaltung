@@ -1,5 +1,9 @@
 # iCal-Integration
 
+In diesem Video wird gezeigt, wie der Abwesenheitskalender der Agenturverwaltung in deinem persönlichen Kalender abonniert werden kann.
+
+{% embed url="https://youtu.be/zojFLPtZLO0" %}
+
 Die Abwesenheiten des Teams können auch als iCal-Kalenderabonnement in deinem Outlook-Kalender, Google-Caledar oder iCal von Apple abonniert werden.
 
 Dazu findest Du entweder unter Einstellungen &gt; Integrationen oder im Abwesenheitskalender diese Karte:

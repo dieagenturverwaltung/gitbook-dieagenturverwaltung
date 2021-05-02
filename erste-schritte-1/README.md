@@ -1,5 +1,11 @@
 # Erste Schritte
 
+In diesem Video kannst du Die Agenturverwaltung an einem Beispielprojekt kennenlernen. Es erklärt die wichgsten Zusammenhänge in ca. einer halben Stunde:
+
+{% embed url="https://youtu.be/bhd8Z1Fy81M" %}
+
+
+
 {% page-ref page="am-system-anmelden.md" %}
 
 {% page-ref page="grundeinstellungen/" %}

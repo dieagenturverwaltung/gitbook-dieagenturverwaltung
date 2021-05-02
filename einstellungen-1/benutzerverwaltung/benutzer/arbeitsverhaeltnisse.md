@@ -1,5 +1,11 @@
 # Arbeitsverhältnisse
 
+In Arbeitsverhältnisse ist für jeden Mitarbeiter definiert, an welchen Wochentagen wieviel gearbeitet wird. Hier wird ebenso das Urlaubskontingent hinterlegt. Ausserdem sehen wir uns an, wie Resturlaub aus einem Alt-System in die Agenturverwaltung übertragen werden kann.
+
+{% embed url="https://youtu.be/O6dJtCZ79CY" %}
+
+
+
 ### Was sind Arbeitsverhältnisse?
 
 Damit die Zeiterfassung, die Wochenansicht der Vorgänge und der Abwesenheitskalender auch anzeigen können, an welchen Tagen ein Mitarbeiter arbeitet, kann ein Mitarbeiter als "Festangestellt" geführt werden. Das geht im Reiter "Arbeitsverhältnis".

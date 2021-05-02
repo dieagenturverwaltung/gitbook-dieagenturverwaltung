@@ -6,6 +6,10 @@ description: >-
 
 # Feiertage und Betriebsferien
 
+In diesem Video wird gezeigt, wie Feiertage, Brückentage und Betriebsferien im Abwesenheitskalender und den Stundenkonten der Mitarbeiter konfiguriert werden können.
+
+{% embed url="https://youtu.be/jF6IfuK\_\_HQ" %}
+
 ## Feiertage und Betriebsferien in der Agenturverwaltung
 
 Feiertage und Betriebsferien sind Tage, an denen das Team nicht arbeitet, d.h. die regulär vereinbarte Arbeitszeit eines festangestellten Mitarbeiters an einem Feiertag ist null.

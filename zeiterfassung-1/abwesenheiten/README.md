@@ -10,6 +10,26 @@ Die Abwesenheiten des Teams lassen sich in einer kalendarischen Ansicht überbli
 
 ![](../../.gitbook/assets/absence-cal.png)
 
+
+
+### Das Abwesenheitsmanagement für dein Unternehmen vorkonfigurieren:
+
+Dieses Video ist der totale Setup-Guide für Unternehmen, die ihre Abwesenheits- und Urlaubsverwaltung, das Vertretungs- und Genehmigungs-Management, Arbeitsverhältnisse, Migration von Resturlaubskontingenten in der Agenturverwaltung konfigurieren möchten. Es dauert ca. 25 Minuten und umfasst alle Themen, insbesondere:
+
+* Welche Abwesenheiten gibt es, welche benötigen eine Vertretung, welche eine Genehmigung?
+* Wie wird das Urlaubskontingent eines Mitarbeiters definiert?
+* Wie werden Feiertage und Betriebsferien berücksichtigt?
+* Wer kann den Abwesenheitskalender einsehen?
+* Urlaub beantragen
+* Urlaubsvertretung übernehmen
+* Urlaub genehmigen
+* Definierten Prozess als Adminstrator umgehen
+* Abwesenheitskalender im Apple-Kalender, Outlook-Kalender und Google-Calendar abonnieren
+
+{% embed url="https://youtu.be/blfuwmm7FOs" %}
+
+
+
 ## Neue Abwesenheit eines Teammitglieds eintragen
 
 Über den Button "Neuer Eintrag" können entsprechend berechtigte Nutzer für andere Mitarbeiter  \(oder Mitarbeiter nur für sich\) eine Abwesenheit in diesen Kalender eintragen.

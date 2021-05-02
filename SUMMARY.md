@@ -29,6 +29,7 @@
     * [Abwesenheitsvertretungen](zeiterfassung-1/abwesenheiten/abwesenheitsvertretungen.md)
     * [Genehmigungen von Abwesenheiten](zeiterfassung-1/abwesenheiten/genehmigungen-von-abwesenheiten.md)
     * [Resturlaub aus Altsystem übertragen](zeiterfassung-1/abwesenheiten/resturlaub-aus-altsystem-uebertragen.md)
+    * [Prozess als Administrator umgehen](zeiterfassung-1/abwesenheiten/prozess-als-administrator-umgehen.md)
 * [Was sind Wiedervorlagen?](wiedervorlagen-1/README.md)
   * [So werden Wiedervorlagen angelegt](wiedervorlagen-1/so-werden-wiedervorlagen-angelegt.md)
   * [Benachrichtigungen](wiedervorlagen-1/benachrichtigungen.md)

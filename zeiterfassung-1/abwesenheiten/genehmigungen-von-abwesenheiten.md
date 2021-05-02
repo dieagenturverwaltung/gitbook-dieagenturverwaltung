@@ -1,6 +1,12 @@
 # Genehmigungen von Abwesenheiten
 
-In dieser Ansicht finden wir auf Genehmigung wartende Abweseneiten.
+{% embed url="https://youtu.be/ImYqqE2Ivs0" %}
+
+In diesem Screencast erfährst du, wie deine Abwesenheiten genehmigt werden, wie du den Status deiner Abwesenheiten überprüfen kannst und wie du als Genehmiger die Abwesenheitsanträge deiner Kollegen bearbeiten kannst.
+
+## Genehmigungsanfragen
+
+Unter Zeiterfassung &gt; Genehmigungen finden wir auf Genehmigung wartende Abweseneiten:
 
 ![](../../.gitbook/assets/genehmigungen.png)
 
