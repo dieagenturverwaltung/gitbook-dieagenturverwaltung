@@ -16,7 +16,17 @@ Die Abwesenheiten des Teams lassen sich in einer kalendarischen Ansicht überbli
 
 Dabei wird im ersten Schritt der Abwesenheitstyp \(Urlaub oder Krankheit\) und im zweiten Schritt der Zeitraum der Abwesenheit angegeben. Der Zeitraum kann Wochenenden, freie Tage des Mitarbeiters, Feiertage und sogar Abwesenheiten wie Krankheit überspannen. Das System ermittelt die verbleibenden Arbeitstage und errechnet den benötigten Zeitraum für die neue Abwesenheit.
 
-![](../../.gitbook/assets/bildschirmfoto-2020-01-19-um-14.14.18.png)
+![Abwesenheit beantragen: Halbe Tage k&#xF6;nnen &#xFC;ber die kleine Schaltfl&#xE4;che eingestellt werden](../../.gitbook/assets/bildschirmfoto-2021-05-02-um-12.09.35.png)
+
+### Erfassung von halben Abwesenheitstagen
+
+Beim Erstellen des Abwesenheitsantrags kann ein Nutzer mittels eines kleinen Schalters für jeden einzelnen Tag der Abwesenheit konfigurieren, ob es sich um einen halben Urlaubstag handeln soll.
+
+Im Kalender werden halbe Abwesenheiten so angezeigt:
+
+![](../../.gitbook/assets/bildschirmfoto-2021-05-02-um-12.12.46.png)
+
+
 
 {% hint style="info" %}
 **Warum wird die Abwesenheit in Stunden errechnet?**  
@@ -30,7 +40,7 @@ Eine Abwesenheit kann durch Klick auf einen der Abwesenheitstag bearbeitet werde
 
 {% hint style="info" %}
 **Halbe Urlaubstage eintragen**  
-Hat ein MItarbeiter an einem Mittwoch Urlaub und er arbeitet mittwochs gewöhnlich 8 Stunden, kann hier im Dialog 4 Stunden eingetragen werden, wenn es sich nur um einen halben Urlaubstag handelt.
+Hat ein Mitarbeiter an einem Mittwoch Urlaub und er arbeitet mittwochs gewöhnlich 8 Stunden, kann hier im Dialog 4 Stunden eingetragen werden, wenn es sich nur um einen halben Urlaubstag handelt.
 {% endhint %}
 
 Es ist hier auch möglich die Abwesenheit des entsprechenden Tages zu löschen oder auch den gesamten Zeitraum - also z.B. alle Einträge eines Urlaubs - der Abwesenheit zu löschen.
@@ -51,5 +61,5 @@ Wir empfehlen, nicht das ganze Team dazu zu berechtigen auch den Abwesenheitstyp
 
 ![Ansicht f&#xFC;r die Mitarbeiterin &quot;Alexandra Kuglers&quot; ohne Berechtigung die Abwesenheitstypen anderer Nutzer.](../../.gitbook/assets/bildschirmfoto-2020-01-19-um-14.26.52.png)
 
-In obigen Beispiel ist Alexandra Kuglers nicht berechtigt die Abwesenheitstypen anderer Mitarbeiter einzusehen, daher sind diese nur als ausgegraut erkennbar - es ist für Alexandra nicht ersichtlich, welcher Mitarbeiter krank oder im Urlaub ist, nur ob er an einem bestimmten Tag da ist oder nicht.
+In obigen Beispiel ist Alexandra Kuglers nicht berechtigt die Abwesenheitstypen anderer Mitarbeiter einzusehen, daher sind diese nur als ausgegraut erkennbar - es ist für Alexandra nicht ersichtlich, welcher Mitarbeiter krank oder im Urlaub oder in Elternzeit ist, nur ob  eine Person an einem bestimmten Tag da ist oder nicht.
 
