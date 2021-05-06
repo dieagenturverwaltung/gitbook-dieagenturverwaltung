@@ -26,9 +26,7 @@ Dieses Video ist der totale Setup-Guide für Unternehmen, die ihre Abwesenheits-
 * Definierten Prozess als Adminstrator umgehen
 * Abwesenheitskalender im Apple-Kalender, Outlook-Kalender und Google-Calendar abonnieren
 
-{% embed url="https://youtu.be/blfuwmm7FOs" %}
-
-
+{% embed url="https://youtu.be/\_JD70sTWlHI" %}
 
 ## Neue Abwesenheit eines Teammitglieds eintragen
 

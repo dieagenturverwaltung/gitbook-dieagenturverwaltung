@@ -1,6 +1,6 @@
 # Genehmigungen von Abwesenheiten
 
-{% embed url="https://youtu.be/ImYqqE2Ivs0" %}
+{% embed url="https://youtu.be/CPPTWpTnvBI" %}
 
 In diesem Screencast erfährst du, wie deine Abwesenheiten genehmigt werden, wie du den Status deiner Abwesenheiten überprüfen kannst und wie du - sofern du die Berechtigung dazu hast - die Abwesenheitsanträge deiner Kollegen genehmigen oder ablehnen kannst.
 
