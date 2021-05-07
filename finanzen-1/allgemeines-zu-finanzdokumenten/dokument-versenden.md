@@ -30,7 +30,9 @@ Wurden Textbausteine wie Signaturen, oder verschiedene Anschreiben im System hin
 HTML-Tags oder Bilder werden hier nicht unterstützt.
 {% endhint %}
 
-Die E-Mail enthält automatisch das PDF des entsprechenden Dokuments als Anhang. Es können darüberhinaus per Drag & Drop weitere Anhänge - z.B. eine Stundenliste - ergänzt werden:
+**Die E-Mail enthält automatisch das PDF des entsprechenden Dokuments als Anhang**. Es können darüberhinaus per Drag & Drop weitere Anhänge - z.B. eine Stundenliste - ergänzt werden:
+
+![](../../.gitbook/assets/email-attachments.png)
 
 
 
