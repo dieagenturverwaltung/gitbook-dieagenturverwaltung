@@ -180,6 +180,7 @@
     * [Provisionen](einstellungen-1/finanzen/provisionen.md)
     * [Textbausteine](einstellungen-1/finanzen/textbausteine.md)
     * [Kostenkategorien](einstellungen-1/finanzen/kostenkategorien-auswerten.md)
+    * [Dokumenten-Appendix](einstellungen-1/finanzen/dokumenten-appendix.md)
     * [Agenturfixkosten](einstellungen-1/finanzen/agenturfixkosten.md)
   * [Berichte](einstellungen-1/berichte/README.md)
     * [Benutzerdefinierte Filter](einstellungen-1/berichte/benutzerdefinierte-filter.md)
