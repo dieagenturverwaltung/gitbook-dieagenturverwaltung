@@ -2,13 +2,13 @@
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-03-07-um-14.19.58.png)
 
-## Filter in der Kostenvoranschlagsliste
+## Filter in der Liste der Kostenvoranschläge
 
 Die Liste der Kostenvoranschläge lässt sich über Filter oberhalb der Liste einschränken.
 
 ### Suche mit Wildcards \*
 
-Die Suche erlaubt das Suchen nach Dokumentennummer, Projektnummer, Daten in der Anschrift und im Betreff des Dokuments.  
+Die Suche erlaubt das Suchen nach Dokumenten-Nummer, Projektnummer, Daten in der Anschrift und im Betreff des Dokuments.  
 Mit dem Asterisk \(\*\) können auch Wildcard-Suchen durchgeführt werden im abgebildeten Beispiel kann ich z.B. durch die Eingab des Suchbegriffs `AFE*19`  Alle Dokumente finden in denen "AFE" gefolgt von "19" vorkommt. Wir hätten hier z.B. einen Suchtreffer beim ersten Dokument
 
 ### Suche nach Verantwortlichem
@@ -20,14 +20,14 @@ Mit dem Asterisk \(\*\) können auch Wildcard-Suchen durchgeführt werden im abg
 Dieser Filter schränkt die Liste nach Dokumenten ein, die sich in einen bestimmten Status befinden.
 
 {% hint style="info" %}
-FIltereinstellungen werden bis zur nächsten Anmeldung am System gespeichert.
+Filter-Einstellungen werden bis zur nächsten Anmeldung am System gespeichert.
 {% endhint %}
 
 ## Diese Prozessschritte kann ein Kostenvoranschlag durchlaufen
 
 #### in Bearbeitung
 
-Dieses Dokument wird zur Zeit erstellt oder gerade geändert, es wird in keiner Auswertung mitberücksichtigt.
+Dieses Dokument wird zur Zeit erstellt oder gerade geändert, es wird in keiner Auswertung mit berücksichtigt.
 
 #### wartet auf interne Freigabe
 
@@ -44,11 +44,15 @@ Dieses Dokument wurde an den Kunden gesendet und wartet auf Feedback durch den K
 #### Freigabe 
 
 Dieser Kostenvoranschlag ist durch den Kunden freigegeben worden. Die Umsetzung kann starten. Das Budget des Dokuments wird dem Projektbudget zugerechnet sofern das Projekt nicht Geplante Budgets verwendet.  
-Ein Kostenvoranschlag zu dem bereits eine Akonto-Rechnung erstellt wurde verbleibt im Status "Freigabe". In der Liste der Kostenvoranschläge ist in einem Fortschrittsblaken ersichtlich, welcher Anteil der Gesamtsumme bereits in Rechnung gestellt wurde.
+Ein Kostenvoranschlag zu dem bereits eine Akonto-Rechnung erstellt wurde verbleibt im Status "Freigabe". In der Liste der Kostenvoranschläge ist in einem Fortschrittsbalken ersichtlich, welcher Anteil der Gesamtsumme bereits in Rechnung gestellt wurde.
 
 #### wartet auf Abrechnung
 
 Die Umsetzung der Leistungen aus diesem Kostenvoranschlag ist abgeschlossen. Das Dokument kann abgerechnet werden.
+
+#### wartet auf Verrechnung
+
+Die Umsetzung der Leistungen aus diesem Kostenvoranschlag ist abgeschlossen. Das Dokument kann gegen Guthaben verrechnet werden.
 
 #### abgerechnet
 
