@@ -32,7 +32,7 @@
     * [Prozess als Administrator umgehen](zeiterfassung-1/abwesenheiten/prozess-als-administrator-umgehen.md)
 * [Was sind Wiedervorlagen?](wiedervorlagen-1/README.md)
   * [So werden Wiedervorlagen angelegt](wiedervorlagen-1/so-werden-wiedervorlagen-angelegt.md)
-  * [Wiedervorlagen beim Statuswechsel](wiedervorlagen-1/wiedervorlagen-beim-statuswechsel.md)
+  * [Wiedervorlagen beim Statuswechsel erstellen](wiedervorlagen-1/wiedervorlagen-beim-statuswechsel.md)
   * [Benachrichtigungen](wiedervorlagen-1/benachrichtigungen.md)
 * [Vorgänge](vorgaenge-1/README.md)
   * [Meine Vorgänge](vorgaenge-1/meine-vorgaenge.md)

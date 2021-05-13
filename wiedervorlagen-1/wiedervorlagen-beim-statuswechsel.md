@@ -1,4 +1,4 @@
-# Wiedervorlagen beim Statuswechsel
+# Wiedervorlagen beim Statuswechsel erstellen
 
 Wir der Status eines Kunden, Etats, Projekts oder Finanzdokuments - z.B. eines Kostenvoranschlags oder einer Rechnung - geändert, können wir direkt anderen Kollegen Bescheid geben, hier zu übernehmen.
 
