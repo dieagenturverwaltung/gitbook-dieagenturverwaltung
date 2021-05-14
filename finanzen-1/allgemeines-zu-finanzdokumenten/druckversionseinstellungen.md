@@ -73,6 +73,12 @@ So wird eine Positiongruppe mit mehrere Positionen ...
 > Workshop Berlin 20.05 348,- EUR  
 > _Beratung, Fahrtkosten, Hotel_
 
+#### Standard-Einstellungen für die Kurzfassung der Druckversion beim Abrechnen von Kostenvoranschlägen einstellen
+
+Damit nicht die Druckversion jeder Rechnung, die aus einem ausführlichen Kostenvoranschlag entsteht,  manuell umgestellt werden muss, kann hier auch eine Standardeinstellung vorgenommen werden. Diese kann unter _Einstellungen &gt; Finanzen_ vorgenommen werden.
+
+![](../../.gitbook/assets/collapse-default-setting.gif)
+
 ### Fremdleistungen einfach als "Leistungen" anzeigen
 
 {% embed url="https://youtu.be/PndYHNzEv7o" %}
