@@ -189,6 +189,7 @@
     * [Slack Messaging App](einstellungen-1/integrationen/slack-messaging-app.md)
     * [DNS-Einstellungen](einstellungen-1/integrationen/dns-einstellungen.md)
     * [Integromat](einstellungen-1/integrationen/integromat.md)
+    * [GetMyInvoices](einstellungen-1/integrationen/getmyinvoices.md)
     * [iCal-Integration](einstellungen-1/integrationen/ical-integration.md)
   * [Kontoverwaltung](einstellungen-1/kontoverwaltung/README.md)
     * [Tags](einstellungen-1/kontoverwaltung/tags.md)
