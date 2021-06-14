@@ -10,7 +10,7 @@ Wir möchten euch organisatorische Aufgaben wie das Erstellen von Rechnungen so 
 
 Sollte im Rahmen eines Projekts die Abrechnung nach Aufwand, wie es häufig im Kontext [agiler Projekte](https://www.dieagenturverwaltung.de/blog/agil-arbeiten-mit-agentursoftware/) der Fall, vereinbart worden sein, ist die regelmäßige monatliche Abrechnung eines Projekts mit wenigen Klicks möglich.
 
-Um ein Projekt am Ende eines Monats oder zu Beginn des Folgemonats abzurechnen, navigiert in dem abzurechnenden Projekt in die Registerkarte "Report", wählt den abzurechnenden Zeitraum aus und klickt auf den Button "Diesen Report in eine Ausgangsrechnung überführen".  
+Um ein Projekt am Ende eines Monats oder zu Beginn des Folgemonats abzurechnen, navigiert in dem abzurechnenden Projekt im Reiter "Report", wählt den abzurechnenden Zeitraum aus und klickt auf den Button "Diesen Report in eine Ausgangsrechnung überführen".  
 
 ![](../../.gitbook/assets/bildschirmfoto-2019-11-18-um-16.46.04.png)
 

@@ -16,7 +16,7 @@ In dem nachfolgenden kurzen Video erfahrt ihr, wie ihr in der Etatpreisliste die
 
 Die Etatpreisliste könnt ihr direkt im Etat konfigurieren. Zur Etatübersicht gelangt ihr über Projektverwaltung &gt; Etats.
 
-Die Etatpreisliste erreicht ihr über die Registerkarte „Preisliste“ im Etat. Hier werden alle Funktionen der Agentur mit den für diesen Etat gültigen Stundensätzen aufgeführt.
+Die Etatpreisliste erreicht ihr über den Reiter „Preisliste“ im Etat. Hier werden alle Funktionen der Agentur mit den für diesen Etat gültigen Stundensätzen aufgeführt.
 
 Diese Stundensätze wurden zum Zeitpunkt, als der Etat angelegt wurde, aus der übergeordneten Agenturpreisliste übernommen. Die in der Etatpreisliste hinterlegten Stundensätze werden zur Abrechnung von Projekten des Etats herangezogen. Ändern wir einen Stundensatz, wirkt sich dies auf alle noch nicht abgerechneten Agenturleistungen statistisch aus.
 

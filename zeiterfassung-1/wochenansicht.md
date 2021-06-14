@@ -10,7 +10,7 @@ In diesem Video erfahren wir, wie wir einen Zeiterfassungseintrag in der Wochena
 
 {% embed url="https://youtu.be/rRXMUY2dFu8" caption="Screencast: Zeiterfassung in der Wochenansicht - schnell und übersichtlich" %}
 
-Wir gelangen zur Wochenansicht über den Menüpunkt  Zeiterfassung &gt; Meine Stundenliste und wählen hier die Registerkarte "Wochenansicht" aus.  
+Wir gelangen zur Wochenansicht über den Menüpunkt  Zeiterfassung &gt; Meine Stundenliste und wählen hier den Reiter "Wochenansicht" aus.  
 
 ![](../.gitbook/assets/bildschirmfoto-2019-05-13-um-11.33.16.png)
 

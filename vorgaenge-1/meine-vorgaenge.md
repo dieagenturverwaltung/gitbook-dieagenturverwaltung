@@ -109,7 +109,7 @@ Eine Statusliste in der Druckvorschau sieht zum Beispiel wie folgt aus. Über di
 
 ### Tipp: Ansicht der Vorgänge nach Fälligkeit
 
-Neben der Standardansicht, welche in Projekten gruppiert und individuell sortiert ist, kann über die Registerkarte "Vorgänge nach Fälligkeit" zu einer alternativen Ansicht navigiert werden.
+Neben der Standardansicht, welche in Projekten gruppiert und individuell sortiert ist, kann über den Reiter "Vorgänge nach Fälligkeit" zu einer alternativen Ansicht navigiert werden.
 
 Hier werden deine eigenen Vorgänge und die Vorgänge anderer Nutzer die du beobachtest, nach Fälligkeit sortiert angezeigt. Dies ist hilfreich, um die Deadlines verschiedener Vorgänge projektübergreifend im Blick zu behalten.
 
@@ -117,7 +117,7 @@ Hier werden deine eigenen Vorgänge und die Vorgänge anderer Nutzer die du beob
 
 ### Tipp: Relevante Vorgänge auf dem Dashboard
 
-Einen guten Überblick über aktuell relevante Vorgänge erhält man auch auf dem persönlichen Dashboard. In zwei Widget werden zum einen alle für mich freigegebenen, **fälligen Vorgänge,** sortiert nach ihrer Fälligkeit, angezeigt. Dies hilft jene Vorgänge zu identifizieren, welche aktuell deine Aufmerksamkeit benötigen. In dem zweiten Widget "**Meine Vorgänge**" werden alle mir zugewiesenen Vorgänge, gemäß ihrer Sortierung in der Registerkarte "Meine Vorgänge" angezeigt. Über den "Alles anzeigen &gt;"-Button jeweils oben rechts im Widget gelangt man zur Übersichtsseite.
+Einen guten Überblick über aktuell relevante Vorgänge erhält man auch auf dem persönlichen Dashboard. In zwei Widget werden zum einen alle für mich freigegebenen, **fälligen Vorgänge,** sortiert nach ihrer Fälligkeit, angezeigt. Dies hilft jene Vorgänge zu identifizieren, welche aktuell deine Aufmerksamkeit benötigen. In dem zweiten Widget "**Meine Vorgänge**" werden alle mir zugewiesenen Vorgänge, gemäß ihrer Sortierung im Reiter "Meine Vorgänge" angezeigt. Über den "Alles anzeigen &gt;"-Button jeweils oben rechts im Widget gelangt man zur Übersichtsseite.
 
 ![](../.gitbook/assets/bildschirmfoto-2019-12-05-um-10.28.05.png)
 

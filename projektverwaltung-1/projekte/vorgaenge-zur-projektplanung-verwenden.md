@@ -20,7 +20,7 @@ In diesem Reiter können nun Vorgänge über die Schnelleingabe-Maske für Vorg�
 
 Um Abhängigkeiten zwischen den einzelnen Arbeitspaketen zu berücksichtigen, können die beiden Datumsfelder "Beginnt am" für den frühstmöglichen Starttermin und "Fällig am" für den spätesten Endtermin verwendet werden.
 
-Sind die Vorgänge im Projekt angelegt, kann die Registerkarte "Vorgänge" fortan zum Controlling der Arbeitspakete verwendet werden.
+Sind die Vorgänge im Projekt angelegt, kann der Reiter "Vorgänge" fortan zum Controlling der Arbeitspakete verwendet werden.
 
 ![](../../.gitbook/assets/bildschirmfoto-2019-12-05-um-15.27.27.png)
 
@@ -28,7 +28,7 @@ Sind die Vorgänge im Projekt angelegt, kann die Registerkarte "Vorgänge" forta
 
 Während der Durchführung von Projekten findet viel Kommunikation statt. Gibt es eine Frage oder eine Anmerkung im Kontext eines Arbeitspaketes und soll diese nicht in einem Chat- oder Messengerverlauf verloren gehen, bietet sich die Kommentarfunktion an.
 
-Kommentare können über den ![](../../.gitbook/assets/bildschirmfoto-2019-12-05-um-15.32.39.png)-Button in der Vorgang-Detailansicht hinzufügt werden. Zum Lesen der Kommentaren navigieren wir zur Registerkarte "Kommentare und Aktivitäten" in der Vorgang-Detailansicht.
+Kommentare können über den ![](../../.gitbook/assets/bildschirmfoto-2019-12-05-um-15.32.39.png)-Button in der Vorgang-Detailansicht hinzufügt werden. Zum Lesen der Kommentaren navigieren wir zum Reiter "Kommentare und Aktivitäten" in der Vorgang-Detailansicht.
 
 ![](../../.gitbook/assets/bildschirmfoto-2019-12-05-um-15.31.58.png)
 
@@ -43,7 +43,7 @@ Alle Beteiligten eines Vorgangs \(Verantwortlicher und die Beobachter\) erhalten
 
 ### Vorgänge beobachten, um den Überblick zu behalten
 
-Vor allem als Projektmanager ist es notwendig, den aktuellen Fertigstellungsgrad und die Einhaltung von Meilensteinen im Blick zu behalten, um den Projekterfolg sicher zu stellen. Ein sinnvoller Weg, ist das regelmäßige Beobachten der Projektvorgänge. Dies kann entweder in den Registerkarte "Vorgänge" im Projekt geschehen oder indem ich als Nutzer der Agenturverwaltung alle für mich relevanten Vorgänge beobachte. Wie die Beobachten-Funktion im Detail funktioniert, erfahrt ihr hier:
+Vor allem als Projektmanager ist es notwendig, den aktuellen Fertigstellungsgrad und die Einhaltung von Meilensteinen im Blick zu behalten, um den Projekterfolg sicher zu stellen. Ein sinnvoller Weg, ist das regelmäßige Beobachten der Projektvorgänge. Dies kann entweder im Reiter "Vorgänge" im Projekt geschehen oder indem ich als Nutzer der Agenturverwaltung alle für mich relevanten Vorgänge beobachte. Wie die Beobachten-Funktion im Detail funktioniert, erfahrt ihr hier:
 
 {% page-ref page="../../vorgaenge-1/vorgaenge-die-ich-beobachte.md" %}
 

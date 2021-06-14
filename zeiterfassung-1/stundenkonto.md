@@ -12,7 +12,7 @@ Zum Stundenkonto gelangt ihr über Zeiterfassung &gt; Meine Stundenliste
 
 ![](../.gitbook/assets/bildschirmfoto-2019-11-18-um-11.45.06.png)
 
-Anschließend wählt ihr die Registerkarte "Mein Stundenkonto" aus.  
+Anschließend wählst du hier den Reiter "Mein Stundenkonto" aus.  
  __
 
 ![](../.gitbook/assets/bildschirmfoto-2019-11-25-um-09.29.46.png)

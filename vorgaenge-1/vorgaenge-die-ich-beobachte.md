@@ -1,6 +1,6 @@
 # Vorgänge die ich beobachte
 
-Eine Übersicht über alle, von mir beobachteten Vorgänge erhalte ich in der Registerkarte "Vorgänge, die ich beobachte" auf der Seite "Vorgänge",  welche ich über die Navigation erreiche.
+Eine Übersicht über alle, von mir beobachteten Vorgänge erhalte ich im Reiter "Vorgänge, die ich beobachte" auf der Seite "Vorgänge",  welche ich über die Navigation erreiche.
 
 ![](../.gitbook/assets/bildschirmfoto-2019-12-05-um-10.27.50.png)
 
@@ -8,7 +8,7 @@ Eine Übersicht über alle, von mir beobachteten Vorgänge erhalte ich in der Re
 
 > Die Beobachtungsfunktion ist vor allem für Projektleiter und Führungskräfte konzipiert, um einen Überblick über alle Vorgänge eines Projektes oder eines Teams zu erhalten.
 
-Neben der Auflistung der von mir beobachteten Vorgänge in der entsprechenden Registerkarte erhalte ich auch Benachrichtigungen, z.B. wenn sich der Status eines Vorgangs ändert, beispielsweise weil er geschlossen wurde, oder wenn ein Kommentar hinzugefügt wird.
+Neben der Auflistung der von mir beobachteten Vorgänge i, entsprechenden Reiter erhalte ich auch Benachrichtigungen, z.B. wenn sich der Status eines Vorgangs ändert, beispielsweise weil er geschlossen wurde, oder wenn ein Kommentar hinzugefügt wird.
 
 ### Wie beobachte ich einen Vorgang?
 
@@ -18,7 +18,7 @@ Hat man einen Vorgang erstellt und weist diesen zur weiteren Bearbeitung einem a
 
 #### Sich als Beobachter eintragen
 
-Um einen Vorgang zu beobachten öffnet man den Vorgang zur Bearbeitung durch einen Klick auf den Vorgang. In der Registerkarte "Beobachter" werden alle Benutzer, welchen diesen Vorgang bereits beobachten, aufgelistet.
+Um einen Vorgang zu beobachten öffnet man den Vorgang zur Bearbeitung durch einen Klick auf den Vorgang. Im Reiter "Beobachter" werden alle Benutzer, welchen diesen Vorgang bereits beobachten, aufgelistet.
 
 ![](../.gitbook/assets/bildschirmfoto-2019-12-05-um-14.29.38.png)
 

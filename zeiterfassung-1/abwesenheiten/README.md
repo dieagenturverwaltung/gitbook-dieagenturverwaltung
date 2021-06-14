@@ -28,6 +28,8 @@ Dieses Video ist der totale Setup-Guide für Unternehmen, die ihre Abwesenheits-
 
 {% embed url="https://youtu.be/y-FnFA6p3gM" %}
 
+
+
 ## Neue Abwesenheit eines Teammitglieds eintragen
 
 Über den Button "Neuer Eintrag" können entsprechend berechtigte Nutzer für andere Mitarbeiter  \(oder Mitarbeiter nur für sich\) eine Abwesenheit in diesen Kalender eintragen.

@@ -12,7 +12,7 @@ Das Anlegen von Wiedervorlagen ist in folgenden Modulen möglich:
 * Etat
 * Kunde
 
-Zum Erzeugen einer Wiedervorlage öffnet ihr die Registerkarte "Wiedervorlage" im jeweiligen Dokument, hier z.B. in einem Kostenvoranschlag.
+Zum Erzeugen einer Wiedervorlage öffnet ihr den Reiter "Wiedervorlage" im jeweiligen Dokument, hier z.B. in einem Kostenvoranschlag.
 
 ![](../.gitbook/assets/bildschirmfoto-2019-12-05-um-09.01.57.png)
 
@@ -33,7 +33,7 @@ In dem sich öffnenden Dialog habt ihr folgende Möglichkeiten:
 
 Beim Erfassen von **Eingangsrechnungen** werden ebenfalls Wiedervorlagen genutzt indem ein Nutzer, der die Eingangsrechnung erfasst, anschliessend per Wiedervorlage einen Projektleiter benachrichtigen kann, damit dieser die Eingangsrechnung seinem Projekt \(als Fremdleistung\) zuordnen kann. Das ist z.B. in Agenturen sinnvoll, bei denen die Buchhaltung zwar Eingangsrechnungen erfasst, aber kein Domänenwissen über die einzelnen Kunden und ihre Projekte hat und die Zuordnung daher den jeweiligen Projektleitern überlässt.
 
-Eine solche Wiedervorlage wird in der Registerkarte "Projektzuordnung" einer Eingangsrechnung angelegt.
+Eine solche Wiedervorlage wird im Reiter "Projektzuordnung" einer Eingangsrechnung angelegt.
 
 ![](../.gitbook/assets/bildschirmfoto-2019-12-05-um-09.19.19.png)
 

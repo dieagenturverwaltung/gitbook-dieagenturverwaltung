@@ -20,7 +20,7 @@ Provisionen können in einem Finanzdokument \(Ausgangsrechnung, Kostenvoranschla
 
 ### Positionsdialog
 
-Öffnet man eine Position findet man in der Registerkarte "Provisionen" die Möglichkeit Provisionen auszuwählen. Es können auch mehrere Provisionen einer Position zugeordnet werden, beispielsweise: KSK 4,2 % und Handling-Fee 10%
+Öffnet man eine Position findet man im Reiter "Provisionen" die Möglichkeit Provisionen auszuwählen. Es können auch mehrere Provisionen einer Position zugeordnet werden, beispielsweise: KSK 4,2 % und Handling-Fee 10%
 
 Positionen können hier auch wieder entfernt werden. Dabei wird nur die Verknüpfung der Provision zu dieser Position entfernt. Die Provision kann später also wieder hinzugefügt werden.
 
