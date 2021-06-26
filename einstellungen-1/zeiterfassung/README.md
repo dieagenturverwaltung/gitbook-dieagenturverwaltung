@@ -1,6 +1,6 @@
 # Zeiterfassung
 
-## Projekt-Zeiterfassung und Anwesenheitserfassung
+## Projekt-Zeiterfassung und Anwesenheitserfassung und ihre Auswirkungen auf das Stundenkonto
 
 Für Zeiterfassung in eurem Unternehmen gibt es im Grunde drei Strategien:
 
