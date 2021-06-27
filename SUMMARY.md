@@ -191,6 +191,7 @@
     * [Integromat](einstellungen-1/integrationen/integromat/README.md)
       * [Beispiel: Trello-Board mit der Agenturverwaltung synchronisieren](einstellungen-1/integrationen/integromat/beispiel-trello-board-mit-der-agenturverwaltung-synchronisieren.md)
     * [GetMyInvoices](einstellungen-1/integrationen/getmyinvoices.md)
+    * [DATEV](einstellungen-1/integrationen/datev.md)
     * [iCal-Integration](einstellungen-1/integrationen/ical-integration.md)
   * [Kontoverwaltung](einstellungen-1/kontoverwaltung/README.md)
     * [Tags](einstellungen-1/kontoverwaltung/tags.md)
