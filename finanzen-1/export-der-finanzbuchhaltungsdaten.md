@@ -27,12 +27,22 @@ Ausgangsrechnungen und Gutschriften müssen sich im Status "versandt" befinden u
 
 Unterhalb der Liste können zwei Optionen für den DATEV-Export aller Einträge der Liste - einschliesslich der nicht sichtbaren Einträge bei mehrseitigen Listen - ausgewählt werden.
 
-### DATEV Export ohne Projektzuordnungen
+### Buchungen und Belege mit DATEV Beleg2Buchung importieren
 
-Hiermit erzeugst du eine für DATEV und viele andere Buchhaltungsprogramme lesbare CSV-Datei mit den Buchungsdaten für den ausgewählten Zeitraum, sortiert und gefiltert wie in der Ansicht.  
+![](../.gitbook/assets/bildschirmfoto-2021-06-27-um-13.31.43.png)
+
+Bei dieser Export-Art wird ein Zip-Archiv erstellt, das zwei Ordner enthält:
+
+![](../.gitbook/assets/bildschirmfoto-2021-06-27-um-13.30.09.png)
+
+Diese Ordner können mit dem DATEV-Modul **Beleg2Buchung** eingelesen werden. Dabei erkennt DATEV zu jeder Buchungszeile aus dem System die passende Beleg-Datei.
+
+### CSV Export ohne Projektzuordnungen
+
+Hiermit erzeugst du eine für die meisten Buchhaltungsprogramme lesbare CSV-Datei mit den Buchungsdaten für den ausgewählten Zeitraum, sortiert und gefiltert wie in der Ansicht.  
 Die Datei kann auch mit einem Tabellenkalkulationsprogramm z.B. Excel geöffnet werden.
 
-### DATEV Export mit Projektzuordnungen
+### CSV Export mit Projektzuordnungen
 
 Diese Option, erzeugt eine ebenso importierbare Datei. Dabei werden für Eingangsrechnungen die auf mehrere Projekte verbucht wurden auch mehrere Buchungszeilen erzeugt.  
 Ausgangsrechnungen und Gutschriften können nur einer Projektnummer zugeordnet werden und werden entsprechend nur mit einer Buchungszeile repräsentiert, die dann aber auch die Projektnummer enthält.
@@ -59,7 +69,7 @@ Die letzte Zeile entfällt wenn die Eingangsrechnung vollständig, also zu 100% 
 
 ![](../.gitbook/assets/bildschirmfoto-2020-03-09-um-10.03.36.png)
 
-Es öffnet sich ein Dialog in dem ich in der Listenansich der linken Spalte Dokumente auswählen kann und im Formular in der rechten Spalte entscheide, welche Eigenschaften des Dokuments sich ändern sollen.
+Es öffnet sich ein Dialog in dem ich in der Listenansicht der linken Spalte Dokumente auswählen kann und im Formular in der rechten Spalte entscheide, welche Eigenschaften des Dokuments sich ändern sollen.
 
 ![](../.gitbook/assets/bildschirmfoto-2020-03-09-um-10.04.22.png)
 
