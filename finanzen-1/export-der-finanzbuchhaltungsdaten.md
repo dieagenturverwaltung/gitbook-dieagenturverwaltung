@@ -37,6 +37,10 @@ Bei dieser Export-Art wird ein Zip-Archiv erstellt, das zwei Ordner enthält:
 
 Diese Ordner können mit dem DATEV-Modul **Beleg2Buchung** eingelesen werden. Dabei erkennt DATEV zu jeder Buchungszeile aus dem System die passende Beleg-Datei.
 
+Wie euer Steuerberater die Buchungsdaten und Belege mit Beleg2Buchung in sein System importiert, wird in diesem Video von [Andreas Hausmann  von  der Steuerkanzlei Juhn Partner ](https://www.juhn.com/steuerberater-rechtsanwaelte/andreas-hausmann/)sehr gut erklärt:
+
+{% embed url="https://www.youtube.com/watch?v=9oZ22E4a0Y4" %}
+
 ### CSV Export ohne Projektzuordnungen
 
 Hiermit erzeugst du eine für die meisten Buchhaltungsprogramme lesbare CSV-Datei mit den Buchungsdaten für den ausgewählten Zeitraum, sortiert und gefiltert wie in der Ansicht.  
