@@ -80,6 +80,7 @@
     * [Finanzen](projektverwaltung-1/projekte/finanzen.md)
     * [Agenturleistung](projektverwaltung-1/projekte/agenturleistung.md)
     * [Fremdleistung](projektverwaltung-1/projekte/fremdleistung.md)
+    * [Abrechnungsautomation](projektverwaltung-1/projekte/abrechnungsautomation.md)
     * [Projektplanung](projektverwaltung-1/projekte/planning/README.md)
       * [Pre-Controlling](projektverwaltung-1/projekte/planning/pre-controlling.md)
       * [Forecasting](projektverwaltung-1/projekte/planning/forecasting.md)
