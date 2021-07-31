@@ -14,8 +14,6 @@ Wie das geht, erfährst Du hier:
 
 {% page-ref page="../../zeiterfassung-1/zeiterfassung-an-milestones-von-projekten.md" %}
 
-
-
 {% page-ref page="../../projektverwaltung-1/projekte/projekteinstellungen/projekteinstellungen-zeiterfassung.md" %}
 
 
