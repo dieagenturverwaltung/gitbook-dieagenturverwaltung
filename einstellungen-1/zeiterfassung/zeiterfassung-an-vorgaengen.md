@@ -10,5 +10,13 @@ In den Einstellungen kann generell die Möglichkeit geschaffen werden diese Opti
 
 Dadurch erscheint an jedem Vorgang eine Checkbox "Diesen Vorgang in der Zeiterfassung zur Verfügung stellen". Das bedeutet, du kannst auch nur bestimmte Vorgänge für die Zeiterfassung aktivieren.
 
-Wie das geht, erfährst Du [hier](https://wiki.dieagenturverwaltung.de/zeiterfassung-1/zeiterfassung-an-milestones-von-projekten#zeiterfassung-an-vorgaengen).
+Wie das geht, erfährst Du hier:
+
+{% page-ref page="../../zeiterfassung-1/zeiterfassung-an-milestones-von-projekten.md" %}
+
+
+
+{% page-ref page="../../projektverwaltung-1/projekte/projekteinstellungen/projekteinstellungen-zeiterfassung.md" %}
+
+
 

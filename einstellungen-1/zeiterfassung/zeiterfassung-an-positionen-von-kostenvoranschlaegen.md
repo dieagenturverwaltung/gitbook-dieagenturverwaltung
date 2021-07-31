@@ -8,5 +8,11 @@ Ist diese Funktion aktiviert, kann direkt an einer Position oder Positionsgruppe
 
 In den Einstellungen eines Projekts lassen sich in der Rubrik "Zeiterfassung" auch alle Kostenvoranschlagspositionen eines Projekts auf einen Blick für die Zeiterfassung konfigurieren - auch wenn es im Projekt mehrere Kostenvoranschläge gibt.
 
-Wie das geht und weitere Details dazu findest du [hier](https://wiki.dieagenturverwaltung.de/zeiterfassung-1/zeiterfassung-an-milestones-von-projekten).
+Wie das geht und weitere Details dazu findest du hier:
+
+{% page-ref page="../../zeiterfassung-1/zeiterfassung-an-milestones-von-projekten.md" %}
+
+{% page-ref page="../../projektverwaltung-1/projekte/projekteinstellungen/projekteinstellungen-zeiterfassung.md" %}
+
+
 
