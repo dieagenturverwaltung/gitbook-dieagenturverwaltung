@@ -8,7 +8,7 @@ description: >-
 
 Funktionen entsprechen den Gewerken - z.B. "Grafik Design", "Senior Beratung", "Programmierung" - mit denen die Agentur ihre Leistungen erbringt.
 
-Sie sind ein zentrales Element der Agenturverwaltung, da sie sowohl die Grundlage zur Erstellung von Agenturleistungspositionen in Kostenvoranschlägen und Rechnungen darstellen als auch bei der Zeiterfassung essentiell sind.
+Sie sind ein zentrales Element der Agenturverwaltung, da sie sowohl die Grundlage zur Erstellung von Agenturleistungspositionen in Kostenvoranschlägen und Rechnungen darstellen als auch bei der Zeiterfassung verwendet werden sind.
 
 ### Funktionen für die Agentur definieren
 
@@ -28,7 +28,7 @@ So erkennen Projektleiter bereits früh in einem Projekt, ob wir ein Arbeitszeit
 
 ### Mitarbeitern Funktionen zuweisen
 
-In vielen Fällen stehen einem Mitarbeiter zwei oder mehr Funktionen zur Auswahl, sodass bspw. ein Creative Director je nach Art der Aufgabe zwischen unterschiedlich bepreisten Funktionen wie z.B. "Art Direktion", "Grafikdesign" auswählen kann. 
+In vielen Fällen stehen einem Mitarbeiter zwei oder mehr Funktionen zur Auswahl, sodass bspw. ein Creative Director je nach Art der Aufgabe zwischen Funktionen mit unterschiedlichen Preisen wie z.B. "Art Direktion", "Grafikdesign" auswählen kann. 
 
 Einem Benutzer kann aber auch nur eine Funktion zugewiesen werden. Dann entfällt die Auswahl. Die Zuordnung von Funktionen zu Benutzern findet in den Benutzereinstellungen statt.
 
