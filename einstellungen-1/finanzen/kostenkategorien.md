@@ -12,6 +12,14 @@ Media, Gehälter, Bürokosten, Freelancer Art, Freelancer Development, Bildlizen
 Die Auswertung von Kostenkategorien kann z.B. bei der Entscheidung helfen, ob es sich lohnt Personal für Leistungen einzustellen, die bisher von freien Mitarbeitern geliefert wurden oder laufende Kosten für Miete, Büro, Fahrzeugflotte auf den einzelnen Mitarbeiter umzulegen.   
 Ebenso lässt sich anhand von Kostenkategorien erwägen ob es evtl. Sinn macht ein anderes Reisebüro zu beauftragen oder Leistungen, die bisher inhouse erbracht werden, auszulagern.
 
+#### Umbenennung von Kostenkategorien
+
+Werden Kategorien umbenannt, wirkt sich das auch rückwirkend für alle dieser Kategorie zugeordneten Positionen aus.
+
+### Auswertung von Kostenkategorien
+
+{% page-ref page="../../berichte-1/auswertung-kostenkategorien.md" %}
+
 ### Prozentuale Voreinstellung: z.B. für die Künstlersozialkasse \(KSK\)
 
 Wenn eine neue Kostenkategorie angelegt wird, werden üblicherweise immer 100% als Standard-Anteil vorgeschlagen. Was bedeutet das?
