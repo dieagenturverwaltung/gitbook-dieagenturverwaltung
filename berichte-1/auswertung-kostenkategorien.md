@@ -6,8 +6,6 @@ Dieser Bericht zeigt die kumulierten Summen aller mit Kategorien versehenden Kos
 
 ### Auswertung des Zeitraums
 
-
-
 Der Auswertungs-Zeitraum lässt sich frei einstellen und bezieht sich auf den Leistungzeitraum einer jeweiligen Eingangsrechnung oder Gutschrift.
 
 {% hint style="info" %}
@@ -29,4 +27,10 @@ Media, Gehälter, Bürokosten, Freelancer Art, Freelancer Development, Bildlizen
 
 Die Auswertung von Kostenkategorien kann z.B. bei der Entscheidung helfen, ob es sich lohnt Personal für Leistungen einzustellen, die bisher von freien Mitarbeitern geliefert wurden oder laufende Kosten für Miete, Büro, Fahrzeugflotte auf den einzelnen Mitarbeiter umzulegen.   
 Ebenso lässt sich anhand von Kostenkategorien erwägen ob es evtl. Sinn macht ein anderes Reisebüro zu beauftragen oder Leistungen, die bisher inhouse erbracht werden, auszulagern.
+
+### Kostenkategorien für dein Unternehmen konfigurieren
+
+{% page-ref page="../einstellungen-1/finanzen/kostenkategorien.md" %}
+
+
 

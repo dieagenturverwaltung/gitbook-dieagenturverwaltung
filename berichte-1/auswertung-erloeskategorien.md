@@ -18,7 +18,7 @@ Erlöse aus Ausgangsrechnungen mit Status _in Bearbeitung_ oder _reklamiert_ sow
 Erlöskategorien, die in den Positionen von Kostenvoranschlägen verwendet wurden, werden bei der Erstellung der **Schlussrechnung** aus einem Kostenvoranschlags automatisch mit in die Ausgangsrechnung übertragen, sie fallen also in dieser Statistik an, sobald sie abgerechnet sind.
 {% endhint %}
 
-#### Wie kann ich Erlöskategorien für unser Unternehmen konfigurieren?
+### Erlöskategorien für dein Unternehmen konfigurieren
 
 {% page-ref page="../einstellungen-1/finanzen/erloeskategorien.md" %}
 
