@@ -18,9 +18,25 @@ Wähle im Reiter "Abrechnung" deines Kostenvoranschlags eine Abrechnungsmethode 
 
 Es werden verschiedene Abrechnungsmethoden vorgeschlagen, wähle hier "Abschlussrechnung erstellen" aus.
 
-![](../../../.gitbook/assets/bildschirmfoto-2020-03-08-um-16.25.57.png)
+![](../../../.gitbook/assets/bildschirmfoto-2021-08-28-um-15.05.29.png)
 
 Gib Anschliessend ggf. das gewünschte Rechnungsdatum  und - wenn abweichend vom Kostenvoranschlag - das Projekt an und klicke auf "Ausgangsrechnung jetzt anlegen".
+
+### Abrechnung von angefallenen Fremdleistungen
+
+Das Häkchen beim Erstellen der Abrechnung erlaubt uns, die Summen bestimmter Positionen automatisch anzupassen.
+
+{% hint style="info" %}
+**Anwendungsbeispiel**  
+Wir haben in einer Kostenvoranschlagsposition "Reisekosten" 500,- EUR kalkuliert, mit dem Kunden jedoch vereinbart, dass wir die Reisekosten nach Beleg - also so wie sie anfallen - abrechnen.
+
+Bei der Reise fallen zwei Belege an: Ein Ticket für eine Bahnfahrt \(200,- EUR\) sowie ein Beleg für eine Übernachtung in einem Hotel \(150,- EUR\).  
+Insgesamt sind also 350,- EUR gegen die Position "Reisekosten" angefallen.  
+  
+Wenn ich das Häkchen bei der Erstellung der Schlussrechnung also aktiviert lasst, ändert sich der Wert der Position "Reisekosten" also automatisch auf 350,- EUR, die Summe der gegen diese Position angefallenen _nach Aufwand berechenbaren_ Fremdleistungen.
+{% endhint %}
+
+
 
 ## Statuswechsel des Kostenvoranschlags bei der Abrechnung
 
