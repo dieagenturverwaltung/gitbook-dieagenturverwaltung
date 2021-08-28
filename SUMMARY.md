@@ -100,6 +100,7 @@
       * [Verwendung von Provisionen](finanzen-1/allgemeines-zu-finanzdokumenten/die-positionsliste-1/verwendung-von-provisionen.md)
       * [Verwenden von Buyouts](finanzen-1/allgemeines-zu-finanzdokumenten/die-positionsliste-1/verwenden-von-buyouts.md)
       * [Geplante Budgets an Kostenvoranschlagspositionen](finanzen-1/allgemeines-zu-finanzdokumenten/die-positionsliste-1/geplante-budgets-an-kostenvoranschlagspositionen.md)
+      * [Verwendung von Kosten- und Erlöskategorien](finanzen-1/allgemeines-zu-finanzdokumenten/die-positionsliste-1/verwendung-von-kosten-und-erloeskategorien.md)
     * [Umsatzsteuer, Rabatte, Gesamtsummen](finanzen-1/allgemeines-zu-finanzdokumenten/der-summenblock-am-ende-des-dokuments.md)
     * [Druckversionseinstellungen](finanzen-1/allgemeines-zu-finanzdokumenten/druckversionseinstellungen.md)
     * [Dokument versenden](finanzen-1/allgemeines-zu-finanzdokumenten/dokument-versenden.md)
