@@ -24,7 +24,7 @@ Gib Anschliessend ggf. das gewünschte Rechnungsdatum  und - wenn abweichend vom
 
 ### Abrechnung von angefallenen Fremdleistungen
 
-Das Häkchen beim Erstellen der Abrechnung erlaubt uns, die Summen bestimmter Positionen automatisch anzupassen.
+Das Häkchen beim Erstellen der Abrechnung erlaubt uns, die Summen bestimmter Positionen automatisch anzupassen, wenn Fremdleistungen "nach Aufwand berechenbar" sind.
 
 {% hint style="info" %}
 **Anwendungsbeispiel**  
