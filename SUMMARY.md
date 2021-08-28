@@ -184,7 +184,7 @@
     * [Eingangsrechnungen per E-Mail importieren](einstellungen-1/finanzen/eingangsrechnungen-per-e-mail-in-die-agenturverwaltung-weiterleiten.md)
     * [Provisionen](einstellungen-1/finanzen/provisionen.md)
     * [Textbausteine](einstellungen-1/finanzen/textbausteine.md)
-    * [Kostenkategorien](einstellungen-1/finanzen/kostenkategorien-auswerten.md)
+    * [Kostenkategorien](einstellungen-1/finanzen/kostenkategorien.md)
     * [Erlöskategorien](einstellungen-1/finanzen/erloeskategorien.md)
     * [Agenturfixkosten](einstellungen-1/finanzen/agenturfixkosten.md)
     * [Dokumenten-Appendix](einstellungen-1/finanzen/dokumenten-appendix.md)
