@@ -155,6 +155,7 @@
   * [Vorschauberichte](berichte-1/vorschauberichte.md)
   * [Auswertung Honorarverträge](berichte-1/auswertung-honorarvertraege.md)
   * [Auswertung Kostenkategorien](berichte-1/auswertung-kostenkategorien.md)
+  * [Auswertung Erlöskategorien](berichte-1/auswertung-erloeskategorien.md)
   * [Benutzerstatistik](berichte-1/benutzerstatistik.md)
 * [Adressbuch](adressbuch-1/README.md)
   * [Suche nach Kontakten](adressbuch-1/suche-nach-kontakten.md)
