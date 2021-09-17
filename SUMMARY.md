@@ -181,6 +181,7 @@
     * [Tätigkeiten](einstellungen-1/zeiterfassung/taetigkeiten.md)
     * [Feiertage und Betriebsferien](einstellungen-1/zeiterfassung/feiertage-und-betriebsferien.md)
     * [Abwesenheitstypen](einstellungen-1/zeiterfassung/abwesenheitstypen.md)
+    * [Abwesenheitsassistent](einstellungen-1/zeiterfassung/abwesenheitsassistent.md)
     * [Zeiterfassung an Vorgängen](einstellungen-1/zeiterfassung/zeiterfassung-an-vorgaengen.md)
     * [Zeiterfassung an Positionen von Kostenvoranschlägen](einstellungen-1/zeiterfassung/zeiterfassung-an-positionen-von-kostenvoranschlaegen.md)
   * [Finanzen](einstellungen-1/finanzen/README.md)
