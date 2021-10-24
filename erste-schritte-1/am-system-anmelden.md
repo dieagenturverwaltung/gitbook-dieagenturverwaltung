@@ -14,15 +14,15 @@ Die URL unter die sich Nutzer anmelden und unter der Die Agenturverwaltung für 
 
 > https://_unternehmensname_.dieagenturverwaltung.de
 
-## Abmeldung \(Logout\)
+## Abmeldung (Logout)
 
-Im Einstellungsmenü rechts oben auf der Seite  \(es wird sichtbar wenn du darauf klickst\) befindet sich eine Schaltfläche "abmelden". Diese Schaltfläche zeigt einerseits an, wer gerade angemeldet ist \(indem dein Name dort steht\), andererseits führt ein Klick darauf dazu dass dieser Browser abgemeldet wird.
+Im Einstellungsmenü rechts oben auf der Seite  (es wird sichtbar wenn du darauf klickst) befindet sich eine Schaltfläche "abmelden". Diese Schaltfläche zeigt einerseits an, wer gerade angemeldet ist (indem dein Name dort steht), andererseits führt ein Klick darauf dazu dass dieser Browser abgemeldet wird.
 
 ### Abmeldung von entfernten Geräten
 
 Wenn Du dich beispielsweise gestern in einem Internetcafé auf einem öffentlichen Browser angemeldet  und vergessen hast, dich wieder abzumelden, kannst Du das in deinem Profil tun.
 
-Dazu klickst du wieder auf das Einstellungsmenü \(oben rechts\) und dann auf "Einstellungen". Im nächsten Schritt klickst Du auf die Kachel "Mein Profil". Dort öffnest du den Reiter "Angemeldete Geräte". Hier kannst Du dich mit einem Klick von dem \(entfernten\) Gerät abmelden, in diesem Beispiel vom entfernten Rechner eines Internetcafés in Berlin.
+Dazu klickst du wieder auf das Einstellungsmenü (oben rechts) und dann auf "Einstellungen". Im nächsten Schritt klickst Du auf die Kachel "Mein Profil". Dort öffnest du den Reiter "Angemeldete Geräte". Hier kannst Du dich mit einem Klick von dem (entfernten) Gerät abmelden, in diesem Beispiel vom entfernten Rechner eines Internetcafés in Berlin.
 
 ![](../.gitbook/assets/gera-t-abmelden.png)
 
@@ -32,14 +32,16 @@ Dazu klickst du wieder auf das Einstellungsmenü \(oben rechts\) und dann auf "E
 
 #### Passwort-vergessen Funktion nutzen
 
-Das Login-Formular verweist unten auf eine Passwort-vergessen Funktion. Hast du dein Passwort vergessen, kannst du diesem Link folgen. Du gibst anschliessend die E-Mail-Adresse an, die für dich in der Agenturverwaltung gespeichert ist.  
+Das Login-Formular verweist unten auf eine Passwort-vergessen Funktion. Hast du dein Passwort vergessen, kannst du diesem Link folgen. Du gibst anschliessend die E-Mail-Adresse an, die für dich in der Agenturverwaltung gespeichert ist.\
 Unser System sendet dir anschliessend an dieses E-Mail-Konto einen Link. Öffne den Link und vergibt dir ein neues Passwort.
 
 #### Eigenes Passwort neu setzen
 
 Wenn Du bereits angemeldet bist und dein Passwort neu setzen möchtest, kannst Du das in deinen Profileinstellungen machen:
 
-{% page-ref page="../einstellungen-1/benutzerverwaltung/mein-profil.md" %}
+{% content-ref url="../einstellungen-1/benutzerverwaltung/mein-profil.md" %}
+[mein-profil.md](../einstellungen-1/benutzerverwaltung/mein-profil.md)
+{% endcontent-ref %}
 
 
 
@@ -64,8 +66,8 @@ Hat ein neu angelegter Nutzer bisher noch gar kein Passwort so kannst du ihm ein
 {% hint style="info" %}
 Passwörter werden  in unserer Datenbank destruktiv verschlüsselt gespeichert. Selbst unser Kundenservice kann diese Passwörter nicht mehr einsehen oder entschlüsseln.
 
-**Unser Kundenservice wird nie von dir verlangen dein Passwort zu nennen!   
-Bitte sende keine Passwörter per E-Mail an uns.**
+**Unser Kundenservice wird nie von dir verlangen dein Passwort zu nennen! **\
+**Bitte sende keine Passwörter per E-Mail an uns.**
 {% endhint %}
 
 ## **Ich kann mich nicht anmelden**
@@ -80,7 +82,7 @@ Sollte das System deine Anmeldung verweigern, wird dir eine Fehlermeldung angeze
 
 #### Der Zugang für diesen Account temporär deaktivert
 
-Der kostenlose Testzeitraum für Die Agenturverwaltung ist abgelaufen.  
+Der kostenlose Testzeitraum für Die Agenturverwaltung ist abgelaufen.\
 Sprich den Kundenservice an: [info@dieagenturverwaltung.de](mailto:info@dieagenturverwaltung.de)
 
 #### Bitte gib deine Emailadresse und dein Passwort an
@@ -98,4 +100,3 @@ Solltest Du diese Meldung sehen ohne dass du beim Anmelden mehrere Fehlversuche 
 ## Ich kann mich anmelden, sehe aber keine Menüpunkte
 
 Möglicherweise wurden dir noch keine Berechtigungen erteilt. Sprich einen Administrator an.
-

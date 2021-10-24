@@ -6,23 +6,23 @@ Im Reiter "Zahlung" kannst Du eine Eingangsrechnung als bezahlt markieren.
 
 Zu einem Zahlungseingang gehört
 
-* Ein Betrag \(er ist evtl. abweichend vom Rechnungsbetrag\)
+* Ein Betrag (er ist evtl. abweichend vom Rechnungsbetrag)
 * Ein Zahlungsdatum
-* Eine Zahlungsart \(z.B. Bar, Girokonto, Paypal\)
+* Eine Zahlungsart (z.B. Bar, Girokonto, Paypal)
 
 Sind diese Werte eingetragen kann anschliessend der Zahlungsstatus von "offen" auf "bezahlt" gesetzt werden.
 
 Ein Klick auf eine Schaltfläche der **Schnelleingabe** auf der rechten Seite füllt diese Felder alle auf einmal für dich aus, du kannst aber anschliessend auch noch Anpassungen vornehmen.
 
 {% hint style="info" %}
-**Hinweis:** Der Zahlungsstatus hat mit dem Dokumentenstatus nichts gemein.
+**Hinweis: **Der Zahlungsstatus hat mit dem Dokumentenstatus nichts gemein.
 {% endhint %}
 
 Eine Eingangsrechnung, die als "bezahlt" markiert wurde, taucht nicht mehr in der Liste der **Kreditoren** auf.
 
 Mehr zu offenen Posten findest du hier:
 
-{% page-ref page="../offene-posten.md" %}
-
-
+{% content-ref url="../offene-posten.md" %}
+[offene-posten.md](../offene-posten.md)
+{% endcontent-ref %}
 

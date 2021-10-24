@@ -9,28 +9,28 @@ Dieser Bericht zeigt die kumulierten Summen aller mit Kategorien versehenden Kos
 Der Auswertungs-Zeitraum lässt sich frei einstellen und bezieht sich auf den Leistungzeitraum einer jeweiligen Eingangsrechnung oder Gutschrift.
 
 {% hint style="info" %}
-**Beispiel: Teilweise Überschneidung von Leistungszeiträumen**  
-Wir haben eine Media-Rechnung von Youtube erhalten und buchen diese ins System ein und vermerken   
-a\) den Leistungszeitraum "01.Juli - 31August 2021"  
-b\) die Erlöskategorie "Media" und  
-c\) den Betrag "2.000,- EUR"  
-  
+**Beispiel: Teilweise Überschneidung von Leistungszeiträumen**\
+Wir haben eine Media-Rechnung von Youtube erhalten und buchen diese ins System ein und vermerken \
+a) den Leistungszeitraum "01.Juli - 31August 2021"\
+b) die Erlöskategorie "Media" und\
+c) den Betrag "2.000,- EUR"\
+\
 Werten wir nun den Zeitraum Juli aus, werden lediglich 1.000 EUR in unserem Bericht berücksichtigt, da der Auswertungszeitraum Juli nur 50% des Leistungzeitraums unserer Youtube-Rechnung entspricht.
 {% endhint %}
 
 ### Anwendungsbeispiele für Kostenkategorien
 
 {% hint style="info" %}
-**Beispiele für gängige Kostenkategorien**  
-Media, Gehälter, Bürokosten, Freelancer Art, Freelancer Development, Bildlizenzen, Reisekosten, 
+**Beispiele für gängige Kostenkategorien**\
+Media, Gehälter, Bürokosten, Freelancer Art, Freelancer Development, Bildlizenzen, Reisekosten,&#x20;
 {% endhint %}
 
-Die Auswertung von Kostenkategorien kann z.B. bei der Entscheidung helfen, ob es sich lohnt Personal für Leistungen einzustellen, die bisher von freien Mitarbeitern geliefert wurden oder laufende Kosten für Miete, Büro, Fahrzeugflotte auf den einzelnen Mitarbeiter umzulegen.   
+Die Auswertung von Kostenkategorien kann z.B. bei der Entscheidung helfen, ob es sich lohnt Personal für Leistungen einzustellen, die bisher von freien Mitarbeitern geliefert wurden oder laufende Kosten für Miete, Büro, Fahrzeugflotte auf den einzelnen Mitarbeiter umzulegen. \
 Ebenso lässt sich anhand von Kostenkategorien erwägen ob es evtl. Sinn macht ein anderes Reisebüro zu beauftragen oder Leistungen, die bisher inhouse erbracht werden, auszulagern.
 
 ### Kostenkategorien für dein Unternehmen konfigurieren
 
-{% page-ref page="../einstellungen-1/finanzen/kostenkategorien.md" %}
-
-
+{% content-ref url="../einstellungen-1/finanzen/kostenkategorien.md" %}
+[kostenkategorien.md](../einstellungen-1/finanzen/kostenkategorien.md)
+{% endcontent-ref %}
 

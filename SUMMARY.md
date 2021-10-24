@@ -116,7 +116,7 @@
       * [Akonto-Rechnung erstellen](finanzen-1/kva/abrechnung-von-kostenvoranschlaegen/akonto-rechnung-erstellen.md)
       * [Schlussrechnung erstellen](finanzen-1/kva/abrechnung-von-kostenvoranschlaegen/schlussrechnung-erstellen.md)
       * [Teilleistungsrechnung erstellen](finanzen-1/kva/abrechnung-von-kostenvoranschlaegen/teilleistungsrechnung-erstellen.md)
-      * [Periodische Teilabrechnung \(Retainer\)](finanzen-1/kva/abrechnung-von-kostenvoranschlaegen/periodische-teilabrechnung-retainer.md)
+      * [Periodische Teilabrechnung (Retainer)](finanzen-1/kva/abrechnung-von-kostenvoranschlaegen/periodische-teilabrechnung-retainer.md)
     * [Wiedervorlagen](finanzen-1/kva/wiedervorlagen.md)
   * [Eingangsrechnungen](finanzen-1/eingangsrechnungen/README.md)
     * [Neue Eingangsrechnung erfassen](finanzen-1/eingangsrechnungen/neue-eingangsrechnung-erfassen.md)
@@ -194,6 +194,9 @@
     * [Dokumenten-Appendix](einstellungen-1/finanzen/dokumenten-appendix.md)
   * [Berichte](einstellungen-1/berichte/README.md)
     * [Benutzerdefinierte Filter](einstellungen-1/berichte/benutzerdefinierte-filter.md)
+  * [Prozessdefinitionen](einstellungen-1/prozessdefinitionen/README.md)
+    * [Prozess-Konfigurator für Projekte](einstellungen-1/prozessdefinitionen/prozess-konfigurator-fuer-projekte.md)
+    * [Prozess-Konfigurator für Eingangsrechnungen](einstellungen-1/prozessdefinitionen/prozess-konfigurator-fuer-eingangsrechnungen.md)
   * [Integrationen](einstellungen-1/integrationen/README.md)
     * [Slack Messaging App](einstellungen-1/integrationen/slack-messaging-app.md)
     * [DNS-Einstellungen](einstellungen-1/integrationen/dns-einstellungen.md)
@@ -210,4 +213,3 @@
   * [Weitere Einstellungen](einstellungen-1/weitere-einstellungen.md)
 * [FAQ](https://www.dieagenturverwaltung.de/tag/faq/)
 * [Neue Funktionen](https://www.dieagenturverwaltung.de/blog/was-gibts-neues/)
-

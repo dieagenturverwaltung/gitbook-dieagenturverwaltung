@@ -22,7 +22,5 @@ Der Wert richtet sich ggf auch nach dem oben ausgewählten Leistungszeitraum. Is
 
 ![](../.gitbook/assets/clip3.jpg)
 
-{% embed url="https://youtu.be/O\_Ey1nPlMw8" %}
-
-
+{% embed url="https://youtu.be/O_Ey1nPlMw8" %}
 

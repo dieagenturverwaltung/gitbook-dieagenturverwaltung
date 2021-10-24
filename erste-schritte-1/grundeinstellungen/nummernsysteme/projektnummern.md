@@ -11,21 +11,21 @@ Sprecht uns an, wenn ihr weitergehende Fragen zu diesem Thema haben.
 
 #### **Wir empfehl**en dieses Projektnummernmuster
 
-Die Nummern setzen sich zusammen aus ‌  
-&lt;Kundenkürzel&gt;-&lt;vierstellige durchlaufende Zahl&gt;
+Die Nummern setzen sich zusammen aus ‌\
+\<Kundenkürzel>-\<vierstellige durchlaufende Zahl>
 
-> TUI-0029‌  
+> TUI-0029‌\
 > ‌BAB-0002
 
 Die vierstellige durchlaufende Zahl zählt also innerhalb eines Kunden alle Projekte.
 
 {% hint style="info" %}
-Es ist bewusst keine Jahreszahl in die Nummer integriert, da es häufig vorkommt, dass Projekte über Jahresgrenzen hinweg fortlaufen.  
-  
+Es ist bewusst keine Jahreszahl in die Nummer integriert, da es häufig vorkommt, dass Projekte über Jahresgrenzen hinweg fortlaufen.\
+\
 Eine Jahreszahl wäre dann lediglich ein Indikator dafür, in welchem Jahr das Projekt angelegt wurde, diese Information ist über eine Agentursoftware jedoch ohnehin zugänglich.
 {% endhint %}
 
-#### **Weitere Vorteile dieses Musters** <a id="weitere-vorteile-dieses-musters"></a>
+#### **Weitere Vorteile dieses Musters** <a href="weitere-vorteile-dieses-musters" id="weitere-vorteile-dieses-musters"></a>
 
 * Die Nummer ist als Dateiname - sogar auf einem Webserver - geeignet
 * In einem Dateisystem sortieren sich Projektnummern automatisch nach Kunde und durchlaufender Nummer
@@ -33,5 +33,4 @@ Eine Jahreszahl wäre dann lediglich ein Indikator dafür, in welchem Jahr das P
 * Rückschlüsse des Kunden auf andere Projekte der Agentur sind nicht möglich
 * Wenn Kundenkürzel in der Agentur etabliert sind, lässt sich leicht danach suchen
 
-### \*\*\*\*
-
+### ****

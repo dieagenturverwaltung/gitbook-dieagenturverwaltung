@@ -6,7 +6,7 @@ Die Verwendung von Vorgängen zur Projektplanung ist ein häufiger Anwendungsfal
 Du möchtest mehr über Vorgänge im Allgemeinen erfahren? Dann folge [diesem Link.](../../vorgaenge-1/)
 {% endhint %}
 
-Ein gängiges Vorgehen ist es, die Positionen eines Kostenvoranschlags nach dessen Freigabe durch den Kunden in Vorgänge zu überführen. 
+Ein gängiges Vorgehen ist es, die Positionen eines Kostenvoranschlags nach dessen Freigabe durch den Kunden in Vorgänge zu überführen.&#x20;
 
 Dazu navigieren wir zum entsprechenden Projekt eines Kostenvoranschlags und öffnen in diesem Projekt den Reiter "Vorgänge"
 
@@ -14,7 +14,7 @@ Dazu navigieren wir zum entsprechenden Projekt eines Kostenvoranschlags und öff
 
 In diesem Reiter können nun Vorgänge über die Schnelleingabe-Maske für Vorgänge, welche über den ![](../../.gitbook/assets/bildschirmfoto-2019-12-05-um-15.21.01.png)-Button erreicht werden kann, angelegt werden. Durch das Anlegen der Vorgänge direkt im Projekt werden die Vorgänge automatisch mit diesem assoziiert.
 
-> Abhängig von der Granularität der Kostenvoranschlagspositionen werden die Positionen entweder 1:1 übernommen oder in diesem Schritt in sinnvolle Arbeitspakete für die Umsetzung gestückelt. 
+> Abhängig von der Granularität der Kostenvoranschlagspositionen werden die Positionen entweder 1:1 übernommen oder in diesem Schritt in sinnvolle Arbeitspakete für die Umsetzung gestückelt.&#x20;
 >
 > Wie eine sinnvolle Stückelung aussieht, ist vor abhängig von der Art des Projektes, der etablierten Arbeitsweise des Teams und der Frage, ob neben der Agenturverwaltung noch ein weiteres Projektmanagement- oder Issue-Tracking-Tool verwendet wird.
 
@@ -37,15 +37,15 @@ Ob und wie viele Kommentare es zu einem Vorgang gibt, ist bereits auf den Vorgan
 ![](../../.gitbook/assets/bildschirmfoto-2019-12-05-um-15.35.15.png)
 
 {% hint style="info" %}
-**Auf Kommentare direkt aus dem E-Mail-Programm antworten**  
-Alle Beteiligten eines Vorgangs \(Verantwortlicher und die Beobachter\) erhalten Kommentare auch per E-Mail und können auf diese direkt aus ihrem E-Mail-Programm antworten ohne sich bei der Agenturverwaltung anzumelden. Die Antwort wird dann als neuer Kommentar gespeichert und allen anderen Beteiligten erneut per E-Mail zugestellt.
+**Auf Kommentare direkt aus dem E-Mail-Programm antworten**\
+****Alle Beteiligten eines Vorgangs (Verantwortlicher und die Beobachter) erhalten Kommentare auch per E-Mail und können auf diese direkt aus ihrem E-Mail-Programm antworten ohne sich bei der Agenturverwaltung anzumelden. Die Antwort wird dann als neuer Kommentar gespeichert und allen anderen Beteiligten erneut per E-Mail zugestellt.
 {% endhint %}
 
 ### Vorgänge beobachten, um den Überblick zu behalten
 
 Vor allem als Projektmanager ist es notwendig, den aktuellen Fertigstellungsgrad und die Einhaltung von Meilensteinen im Blick zu behalten, um den Projekterfolg sicher zu stellen. Ein sinnvoller Weg, ist das regelmäßige Beobachten der Projektvorgänge. Dies kann entweder im Reiter "Vorgänge" im Projekt geschehen oder indem ich als Nutzer der Agenturverwaltung alle für mich relevanten Vorgänge beobachte. Wie die Beobachten-Funktion im Detail funktioniert, erfahrt ihr hier:
 
-{% page-ref page="../../vorgaenge-1/vorgaenge-die-ich-beobachte.md" %}
-
-
+{% content-ref url="../../vorgaenge-1/vorgaenge-die-ich-beobachte.md" %}
+[vorgaenge-die-ich-beobachte.md](../../vorgaenge-1/vorgaenge-die-ich-beobachte.md)
+{% endcontent-ref %}
 

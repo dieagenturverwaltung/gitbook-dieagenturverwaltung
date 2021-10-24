@@ -1,16 +1,16 @@
 # Wiedervorlagen
 
-  
+\
 Ausgangsrechnungen können dir oder einem anderen Nutzer im Team im Reiter "Wiedervorlagen" zu einem bestimmten Datum vorgelegt werden.‌
 
 Mehr zu Wiedervorlagen erfährst du hier:
 
-{% page-ref page="../../wiedervorlagen-1/" %}
+{% content-ref url="../../wiedervorlagen-1/" %}
+[wiedervorlagen-1](../../wiedervorlagen-1/)
+{% endcontent-ref %}
 
 
 
 
 
-  
-
-
+\

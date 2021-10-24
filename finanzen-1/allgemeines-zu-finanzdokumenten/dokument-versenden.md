@@ -6,11 +6,13 @@
 
 Damit Dokumente wie z.B. Kostenvoranschläge und Rechnungen über den Reiter "E-Mail-Versand" an Kunden versendet werden können muss zunächst sichergestellt sein, dass die richtigen DNS-Einstellungen bei eurem Provider für eure E-Mail-Domain hinterlegt wurden.
 
-Mehr dazu findet Ihr unter Einstellungen &gt; Integrationen &gt; DNS-Einstellungen
+Mehr dazu findet Ihr unter Einstellungen > Integrationen > DNS-Einstellungen
 
 Es muss ein CNAME sowie ein TXT-Record zu euren DNS-Einstellungen bei eurem Domain-Provider hinzugefügt werden.
 
-{% page-ref page="../../einstellungen-1/integrationen/dns-einstellungen.md" %}
+{% content-ref url="../../einstellungen-1/integrationen/dns-einstellungen.md" %}
+[dns-einstellungen.md](../../einstellungen-1/integrationen/dns-einstellungen.md)
+{% endcontent-ref %}
 
 ### E-Mail erstellen
 
@@ -20,9 +22,9 @@ Um eine E-Mail zu einem Finanzdokument zu erstellen öffnen wir den Reiter E-Mai
 
 Die Empfänger E-Mail-Adresse ergibt sich - sofern gegeben - aus der am Kontakt hinterlegten E-Mail-Adresse oder E-Mails die zuvor auf diesen Projekt verfasst wurden.
 
-Als Bcc-Empfänger \(Blindkopie\) wird automatisch der angemeldete Benutzer vorgeschlagen, als Betreff der Dokumententyp sowie die Dokumentennummer.
+Als Bcc-Empfänger (Blindkopie) wird automatisch der angemeldete Benutzer vorgeschlagen, als Betreff der Dokumententyp sowie die Dokumentennummer.
 
-Der vorgeschlagene Nachrichtentext kann hier angepasst werden. 
+Der vorgeschlagene Nachrichtentext kann hier angepasst werden.&#x20;
 
 Wurden Textbausteine wie Signaturen, oder verschiedene Anschreiben im System hinterlegt, können diese rechts oberhalb des Nachrichtentextfelds ausgewählt und hinzugefügt werden. Auch in E-Mails können Variablen verwendet werden.
 
@@ -44,30 +46,29 @@ Das Dokument wird an den bzw. die Empfänger gesendet. Unser Finanzdokument - hi
 
 Wird ein Dokument dann aus dem System versendet wird automatisch der Status geändert.
 
-a\) bei Ausgangsrechnungen und Gutschriften auf "versandt"  
-b\) bei Kostenvoranschlägen auf "wartet auf Freigabe"
+a) bei Ausgangsrechnungen und Gutschriften auf "versandt"\
+b) bei Kostenvoranschlägen auf "wartet auf Freigabe"
 
-Eine gesendete E-Mail zeigt in der Liste ihren Status:   
-- Entwurf  
-- versendet  
-- erfolgreich zugestellt  
-- Versand fehlgeschlagen  
-- durch Empfänger geöffnet  
-- als Spam markiert
+Eine gesendete E-Mail zeigt in der Liste ihren Status: \
+\- Entwurf\
+\- versendet\
+\- erfolgreich zugestellt\
+\- Versand fehlgeschlagen\
+\- durch Empfänger geöffnet\
+\- als Spam markiert
 
-Die letzten beiden Stati \(geöffnet,  sind abhängig davon ob der E-Mail-Server des Empfängers diese Informationen an uns zurückmeldet.
+Die letzten beiden Stati (geöffnet,  sind abhängig davon ob der E-Mail-Server des Empfängers diese Informationen an uns zurückmeldet.
 
 **Ein Dokument kann mehrmals versendet werden. Eine E-Mail kann auch zunächst nicht versendet sondern nur als Entwurf gespeichert werden.**
 
 ## Versand eines Links
 
-Über die Schaltfläche "Link zur Druckversion per Email senden" öffnet sich - sofern ein E-Mail-Programm auf deinem Computer installiert ist - eine E-Mail die einen Link zur Druckversion dieses Dokuments enthält. Diesen Link kannst du versenden. Der Empfänger benötigt keine Zugangsdaten um diesen Link zu öffnen. 
+Über die Schaltfläche "Link zur Druckversion per Email senden" öffnet sich - sofern ein E-Mail-Programm auf deinem Computer installiert ist - eine E-Mail die einen Link zur Druckversion dieses Dokuments enthält. Diesen Link kannst du versenden. Der Empfänger benötigt keine Zugangsdaten um diesen Link zu öffnen.&#x20;
 
-![](../../.gitbook/assets/bildschirmfoto-2020-03-07-um-15.46.30%20%281%29.png)
+![](<../../.gitbook/assets/bildschirmfoto-2020-03-07-um-15.46.30 (1).png>)
 
 ## Speichern und versenden eines PDFs ausserhalb des Systems
 
 Wir empfehlen generell den Versand der Druckversion als PDF-Dokument da ein Anhang höhere Verbindlichkeit für den Kunden hat und später ggf. auch Offline in seinem E-Mail-Programm auffindbar ist.
 
-Nach dem Öffnen der Druckversion kann das PDF einfach über das Browser-Menü \(Datei &gt; Speichern unter bzw. Ablage &gt; Speichern unter\) auf dem Computer gespeichert werden und anschliessend auf einem beliebigen digitalen Kanal oder ausgedruckt per Post versendet werden.
-
+Nach dem Öffnen der Druckversion kann das PDF einfach über das Browser-Menü (Datei > Speichern unter bzw. Ablage > Speichern unter) auf dem Computer gespeichert werden und anschliessend auf einem beliebigen digitalen Kanal oder ausgedruckt per Post versendet werden.

@@ -1,11 +1,11 @@
 # Projekte
 
-Die Agenturverwaltung verwendet für die Abbildung der Auftraggeber-Seite drei hierarchische Ebenen: Kunde &gt; Etat &gt; **Projekt**. 
+Die Agenturverwaltung verwendet für die Abbildung der Auftraggeber-Seite drei hierarchische Ebenen: Kunde > Etat > **Projekt**.&#x20;
 
 ![](../../.gitbook/assets/1.png)
 
-Zu einem Kunden können ein oder mehrere Etats verwaltet werden.   
-Innerhalb eines Etats kann es ein oder mehrere Projekte geben.  
+Zu einem Kunden können ein oder mehrere Etats verwaltet werden. \
+Innerhalb eines Etats kann es ein oder mehrere Projekte geben.\
 Diese Seite behandelt die unterste Ebene: **das Projekt**.
 
 Das Projekt ist die Ebene, auf welcher die operative Arbeit einer Agentur abgebildet wird. Hier werden unter anderem:
@@ -21,7 +21,7 @@ Das Projekt ist die Ebene, auf welcher die operative Arbeit einer Agentur abgebi
 Ein Projekt ist darüber hinaus die Grundlage für viele operative Prozesse in der Agenturverwaltung:
 
 * Projektmitarbeiter buchen Zeit auf Projekte
-* Fremdleistungen werden Projekten zugeordnet 
+* Fremdleistungen werden Projekten zugeordnet&#x20;
 * Vorgänge, also Teilaufgaben, können in Projekten verwaltet werden
 * Kostenvoranschläge werden im Rahmen von Projekten erstellt
 * Aufwände aus Projekten werden in Rechnungen überführt
@@ -35,7 +35,9 @@ Die Projektnummer ist die eindeutige Kennung, die beim Erstellen eines Projekts 
 
 Nach welchem Muster eine Projektnummer aufgebaut sein kann, erfährst du hier:
 
-{% page-ref page="../../erste-schritte-1/grundeinstellungen/nummernsysteme/" %}
+{% content-ref url="../../erste-schritte-1/grundeinstellungen/nummernsysteme/" %}
+[nummernsysteme](../../erste-schritte-1/grundeinstellungen/nummernsysteme/)
+{% endcontent-ref %}
 
 ## Projektstatus
 
@@ -46,18 +48,17 @@ Ein Projekt im Status `abzurechnen` signalisiert, dass die Arbeiten abgeschlosse
 Der Status `ruhend` dokumentiert, dass ein Projekt zur Zeit zwar nicht geschlossen ist, sich jedoch wie ein geschlossenes Projekt verhält, d.h. es können z.B. keine Zeiten darauf gebucht werden.
 
 {% hint style="info" %}
-**Statuswechsel nur mit bestimmten Berechtigungen ermöglichen**  
-Es kann auch definiert werden, dass ein Nutzer nur unter bestimmten Bedingungen - z.B. nur mit Administrator-Rechten -  einen Status ändern kann.   
-Ein Anwendungsszeario wäre z.B. das erneute Öffnen eines bereits geschlossenen Projekts nur durch Administratoren zu erlauben.  
-Sprecht unseren Kundenservice an wenn ihr solche Regeln in euren Abläufen habt:  
-info@dieagenturverwaltung.de
+**Statuswechsel nur mit bestimmten Berechtigungen ermöglichen**\
+Es kann auch definiert werden, dass ein Nutzer nur unter bestimmten Bedingungen - z.B. nur mit Administrator-Rechten -  einen Status ändern kann. \
+Ein Anwendungsszenario wäre z.B. das erneute Öffnen eines bereits geschlossenen Projekts nur durch Administratoren zu erlauben.\
+Sprecht unseren Kundenservice an wenn ihr solche Regeln in euren Abläufen habt, könnt ihr diese unter Einstellungen > Prozessdefinitionen > Status-Konfigurator für Projekte definieren.
 {% endhint %}
 
 ## Wann sollte ein Projekt unterteilt werden?
 
 Projekte in Teilschritte zu zerlegen macht aus unterschiedlichsten Gründen Sinn, beispielsweise weil sich Teilabschnitte leichter kalkulieren, beim Einkauf freigeben und abrechnen lassen.
 
-Weitere Hinweise dazu in unserem Blog:  
+Weitere Hinweise dazu in unserem Blog:\
 [https://www.dieagenturverwaltung.de/blog/projekte-richtig-unterteilen/](https://www.dieagenturverwaltung.de/blog/projekte-richtig-unterteilen/)
 
 ## Auswertung mehrerer Projekte
@@ -66,7 +67,7 @@ Um Gruppen von Projekten auszuwerten bieten sich entweder Etats an oder falls di
 
 Wie Benutzerdefinierte Filter verwendet werden steht hier:
 
-{% page-ref page="../../einstellungen-1/berichte/benutzerdefinierte-filter.md" %}
-
-
+{% content-ref url="../../einstellungen-1/berichte/benutzerdefinierte-filter.md" %}
+[benutzerdefinierte-filter.md](../../einstellungen-1/berichte/benutzerdefinierte-filter.md)
+{% endcontent-ref %}
 

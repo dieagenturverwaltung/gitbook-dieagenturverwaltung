@@ -8,7 +8,7 @@ description: >-
 
 Das ist vor allem sinnvoll, wenn wir innerhalb eines Tages viel zwischen unterschiedlichen Projekten hin und her springen und unsere Zeiten möglichst exakt erfassen wollen.
 
-Um die Timer-Funktion zu nutzen, muss sie unter Einstellungen &gt; Zeiterfassung aktiviert sein:
+Um die Timer-Funktion zu nutzen, muss sie unter Einstellungen > Zeiterfassung aktiviert sein:
 
 ![](../.gitbook/assets/timer.png)
 
@@ -16,13 +16,15 @@ Ein Timer ist eine Stoppuhr, die jeder Benutzer für sich laufen lassen kann, um
 
 In dem nachfolgenden Video erfahren wir, wie die Zeiterfassung mit dem Timer funktioniert. Solltet ihr diesen Inhalt lieber lesen wollen, scrollt einfach über das Video hinweg.
 
-{% embed url="https://youtu.be/zqwbNJLg7QM" caption="Screencast: Zeiterfassung mit dem Timer: einfach und minutengenau" %}
+{% embed url="https://youtu.be/zqwbNJLg7QM" %}
+Screencast: Zeiterfassung mit dem Timer: einfach und minutengenau
+{% endembed %}
 
-Wenn wir mit einer neuen Tätigkeit beginnen, können wir den Timer einfach aus dem Menü starten. Wir sehen dann im Menü, dass gerade ein Timer im Hintergrund läuft. Diese Seite können wir dann verlassen und später zurückkehren.   
+Wenn wir mit einer neuen Tätigkeit beginnen, können wir den Timer einfach aus dem Menü starten. Wir sehen dann im Menü, dass gerade ein Timer im Hintergrund läuft. Diese Seite können wir dann verlassen und später zurückkehren.  &#x20;
 
 ![](../.gitbook/assets/zeit1.png)
 
-Zu einem späteren Zeitpunkt stoppen wir den Timer einfach aus dem Hauptmenü heraus. Es öffnet sich ein Dialog, in dem wir Projekt, Funktion und weitere Details angeben können. Anschliessend speichern wir den Eintrag.  
+Zu einem späteren Zeitpunkt stoppen wir den Timer einfach aus dem Hauptmenü heraus. Es öffnet sich ein Dialog, in dem wir Projekt, Funktion und weitere Details angeben können. Anschliessend speichern wir den Eintrag. &#x20;
 
 ![](../.gitbook/assets/bildschirmfoto-2019-05-13-um-11.11.10.png)
 
@@ -31,7 +33,7 @@ Wir können den Timer auch direkt aus der Zeiterfassungsliste starten um eine Ak
 ![](../.gitbook/assets/zeit4.png)
 
 {% hint style="info" %}
-**Hinweis:** Nutzen wir die Schaltfäche "Start" an einem Eintrag, der nicht das heutige Datum hat \(z.B. um eine Aktivität von gestern fortzusetzen\), wird ein neuer Eintrag als Kopie davon zum heutigem Datum angelegt. Die Dauer dieses Eintrags startet dann bei Null.
+**Hinweis: **Nutzen wir die Schaltfäche "Start" an einem Eintrag, der nicht das heutige Datum hat (z.B. um eine Aktivität von gestern fortzusetzen), wird ein neuer Eintrag als Kopie davon zum heutigem Datum angelegt. Die Dauer dieses Eintrags startet dann bei Null.
 {% endhint %}
 
 Über die Schaltfläche "Stop" beenden wir den Timer und können ggf. weitere Details für die Zeiterfassung ergänzen. Abschliessend speichern wir den Eintrag.
@@ -50,8 +52,6 @@ Wir können den Timer auch direkt aus der Zeiterfassungsliste starten um eine Ak
 ![](../.gitbook/assets/bildschirmfoto-2019-05-13-um-11.19.00.png)
 
 {% hint style="info" %}
-**Hinweis:** Nutzen wir die Schaltfäche "Start" an einem Eintrag, der nicht das heutige Datum hat \(z.B. um eine Aktivität von gestern fortzusetzen\), wird ein neuer Eintrag als Kopie davon zum heutigem Datum angelegt. Die Dauer dieses Eintrags startet dann bei Null. Auf diese Weisen können Projektmitarbeiter komfortabel an den Aufgaben des Vortags weiterarbeiten, ohne Informationen wie Projektname oder Funktion erneut eingeben zu müssen.
+**Hinweis: **Nutzen wir die Schaltfäche "Start" an einem Eintrag, der nicht das heutige Datum hat (z.B. um eine Aktivität von gestern fortzusetzen), wird ein neuer Eintrag als Kopie davon zum heutigem Datum angelegt. Die Dauer dieses Eintrags startet dann bei Null. Auf diese Weisen können Projektmitarbeiter komfortabel an den Aufgaben des Vortags weiterarbeiten, ohne Informationen wie Projektname oder Funktion erneut eingeben zu müssen.
 {% endhint %}
-
-
 

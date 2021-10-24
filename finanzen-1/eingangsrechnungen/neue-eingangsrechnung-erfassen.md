@@ -2,7 +2,7 @@
 
 ## Erfassung von Eingangsrechnungen, die pauschal abgerechnet werden
 
-{% embed url="https://youtu.be/Xo\_a1KqpeaE" %}
+{% embed url="https://youtu.be/Xo_a1KqpeaE" %}
 
 ## Erfassung von Eingangsrechnungen, die nach Aufwand abgerechnet werden
 
@@ -13,7 +13,7 @@
 Dieser Kostentyp sorgt dafür dass wir die Lieferantenrechnung zwar als Teil der Projektkosten erfassen, dokumentiert jedoch auch, dass sie nicht an den Kunden weiterberechnet werden.
 
 {% hint style="info" %}
-**Beispiele:**  
+**Beispiele:**\
 Bewirtungskosten mit dem Kunden, falsch eingekaufte Lieferungen, Strafzettel usw.
 {% endhint %}
 
@@ -28,7 +28,6 @@ Zu Dokumentationszwecken können Freelancer-Rechnungen dann mit dem Kostentyp "G
 Unter einer Durchlaufenden Rechnung versteht man dass unser Lieferant die Rechnung zwar direkt an unseren Kunden stellt und der Kunde diese auch direkt an den Lieferanten bezahlt, die Agentur dazwischen jedoch die Prüfung sowohl der Beauftragung als auch der Abrechnung vornimmt.
 
 {% hint style="info" %}
-**Warum Durchläufer?**  
+**Warum Durchläufer?**\
 Dieses Konstrukt ist z.B. bei grösseren Filmproduktionen oder Media-Budgets üblich. Die Agentur trägt dadurch kein Zahlungsausfallrisiko und muss auch kein Geld für den Kunden auslegen. In den meisten Fällen berechnet die Agentur dem Kunden für die Abwicklung des Auftrags eine Provision.
 {% endhint %}
-

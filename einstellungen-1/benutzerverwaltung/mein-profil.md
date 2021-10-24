@@ -12,22 +12,26 @@ Im Reiter Stammdaten kannst du deinen Namen, deine E-Mail-Adresse und Telefonnum
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-03-08-um-13.11.16.png)
 
-Im Menu rechts hast Du auch die Möglichkeit dir ein **neues Passwort** zu setzen. 
+Im Menu rechts hast Du auch die Möglichkeit dir ein **neues Passwort** zu setzen.&#x20;
 
 {% hint style="info" %}
-**Wir empfehlen explizit die Erneuerung des Passworts in regelmässigen Abständen**.   
+**Wir empfehlen explizit die Erneuerung des Passworts in regelmässigen Abständen**. \
 Sprich hierzu eure IT auf das bei euch übliche Verfahren an.
 {% endhint %}
 
 Weitere Infos zum Thema Passwortsicherheit findest Du hier:
 
-{% page-ref page="../../erste-schritte-1/am-system-anmelden.md" %}
+{% content-ref url="../../erste-schritte-1/am-system-anmelden.md" %}
+[am-system-anmelden.md](../../erste-schritte-1/am-system-anmelden.md)
+{% endcontent-ref %}
 
 ## Profilbild hochladen: Dein Avatar
 
 Avatarbilder verbessern die Übersicht für alle Nutzer. Daher können Mitarbeiter nun ein Bild von sich hochladen oder ein generisches Avatarbild auswählen.
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-03-08-um-13.11.48.png)
+
+![](broken-reference)
 
 ## Hilfe-Sprechblasen deaktivieren
 
@@ -39,7 +43,7 @@ Diese Hilfetexte tauchen in Form von Sprechblasen am entsprechenden Element auf 
 
 ### Hilfe deaktivieren
 
-Unter "Einstellungen &gt; Mein Profil" im Reiter "Profil-Einstellungen" kann die Anzeige dieser Bedienungshilfen für deinen Benutzer aktiviert und deaktiviert werden.
+Unter "Einstellungen > Mein Profil" im Reiter "Profil-Einstellungen" kann die Anzeige dieser Bedienungshilfen für deinen Benutzer aktiviert und deaktiviert werden.
 
 ![](../../.gitbook/assets/disable-help.png)
 
@@ -53,7 +57,6 @@ Entscheide ob dir Die Agenturverwaltung Benachrichtigungen z.B. zu fälligen Wie
 
 Wenn du dich beispielsweise gestern in einem Internetcafé auf einem öffentlichen Browser angemeldet  und vergessen hast, dich wieder abzumelden, kannst du das in deinem Profil tun.
 
-Dazu klickst du wieder auf das Einstellungsmenü \(oben rechts\) und dann auf "Einstellungen". Im nächsten Schritt klickst du auf die Kachel "Mein Profil". Dort öffnest du den Reiter "Angemeldete Geräte". Hier kannst du dich mit einem Klick von dem \(entfernten\) Gerät abmelden, in diesem Beispiel vom entfernten Rechner eines Internetcafés in Berlin.
+Dazu klickst du wieder auf das Einstellungsmenü (oben rechts) und dann auf "Einstellungen". Im nächsten Schritt klickst du auf die Kachel "Mein Profil". Dort öffnest du den Reiter "Angemeldete Geräte". Hier kannst du dich mit einem Klick von dem (entfernten) Gerät abmelden, in diesem Beispiel vom entfernten Rechner eines Internetcafés in Berlin.
 
 ![](../../.gitbook/assets/angemeldet.png)
-

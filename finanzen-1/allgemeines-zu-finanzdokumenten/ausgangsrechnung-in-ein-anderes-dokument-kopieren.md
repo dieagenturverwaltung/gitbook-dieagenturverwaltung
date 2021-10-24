@@ -4,9 +4,9 @@ In Kostenvoranschlägen, Ausgangsrechnungen, Gutschriften und Vorlagen gibt es i
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-03-07-um-15.46.30.png)
 
-Das ausgewählte Zielformat entscheidet dabei was für ein Dokument man erzeugt \(z.B. Kostenvoranschlag oder Vorlage\).
+Das ausgewählte Zielformat entscheidet dabei was für ein Dokument man erzeugt (z.B. Kostenvoranschlag oder Vorlage).
 
-Projekt und Datum können vor der Erstellung des Dokuments definiert werden, da sich daraus je nach Konfiguration eures Unternehmens die Dokumentennummer \(z.B. die Rechnungsnummer\) ergibt.
+Projekt und Datum können vor der Erstellung des Dokuments definiert werden, da sich daraus je nach Konfiguration eures Unternehmens die Dokumentennummer (z.B. die Rechnungsnummer) ergibt.
 
 {% embed url="https://youtu.be/XREGoTId2ho" %}
 
@@ -17,8 +17,7 @@ Eine Änderung des Projekts beim neu erzeugten Dokument kann zur Folge haben, da
 {% hint style="info" %}
 **Ein Beispiel**
 
-Unser Kostenvoranschlag für Kunde A hat 12 h Grafikdesign zu 90 EUR kalkuliert. Wir kopieren diesen Kostenvoranschlag nun in ein Projekt von Kunde B. Mit Kunde B sind jedoch nur 75 EUR für eine Grafikdesignstunde vereinbart.   
-  
+Unser Kostenvoranschlag für Kunde A hat 12 h Grafikdesign zu 90 EUR kalkuliert. Wir kopieren diesen Kostenvoranschlag nun in ein Projekt von Kunde B. Mit Kunde B sind jedoch nur 75 EUR für eine Grafikdesignstunde vereinbart. \
+\
 In diesem Fall lassen wir die Checkbox "Preise .... anpassen" unterhalb des Kopieren-Dialogs angehakt und die Preise unseres Dokuments werden beim Kopieren automatisch an die Preisliste des Ziel-Etats angepasst.
 {% endhint %}
-

@@ -21,7 +21,7 @@ Die Werte fallen gemäss ihres Rechnungsdatums in die entsprechenden Monate. Lei
 
 Der hellere Balken zeigt dabei den Wert des jeweilgen Vorjahres als Trend an.
 
-Oberhalb der Grafik kann der Ausgangsmonat \(normalerweise der aktuelle Monat\) eingestellt werden. D.h. es ist möglich die Ansicht auch noch ein oder zwei Jahre in die Vergangenheit zu verlagern.
+Oberhalb der Grafik kann der Ausgangsmonat (normalerweise der aktuelle Monat) eingestellt werden. D.h. es ist möglich die Ansicht auch noch ein oder zwei Jahre in die Vergangenheit zu verlagern.
 
 Wird ein Benutzerdefinierter Filter angewendet, beziehen sich die Daten lediglich auf die Kunden, Etats und Projekte, die in diesem Filter definiert wurden.
 
@@ -33,7 +33,7 @@ In dieser Darstellung werden alle Umsätze aus projektbezogenen Kostenvoranschl�
 
 Die Werte fallen gemäss ihres Datums in die entsprechenden Monate. Leistungszeiträume werden nicht berücksichtigt.
 
-Oberhalb der Grafik kann der Ausgangsmonat \(normalerweise der aktuelle Monat\) eingestellt werden. D.h. es ist möglich die Ansicht auch noch ein oder zwei Jahre in die Vergangenheit zu verlagern.
+Oberhalb der Grafik kann der Ausgangsmonat (normalerweise der aktuelle Monat) eingestellt werden. D.h. es ist möglich die Ansicht auch noch ein oder zwei Jahre in die Vergangenheit zu verlagern.
 
 Wird ein Benutzerdefinierter Filter angewendet, beziehen sich die Daten lediglich auf die Kunden, Etats und Projekte, die in diesem Filter definiert wurden
 
@@ -41,18 +41,20 @@ Wird ein Benutzerdefinierter Filter angewendet, beziehen sich die Daten lediglic
 
 ![](../.gitbook/assets/bildschirmfoto-2020-01-10-um-14.18.08.png)
 
-In die monatlichen Werte fließen die Netto-Budgets projektgebundener Kostenvoranschläge **nach Leistungszeitraum** ein. Es werden nur Kostenvoranschläge, deren Freigabe in die ausgewählten Wahrscheinlichkeiten fällt, die freigegeben oder abgerechnet sind berücksichtigt. Die rote Linie repräsentiert die wiederkehrenden Agenturfixkosten \(z.B. Miete, Gehälter, Fahrzeugflotte, ...\) die nicht bestimmten Projekten zugeordnet sind. Sie sollte den Agenturleistungsanteil nicht übersteigen. 
+In die monatlichen Werte fließen die Netto-Budgets projektgebundener Kostenvoranschläge **nach Leistungszeitraum** ein. Es werden nur Kostenvoranschläge, deren Freigabe in die ausgewählten Wahrscheinlichkeiten fällt, die freigegeben oder abgerechnet sind berücksichtigt. Die rote Linie repräsentiert die wiederkehrenden Agenturfixkosten (z.B. Miete, Gehälter, Fahrzeugflotte, ...) die nicht bestimmten Projekten zugeordnet sind. Sie sollte den Agenturleistungsanteil nicht übersteigen.&#x20;
 
 Mehr zu Thema Fixkosten, wie sie sich zusammensetzen, und wie man sie definieren kann, steht hier:
 
-{% page-ref page="../einstellungen-1/finanzen/agenturfixkosten.md" %}
+{% content-ref url="../einstellungen-1/finanzen/agenturfixkosten.md" %}
+[agenturfixkosten.md](../einstellungen-1/finanzen/agenturfixkosten.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
-**Hinweis:**  
+**Hinweis:**\
 Abzüge wie Rabatte und Markup in Kostenvoranschlägen sind _nicht leistungsspezifisch_ und werden in dieser Ansicht nicht berücksichtigt.
 {% endhint %}
 
-Oberhalb der Grafik kann der Ausgangsmonat \(normalerweise der aktuelle Monat\) eingestellt werden. D.h. es ist möglich die Ansicht auch noch ein oder zwei Jahre in die Vergangenheit zu verlagern.
+Oberhalb der Grafik kann der Ausgangsmonat (normalerweise der aktuelle Monat) eingestellt werden. D.h. es ist möglich die Ansicht auch noch ein oder zwei Jahre in die Vergangenheit zu verlagern.
 
 Wird ein Benutzerdefinierter Filter angewendet, beziehen sich die Daten lediglich auf die Kunden, Etats und Projekte, die in diesem Filter definiert wurden.
 
@@ -62,9 +64,9 @@ Der Wahrscheinlichkeitsfilter bezieht sich auf die Wahrscheinlichkeit von geplan
 
 ![](../.gitbook/assets/bildschirmfoto-2020-01-10-um-14.18.50.png)
 
-In die monatlichen Werte fließen die Netto-Summen aller Eingangs-, Ausgangs-, Stornorechnungen sowie Gutschriften unabhängig vom Zahlungseingang ein. Hier werden explizit auch **nicht projektgebundene Rechnungen** z.B. Miete, Internet etc. berücksichtigt.
+In die monatlichen Werte fließen die Netto-Summen aller Eingangs-, Ausgangs-, Stornorechnungen sowie Gutschriften unabhängig vom Zahlungseingang ein. Hier werden explizit auch** nicht projektgebundene Rechnungen** z.B. Miete, Internet etc. berücksichtigt.
 
-Oberhalb der Grafik kann der Ausgangsmonat \(normalerweise der aktuelle Monat\) eingestellt werden. D.h. es ist möglich die Ansicht auch noch ein oder zwei Jahre in die Vergangenheit zu verlagern.
+Oberhalb der Grafik kann der Ausgangsmonat (normalerweise der aktuelle Monat) eingestellt werden. D.h. es ist möglich die Ansicht auch noch ein oder zwei Jahre in die Vergangenheit zu verlagern.
 
 ## Budget und angefallene Leistung
 
@@ -73,11 +75,11 @@ Oberhalb der Grafik kann der Ausgangsmonat \(normalerweise der aktuelle Monat\) 
 Diese Grafik stellt kalkulierte oder geplante Budgets und angefallene Leistungen in ihren jeweiligen Liefer- bzw. Leistungszeiträumen gegenüber.
 
 {% hint style="info" %}
-**Hinweis**  
-Abzüge in Kostenvoranschlägen sind nicht leistungsspezifisch und werden hier nicht berücksichtigt.
+**Hinweis**\
+****Abzüge in Kostenvoranschlägen sind nicht leistungsspezifisch und werden hier nicht berücksichtigt.
 {% endhint %}
 
-Oberhalb der Grafik kann der Ausgangsmonat \(normalerweise der aktuelle Monat\) eingestellt werden. D.h. es ist möglich die Ansicht auch noch ein oder zwei Jahre in die Vergangenheit zu verlagern.
+Oberhalb der Grafik kann der Ausgangsmonat (normalerweise der aktuelle Monat) eingestellt werden. D.h. es ist möglich die Ansicht auch noch ein oder zwei Jahre in die Vergangenheit zu verlagern.
 
 Wird ein Benutzerdefinierter Filter angewendet, beziehen sich die Daten lediglich auf die Kunden, Etats und Projekte, die in diesem Filter definiert wurden.
 
@@ -97,7 +99,6 @@ Angefallene Fremdleistungen sind auf Projekte gebuchte Eingangsrechnungen - unab
 
 Berechnete Agenturleistungen sind die Teile von projektgebundenen Ausgangsrechnungen deren Positionen als Fremdleistung markiert sind.
 
-Oberhalb der Grafik kann der Ausgangsmonat \(normalerweise der aktuelle Monat\) eingestellt werden. D.h. es ist möglich die Ansicht auch noch ein oder zwei Jahre in die Vergangenheit zu verlagern.
+Oberhalb der Grafik kann der Ausgangsmonat (normalerweise der aktuelle Monat) eingestellt werden. D.h. es ist möglich die Ansicht auch noch ein oder zwei Jahre in die Vergangenheit zu verlagern.
 
 Wird ein Benutzerdefinierter Filter angewendet, beziehen sich die Daten lediglich auf die Kunden, Etats und Projekte, die in diesem Filter definiert wurden.
-

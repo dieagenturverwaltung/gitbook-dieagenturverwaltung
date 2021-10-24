@@ -4,7 +4,7 @@ Die Projektverwaltung ist die operative Schaltzentrale der Agenturverwaltung. In
 
 Wir haben ein kurzes Video erstellt, um die **wichtigsten Begriffe** zu erklären. Solltet ihr die Inhalte lieber lesen wollen, findet ihr alle Informationen weiter unten auf dieser Seite.
 
-{% embed url="https://www.youtube.com/watch?v=fDW30G\_9gD4" %}
+{% embed url="https://www.youtube.com/watch?v=fDW30G_9gD4" %}
 
 ### Die wichtigsten Begriffe zur Verwaltung von Projekten
 
@@ -16,7 +16,9 @@ Die Agenturverwaltung führt **zwischen Kunde und Projekt** noch eine Zwischeneb
 
 Ihr fragt euch, warum es die Etat-Ebene in der Agenturverwaltung gibt? Die Antwort erfahrt ihr auf folgender Seite:
 
-{% page-ref page="etats/" %}
+{% content-ref url="etats/" %}
+[etats](etats/)
+{% endcontent-ref %}
 
 ### Was wird an einem Projekt alles verwaltet?
 
@@ -33,9 +35,9 @@ Agentur- und Fremdleistungen repräsentieren im Projekt also die **Kosten**, der
 Das schauen wir uns jetzt noch einmal genauer an. Ein **Budget** kann entweder einem oder mehreren Kostenvoranschlägen des Projekts entstammen oder einem sogenannten "Geplanten Budget".
 
 {% hint style="info" %}
-Ein **Geplantes Budget** wird dann am Projekt vermerkt wenn es im Projekt **keinen Kostenvoranschlag** gibt, oder dieser nicht der tatsächlichen Planung entspricht. Das kann verschiedene Gründe haben:
+Ein** Geplantes Budget** wird dann am Projekt vermerkt wenn es im Projekt **keinen Kostenvoranschlag** gibt, oder dieser nicht der tatsächlichen Planung entspricht. Das kann verschiedene Gründe haben:
 
-1. Der Auftrag wurde formlos erteilt z.B. telefonisch 
+1. Der Auftrag wurde formlos erteilt z.B. telefonisch&#x20;
 2. Der Kostenvoranschlag umreisst ein Budget welches wir nicht voll ausreizen möchten, z.B. weil wir mit den letzten drei Projekten dieses Kunden Geld verloren haben
 3. Der Kostenvoranschlag liegt auf einem anderen Projekt. Wenn es z.B. nur einen Kostenvoranschlag für ein ganzes Jahr gab, die anfallenden Leistungen aber auf verschiedenen Projekten erfasst werden, hinterlegt man in den einzelnen Projekten einen entsprechenden Budgetrahmen mit "geplanten Budgets".
 {% endhint %}
@@ -46,12 +48,12 @@ Ein **Geplantes Budget** wird dann am Projekt vermerkt wenn es im Projekt **kein
 
 ### Agenturleistung
 
-**Agenturleistungen** ergeben sich aus der Zeiterfassung.   
-Zu einem **Zeiterfassungseintrag** gehört mindestens Folgendes: 
+**Agenturleistungen** ergeben sich aus der Zeiterfassung. \
+Zu einem **Zeiterfassungseintrag** gehört mindestens Folgendes:&#x20;
 
-1. welcher Mitarbeiter hat Zeit erfasst? 
+1. welcher Mitarbeiter hat Zeit erfasst?&#x20;
 2. Welche Dauer wurde an welchem Tag erfasst?
-3. in welcher Funktion - z.b: Grafik-Design, Beratung, Programmierung - wurde Zeit erfasst? 
+3. in welcher Funktion - z.b: Grafik-Design, Beratung, Programmierung - wurde Zeit erfasst?&#x20;
 4. Auf welchem Projekt wurde die Zeit erfasst
 
 ### Fremdleistung
@@ -72,4 +74,3 @@ Uns ist bewusst, dass kein Projekt einem anderen gleicht. Eine High-Level-Darste
 6. Abschlussrechnung erstellen
 
 Mit der Agenturverwaltung lassen sich aber auch andere Projekttypen wie z.B. **Retainer-Vereinbarungen** abbilden, bei denen ein Budget über einen längeren Zeitraum beispielsweise monatlich abgerechnet wird.
-

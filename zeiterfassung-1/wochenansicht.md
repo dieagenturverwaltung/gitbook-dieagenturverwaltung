@@ -8,13 +8,15 @@ description: >-
 
 In diesem Video erfahren wir, wie wir einen Zeiterfassungseintrag in der Wochenansicht anlegen und Zeiten für eine ganze Woche eintragen können. Solltet ihr diesen Inhalt lieber lesen wollen, scrollt einfach über das Video hinweg.
 
-{% embed url="https://youtu.be/rRXMUY2dFu8" caption="Screencast: Zeiterfassung in der Wochenansicht - schnell und übersichtlich" %}
+{% embed url="https://youtu.be/rRXMUY2dFu8" %}
+Screencast: Zeiterfassung in der Wochenansicht - schnell und übersichtlich
+{% endembed %}
 
-Wir gelangen zur Wochenansicht über den Menüpunkt  Zeiterfassung &gt; Meine Stundenliste und wählen hier den Reiter "Wochenansicht" aus.  
+Wir gelangen zur Wochenansicht über den Menüpunkt  Zeiterfassung > Meine Stundenliste und wählen hier den Reiter "Wochenansicht" aus. &#x20;
 
 ![](../.gitbook/assets/bildschirmfoto-2019-05-13-um-11.33.16.png)
 
-Durch die Pfeiltasten rechts und links oben können wir zwischen den Wochen hin und her blättern. 
+Durch die Pfeiltasten rechts und links oben können wir zwischen den Wochen hin und her blättern.&#x20;
 
 ![](../.gitbook/assets/bildschirmfoto-2019-05-13-um-11.38.25.png)
 
@@ -23,23 +25,23 @@ Durch einfaches Eintragen von Zeiten in diese Tabelle erzeugen wir neue Zeiterfa
 ![](../.gitbook/assets/bildschirmfoto-2019-05-13-um-11.33.51.png)
 
 {% hint style="info" %}
-**Folgende Eingabeformate werden erkannt**  
-`15    => 15 min  
-0.25  => 15 min  
-1,    => 1 h  
-1:00  => 1h  
-100   => 1h  
-1,5   => 1 h 30 min  
-130   => 1 h 30 min  
-1 30  => 1 h 30 min  
-02:45 => 2 h 45 min  
-245   => 2 h 45 min  
-2,75  => 2 h 45 min`
+**Folgende Eingabeformate werden erkannt**\
+`15    => 15 min`\
+`0.25  => 15 min`\
+`1,    => 1 h`\
+`1:00  => 1h`\
+`100   => 1h`\
+`1,5   => 1 h 30 min`\
+`130   => 1 h 30 min`\
+`1 30  => 1 h 30 min`\
+`02:45 => 2 h 45 min`\
+`245   => 2 h 45 min`\
+`2,75  => 2 h 45 min`
 {% endhint %}
 
 ### Neue Zeile hinzufügen
 
-Über die Schaltfläche "Neuer Eintrag" kann ich eine neue Zeile in der Wochentabelle erzeugen. 
+Über die Schaltfläche "Neuer Eintrag" kann ich eine neue Zeile in der Wochentabelle erzeugen.&#x20;
 
 Dabei wähle ich wieder Projekt, Funktion und Tätigkeit aus und ergänze ggf. eine Notiz und speichere. Anschliessend kann ich Zeiten in die neu angelegte Zeile eintragen.
 
@@ -68,4 +70,3 @@ In der Wochenansicht können Details von Einträgen weder bearbeitet noch gelös
 ## Zeiterfassung in der Wochenansicht: Ein Beispiel
 
 ![](https://www.dieagenturverwaltung.de/assets/images/gifs/Zeiterfassung-Wochenansicht.gif)
-

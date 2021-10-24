@@ -15,8 +15,8 @@ Die Liste der Eingangrechnungen lässt sich über Filter oberhalb der Liste eins
 
 ### Suche mit Wildcards \*
 
-Die Suche erlaubt das Suchen nach Dokumentennummer, Projektnummer,Lieferant oder Betreff des Dokuments.  
-Mit dem Asterisk \(\*\) können auch Wildcard-Suchen durchgeführt werden im abgebildeten Beispiel kann ich z.B. durch die Eingab des Suchbegriffs `12*2020`  Alle Dokumente finden in denen "12" gefolgt von "2020" vorkommt. Wir hätten hier z.B. einen Suchtreffer beim zweiten Dokument der Liste.
+Die Suche erlaubt das Suchen nach Dokumentennummer, Projektnummer,Lieferant oder Betreff des Dokuments.\
+Mit dem Asterisk (\*) können auch Wildcard-Suchen durchgeführt werden im abgebildeten Beispiel kann ich z.B. durch die Eingab des Suchbegriffs `12*2020`  Alle Dokumente finden in denen "12" gefolgt von "2020" vorkommt. Wir hätten hier z.B. einen Suchtreffer beim zweiten Dokument der Liste.
 
 ### Suche nach Verantwortlichem
 
@@ -40,19 +40,27 @@ Ein Beleg wurde z.B. bereits als Anhang hochgeladen, jedoch noch nicht weiter er
 
 #### wartet auf Projektzuordnung
 
-Dieser Beleg wurde erfasst und wartet darauf dass ein Projektmanager ihn als Fremdleistung auf ein oder mehrere Projekte bucht.  
+Dieser Beleg wurde erfasst und wartet darauf dass ein Projektmanager ihn als Fremdleistung auf ein oder mehrere Projekte bucht.\
 Unter Umständen wurde der Projektmanager bereits per Wiedervorlage benachrichtigt.
 
-#### wartet auf Buchung
+#### wartet auf Zahlungsfreigabe (optional)
 
-Die Zuordnung des Belegs zu einem oder mehreren Projekten ist erfolgt. Er wartet ggf. noch auf Bezahlung und Übergabe in die Buchhaltung.
+Dieser Beleg wartet darauf, dass eine zur Zahlungsfreigabe berechtigte Person, den Beleg zur Zahlung freigibt.
+
+#### wartet auf Buchung  (optional)
+
+Die Zuordnung des Belegs zu einem oder mehreren Projekten ist erfolgt. Je nach Konfiguration ist auch eine Zahlungsfreigabe erteilt worden. Der Beleg kann nun ggf. bezahlt werden und an ein Buchhaltungs-Drittsystem z.B. DATEV übergeben werden.
 
 #### gebucht
 
 Dieser Beleg wurde an die Buchhaltung übergeben.
 
 {% hint style="info" %}
-**Hinweis:** In deinem Unternehmen sind eventuell nicht alle Prozessschritte aktiviert. Sprich den Kundenservice an, wenn du daran etwas ändern möchtest: info@dieagenturverwaltung.de
+**In deinem Unternehmen sind eventuell nicht alle Prozessschritte aktiviert?**
+
+Du kannst als Administrator die optionalen Schritte unter Einstellungen > Prozessdefinitionen > Prozess-Konfigurator für Eingangsrechnungen aktivieren.
+
+[Mehr erfahren](../../einstellungen-1/prozessdefinitionen/prozess-konfigurator-fuer-eingangsrechnungen.md)
 {% endhint %}
 
 In der Liste der Eingangsrechnungen kann auf einen Blick erkannt werden, in welchem Status sich ein Dokument befindet:
@@ -60,4 +68,3 @@ In der Liste der Eingangsrechnungen kann auf einen Blick erkannt werden, in welc
 
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-03-08-um-16.56.58.png)
-

@@ -9,9 +9,9 @@ Diese Liste erlaubt uns, zu überprüfen, ob wir für jede kalkulierte Position 
 {% hint style="info" %}
 **Diese Darstellung zeigt anhand von Ampel-Farben die grösser der Margen an.**
 
-a\) unter 0 % =&gt; rot  
-b\) 0% bis 20% =&gt; gelb  
-c\) über 20% =&gt; grün
+a) unter 0 % => rot\
+b) 0% bis 20% => gelb\
+c) über 20% => grün
 {% endhint %}
 
 ## Geplante Budgets automatisch aus KV-Positionen erzeugen
@@ -22,12 +22,11 @@ Mit der Schaltfläche unterhalb dieser Liste können wir einen Assistenten öffn
 
 Wir können an dieser Stelle auswählen, ob Budgets für alle Positionen, Positionen die nicht bereits über ein Geplantes Budget verfügen oder nur bestimmte Positionen erzeugt werden sollen.
 
-Es ist möglich, automatisch eine Marge in die zu erzeugenden geplanten Budgets einzukalkulieren. Wähle ich wie im Beispiel oben z.B. 20 % aus, würden z.B. zwei Geplante Budgets angelegt werden:  
-1. Beratungskonzept 800 EUR  
-2. Blogg-Handling 1600 EUR  
-  
-Waren diese Positionen im Kostenvoranschlag mit bestimmten Funktionen \(z.B. "Beratung"\) verknüpft, werden diese Funktionen auch in die Geplanten Budgets übernommen.   
-Waren in unsererm Beispiel z.B. 10 Beraterstunden zu 100 EUR kalkuliert, enthält unser Geplantes Budget für diese Position nur noch 8 Beraterstunden, da eine Marge von 20% vom verfügbaren Budget abgezogen wurde.  
-  
+Es ist möglich, automatisch eine Marge in die zu erzeugenden geplanten Budgets einzukalkulieren. Wähle ich wie im Beispiel oben z.B. 20 % aus, würden z.B. zwei Geplante Budgets angelegt werden:\
+1\. Beratungskonzept 800 EUR\
+2\. Blogg-Handling 1600 EUR\
+\
+Waren diese Positionen im Kostenvoranschlag mit bestimmten Funktionen (z.B. "Beratung") verknüpft, werden diese Funktionen auch in die Geplanten Budgets übernommen. \
+Waren in unsererm Beispiel z.B. 10 Beraterstunden zu 100 EUR kalkuliert, enthält unser Geplantes Budget für diese Position nur noch 8 Beraterstunden, da eine Marge von 20% vom verfügbaren Budget abgezogen wurde.\
+\
 Eintrittswahrscheinlichkeit und Leistungszeitraum eines auf diesem Weg aus einem Kostenvoranschlag erzeugten Geplanten Budgets entsprechem der Wahrscheinlichkeit und dem Lieferzeitraum des Kostenvoranschlags.
-

@@ -2,13 +2,13 @@
 
 Die Agenturverwaltung erlaubt die Verwendung komplexer Nummernsysteme.
 
-Uns sind im Verlauf der letzten Jahre schon etliche \(mehr und oft auch weniger nützliche\) Nummersysteme begegnet. Wenn es keinen Grund dafür gibt - z.B. externe Systeme, die mit den gleichen Nummern arbeiten - sollte das Nummernsystem so einfach wie möglich gehalten werden.
+Uns sind im Verlauf der letzten Jahre schon etliche (mehr und oft auch weniger nützliche) Nummersysteme begegnet. Wenn es keinen Grund dafür gibt - z.B. externe Systeme, die mit den gleichen Nummern arbeiten - sollte das Nummernsystem so einfach wie möglich gehalten werden.
 
-Die Agentursoftware verwendet ein standardmässig Nummernsysteme, welche sich in den vergangenen Jahren bei einer Vielzahl von Kunden bewährt haben. 
+Die Agentursoftware verwendet ein standardmässig Nummernsysteme, welche sich in den vergangenen Jahren bei einer Vielzahl von Kunden bewährt haben.&#x20;
 
 {% hint style="info" %}
-Solltet ihr aufgrund von Abhängigkeiten zu Drittsystemen aber einen anderes Nummernsystem benötigen, können wir dieses fast immer übernehmen und unterstützen wir euch bei der Konfiguration.   
-  
+Solltet ihr aufgrund von Abhängigkeiten zu Drittsystemen aber einen anderes Nummernsystem benötigen, können wir dieses fast immer übernehmen und unterstützen wir euch bei der Konfiguration. \
+\
 Kontaktiert uns gern über unseren Kundenservice: [info@dieagenturverwaltung.de](mailto:info@dieagenturverwaltung.de)
 {% endhint %}
 
@@ -20,20 +20,28 @@ Im Nachfolgenden erfahrt ihr, welche Best Practice Nummernsysteme sich herausgeb
 * Projektnummern
 * Rechnungsnummern
 
-Allen Nummernsystem ist gemein, dass die Agenturverwaltung sicherstellt, dass 
+Allen Nummernsystem ist gemein, dass die Agenturverwaltung sicherstellt, dass&#x20;
 
-* keine Nummern doppelt erzeugt werden können 
-* keine Nummern fehlen 
+* keine Nummern doppelt erzeugt werden können&#x20;
+* keine Nummern fehlen&#x20;
 
 ### Im Folgenden findet ihr Tipps und Tricks sowie unsere Empfehlung für die einzelnen Nummernsysteme:
 
-{% page-ref page="projektnummern.md" %}
+{% content-ref url="projektnummern.md" %}
+[projektnummern.md](projektnummern.md)
+{% endcontent-ref %}
 
-{% page-ref page="kostenvoranschlagsnummern.md" %}
+{% content-ref url="kostenvoranschlagsnummern.md" %}
+[kostenvoranschlagsnummern.md](kostenvoranschlagsnummern.md)
+{% endcontent-ref %}
 
-{% page-ref page="gutschrifts-und-rechnungsnummern.md" %}
+{% content-ref url="gutschrifts-und-rechnungsnummern.md" %}
+[gutschrifts-und-rechnungsnummern.md](gutschrifts-und-rechnungsnummern.md)
+{% endcontent-ref %}
 
-{% page-ref page="paginiernummern-fuer-eingangsrechnungen.md" %}
+{% content-ref url="paginiernummern-fuer-eingangsrechnungen.md" %}
+[paginiernummern-fuer-eingangsrechnungen.md](paginiernummern-fuer-eingangsrechnungen.md)
+{% endcontent-ref %}
 
 
 
@@ -44,8 +52,6 @@ Allen Nummernsystem ist gemein, dass die Agenturverwaltung sicherstellt, dass
 {% hint style="info" %}
 Solltet ihr allgemeine Fragen haben oder aufgrund von Abhängigkeiten zu Drittsystemen einen anderes Nummernsystem benötigen, kontaktiert uns gern über unseren Kundenservice: [info@dieagenturverwaltung.de](mailto:info@dieagenturverwaltung.de)
 {% endhint %}
-
-
 
 
 

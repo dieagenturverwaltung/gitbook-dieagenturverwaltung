@@ -17,9 +17,9 @@ Damit die Zeiterfassung, die Wochenansicht der Vorgänge und der Abwesenheitskal
 Ein Arbeitsverhältnis kann ohne Enddatum oder befristet sein. Es können für einen Nutzer auch mehrere Arbeitsverhältnisse in einem zeitlichen Ablauf aufeinanderfolgen.
 
 {% hint style="info" %}
-**Ein Beispiel**  
-Eure Auszubildende hat ein Vollzeit-Arbeitsverhältnis mit euren Unternehmen während der Ausbildung, im Anschluss beginnt sie bei euch mit einer halben Stelle.  
-In diesem Fall beendet ihr das Arbeitsverhältnis der Ausbildung und erstellt ein neues Arbeitsverhältnis im direkten Anschluss.  
+**Ein Beispiel**\
+Eure Auszubildende hat ein Vollzeit-Arbeitsverhältnis mit euren Unternehmen während der Ausbildung, im Anschluss beginnt sie bei euch mit einer halben Stelle.\
+In diesem Fall beendet ihr das Arbeitsverhältnis der Ausbildung und erstellt ein neues Arbeitsverhältnis im direkten Anschluss.\
 In diesem neuen Arbeitsverhältnis wird der Interne Mitarbeiterkostensatz, die Wochenarbeitszeit und ggf. der Urlaubsanspruch an den neuen Arbeitsvertrag angepasst.
 {% endhint %}
 
@@ -32,10 +32,10 @@ Nur Administratoren und explizit berechtigte Nutzer können diese Kennzahlen in 
 {% hint style="info" %}
 **Den internen Stundensatz sollte euer Steuerberater ermitteln**
 
-Er sollte neben dem Gehalt auch indirekte Kosten wie Büro, Lohnnebenkosten, Fahrzeugflotte und vor allem den Leerlauf, also nicht verkaufte Leistung enthalten.  
-Bei den meisten Agenturen liegt dieser Wert zwischen 40 und 80 EUR.  
-  
-Bei **Freien Mitarbeitern \(Freelancer\)** könnte beispielsweise der vereinbarte Stundensatz und ggf. eine Pauschale für einen Büroplatz angesetzt werden sofern euer Unternehmen Freelancern Arbeitsplätze vor Ort zur Verfügung stellt.
+Er sollte neben dem Gehalt auch indirekte Kosten wie Büro, Lohnnebenkosten, Fahrzeugflotte und vor allem den Leerlauf, also nicht verkaufte Leistung enthalten.\
+Bei den meisten Agenturen liegt dieser Wert zwischen 40 und 80 EUR.\
+\
+Bei **Freien Mitarbeitern (Freelancer)** könnte beispielsweise der vereinbarte Stundensatz und ggf. eine Pauschale für einen Büroplatz angesetzt werden sofern euer Unternehmen Freelancern Arbeitsplätze vor Ort zur Verfügung stellt.
 {% endhint %}
 
 
@@ -54,7 +54,7 @@ Für Mitarbeiter, die an bestimmten Tagen z.B. nur halbtags da sind, werden an d
 
 ### Urlaubskontingent
 
-Das hier hinterlegte Urlaubs- und Sonderurlaubskontingent bezieht sich auf ein Jahr, unabhängig davon wann der Vertrag beginnt oder endet \(das System errechnet das Kontingent für bestimmte Zeiträume entsprechend selbst\).
+Das hier hinterlegte Urlaubs- und Sonderurlaubskontingent bezieht sich auf ein Jahr, unabhängig davon wann der Vertrag beginnt oder endet (das System errechnet das Kontingent für bestimmte Zeiträume entsprechend selbst).
 
 #### Sonderurlaub
 
@@ -64,10 +64,10 @@ Unter Sonderurlaub versteht sich der gesetzliche Anspruch auf  - üblicherweise 
 
 #### Resturlaub
 
-Beim Urlaubskontingent kann Resturlaubs ins Folgejahr übertragen werden. Dafür kann eine Frist \(das Verfallsdatum, meist der 31.03 des Jahres\) angegeben werden.
+Beim Urlaubskontingent kann Resturlaubs ins Folgejahr übertragen werden. Dafür kann eine Frist (das Verfallsdatum, meist der 31.03 des Jahres) angegeben werden.
 
 {% hint style="info" %}
-**Resturlaub deaktiveren**  
+**Resturlaub deaktiveren**\
 Ist die Frist für Resturlaub auf 01.01. eingestellt, verfällt jeglicher Resturlaub aus diesem Arbeitsverhältnis mit dem Jahreswechsel.
 {% endhint %}
 
@@ -76,9 +76,9 @@ Ist die Frist für Resturlaub auf 01.01. eingestellt, verfällt jeglicher Restur
 Um Sonderfälle zu ermöglichen können für eine Bestimmtes Jahr Abzüge oder Zuschläge zum Urlaubskonto angegeben werden.
 
 {% hint style="info" %}
-**Ein Beispiel**  
-Katrin hat zwei Tage Resturlaub \(er verfällt am 31.03\) zu spät genommen und wir möchten ihr am 01. und 02. April die Möglichkeit \(als Ausnahme von der Regel\) einräumen, diese beiden Tage noch vom Resturlaubskontingent zu nehmen.  
-Dafür tragen wir bei den Ab- und Zuschlägen für dieses Jahr einen Zuschlag von 16 Stunden ein. Dieser wirkt sich wie zusätzlicher Urlaub aus und wird nicht ins nächste Jahr übertragen.  
+**Ein Beispiel**\
+Katrin hat zwei Tage Resturlaub (er verfällt am 31.03) zu spät genommen und wir möchten ihr am 01. und 02. April die Möglichkeit (als Ausnahme von der Regel) einräumen, diese beiden Tage noch vom Resturlaubskontingent zu nehmen.\
+Dafür tragen wir bei den Ab- und Zuschlägen für dieses Jahr einen Zuschlag von 16 Stunden ein. Dieser wirkt sich wie zusätzlicher Urlaub aus und wird nicht ins nächste Jahr übertragen.\
 D.h. die beiden Tage verfallen zwar, wir gewähren Katrin dafür einen Zuschlag von 2 Tagen.
 {% endhint %}
 
@@ -92,11 +92,10 @@ Damit Resturlaub aus einem Alt-System in Die Agenturverwaltung übertragen werde
 
 ### Sonstiges: Position, Vorgesetzter, Probezeit
 
-Das Feld Position \(z.B. "Kaufmännischer Leiter"\) dient der Dokumentation.
+Das Feld Position (z.B. "Kaufmännischer Leiter") dient der Dokumentation.
 
 Wird ein Vorgesetzter  und ein Datum für den Ablauf der Probezeit hinterlegt, wird der Vorgesetzte ca. 14 Tage vor Ablauf dieses Datums per E-Mail an den Ablauf erinnert.
 
 ### Dokumente
 
 Hier können Dokumente hochgeladen werden, beispielsweise der Arbeitsvertrag, ein unterschriebener NDA, Gesprächsprotokolle oder Zielvorgaben.
-

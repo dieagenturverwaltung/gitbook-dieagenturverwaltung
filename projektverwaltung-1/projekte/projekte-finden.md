@@ -3,12 +3,12 @@
 Projekte können über das Suchfeld in der Projektliste aufgefunden werden. Dabei wird Projektname- und nummer, Etat-Name sowie Kundenname und -kürzel berücksichtigt.
 
 {% hint style="info" %}
-**Die Suche unterstützt auch Wildcards**  
-Eine Suche nach`PPR*2020`findet z.B. die Projekte  
-`PPR-001-2020  
-PPR-002-2020  
-PPR-003-2020  
-...`
+**Die Suche unterstützt auch Wildcards**\
+****Eine Suche nach`PPR*2020`findet z.B. die Projekte\
+`PPR-001-2020`\
+`PPR-002-2020`\
+`PPR-003-2020`\
+`...`
 {% endhint %}
 
 ## Was tun wenn ich mein Projekt nicht in der Suche finde?
@@ -28,4 +28,3 @@ Im Etats und Projekte können auf bestimmt Nutzer eingeschränkt sein. Sprich ei
 #### Ist das Projekt für die Zeiterfassung deaktiviert?
 
 Wurde ein Projekt in den Projekteinstellungen für die Zeiterfassung deaktiviert, taucht es im Zeiterfassungsformular nicht mehr auf.
-

@@ -2,11 +2,11 @@
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.21.12.png)
 
-### 
+###
 
 ### Sprache
 
-Die Agenturverwaltung unterstützt zur Zeit zwei Sprachen bei der Verwendung von Finanzdokumenten.  
+Die Agenturverwaltung unterstützt zur Zeit zwei Sprachen bei der Verwendung von Finanzdokumenten.\
 Die Auswahl der Sprache - z.B. englisch - führt dazu dass alle nicht editierbaren Texte eines Dokuments auf englisch ausgegeben werden, also z.B. die Überschrift "Estimate of Cost", Zwischensummen "Subtotal" usw.
 
 > Diese Funktion führt nicht zu einer maschinellen Übersetzung der vom Nutzer eingegebenen Daten.
@@ -20,17 +20,19 @@ Die Standardsprache für Finandokumente ist deutsch, sie kann jedoch am Etat unt
 Die Auswahl des Briefpapiers auf das die Druckversion zurück greift, kann am Finanzdokument eingestellt werden. Es ist möglich einen Standardwert im Etat eines Kunden unter "Einstellungen" zu definieren.
 
 {% hint style="info" %}
-**Anwendungsbeispiele**   
-Ihr nutzt für alle Kunden ein bestimmtes Girokonto, ein bestimmter Kunde soll jedoch seinen Zahlungen an ein extra für ihn eingerichtetes Bankkonto leisten. Damit die richtige Bankverbindung in Rechnungen an diesen Kunden im Briefpapier angezeigt wird, kann für diesen Kunden ein eigenes Briefapier angelegt und im Etat als Standard definiert werden.  
-  
-Ihr führt verschiedene Untermarken eures Unternehmens z.B. "Hase Kommunikation" und "Hase Media Production", je nach Auftrag könnt ihr hier das korrekte Briefpapier mit dem entsprechenden Unternehmenslogo nutzen.  
-  
+**Anwendungsbeispiele **\
+****Ihr nutzt für alle Kunden ein bestimmtes Girokonto, ein bestimmter Kunde soll jedoch seinen Zahlungen an ein extra für ihn eingerichtetes Bankkonto leisten. Damit die richtige Bankverbindung in Rechnungen an diesen Kunden im Briefpapier angezeigt wird, kann für diesen Kunden ein eigenes Briefapier angelegt und im Etat als Standard definiert werden.\
+\
+Ihr führt verschiedene Untermarken eures Unternehmens z.B. "Hase Kommunikation" und "Hase Media Production", je nach Auftrag könnt ihr hier das korrekte Briefpapier mit dem entsprechenden Unternehmenslogo nutzen.\
+\
 Ihr legt 10 verschiedene Briefpapiere an, die alle einen unterschiedlichen kleinen Banner mit einer Werbebotschaft verfügen und rotiert diese nach dem Zufallsprinzip.
 {% endhint %}
 
 Wie man das Briefpapier anpasst und weitere Briefpapiere erstellt, erfährst du hier:
 
-{% page-ref page="../../erste-schritte-1/grundeinstellungen/briefpapier-anpassen.md" %}
+{% content-ref url="../../erste-schritte-1/grundeinstellungen/briefpapier-anpassen.md" %}
+[briefpapier-anpassen.md](../../erste-schritte-1/grundeinstellungen/briefpapier-anpassen.md)
+{% endcontent-ref %}
 
 
 
@@ -70,12 +72,12 @@ So wird eine Positiongruppe mit mehrere Positionen ...
 
 ... gekürzt auf  ...
 
-> Workshop Berlin 20.05 348,- EUR  
+> Workshop Berlin 20.05 348,- EUR\
 > _Beratung, Fahrtkosten, Hotel_
 
 #### Standard-Einstellungen für die Kurzfassung der Druckversion beim Abrechnen von Kostenvoranschlägen einstellen
 
-Damit nicht die Druckversion jeder Rechnung, die aus einem ausführlichen Kostenvoranschlag entsteht,  manuell umgestellt werden muss, kann hier auch eine Standardeinstellung vorgenommen werden. Diese kann unter _Einstellungen &gt; Finanzen_ vorgenommen werden.
+Damit nicht die Druckversion jeder Rechnung, die aus einem ausführlichen Kostenvoranschlag entsteht,  manuell umgestellt werden muss, kann hier auch eine Standardeinstellung vorgenommen werden. Diese kann unter _Einstellungen > Finanzen_ vorgenommen werden.
 
 ![](../../.gitbook/assets/collapse-default-setting.gif)
 
@@ -89,42 +91,42 @@ Diese Funktion macht nur Sinn, wenn das Dokument sowohl Agentur- als auch Fremdl
 
 ### Weitere Anzeigeoptionen
 
-#### Kopfzeile über der Positionsliste einer Positionsgruppe ausblenden 
+#### Kopfzeile über der Positionsliste einer Positionsgruppe ausblenden&#x20;
 
-Hiermit lässt sich die Kopfzeile \(Position, Agenturleistung/Fremdleistung bzw. Summe\) aller Positionsgruppen ausblenden.
+Hiermit lässt sich die Kopfzeile (Position, Agenturleistung/Fremdleistung bzw. Summe) aller Positionsgruppen ausblenden.
 
-#### Alle Positionsgruppen ausblenden 
+#### Alle Positionsgruppen ausblenden&#x20;
 
 MIt dieser Funktion können alle Gruppen ausgeblendet werden. Das Dokument zeigt dann in der Positionslsite nur noch Kopf- und Fussbemerkung sowie die Summen.
 
-#### Alle Positionen in Positionsgruppen ausblenden 
+#### Alle Positionen in Positionsgruppen ausblenden&#x20;
 
 MIt dieser Anzeige werden die Positionen einer Positionsgruppe ausgeblendet. Es wird nur der TItel der Positionsgruppe mit Beschreibung sowie die Kopf- und der Fusszeile mit Zwischensumme angezeigt.
 
-#### Summen an Positionen ausblenden 
+#### Summen an Positionen ausblenden&#x20;
 
 Hiermit lassen sich die Beträge der einzelnen Positionen einer Positionsgruppe ausblenden. Preise gehen dann nur aus der Zwischensumme der Positionsgruppe hervor.
 
-#### Zwischensummen an Positionsgruppen ausblenden 
+#### Zwischensummen an Positionsgruppen ausblenden&#x20;
 
-Um Zwischensummen an Positionsgruppen auszublenden kann dieses Häkchen gesetzt werden. 
+Um Zwischensummen an Positionsgruppen auszublenden kann dieses Häkchen gesetzt werden.&#x20;
 
 #### Gesamtsummen ausblenden um das Dokument als Preisliste auszugeben
 
-Hat ein Dokument eher den Charakter einer Preisauskunft oder Preisliste, z.B. weil viele optionale Positionsgruppen in einem Kostenvoranschlag aufgeführt werden und noch unklar ist wofür sich der Kunde entscheiden wird, können hiermit die Gesamtsummen am Doument ausgeblendet werden.  
+Hat ein Dokument eher den Charakter einer Preisauskunft oder Preisliste, z.B. weil viele optionale Positionsgruppen in einem Kostenvoranschlag aufgeführt werden und noch unklar ist wofür sich der Kunde entscheiden wird, können hiermit die Gesamtsummen am Doument ausgeblendet werden.\
 Der Kunde wird dann nicht von einer Summe abgelenkt, die Teile des Angebots enthält die der Kunde gar nicht zu bestellen beabsichtigt.
 
 {% hint style="info" %}
 **Anwendungsbeispiel**
 
-Wir erstellen für einen Kunden ein Angebot mit drei Positionsgruppen:  
-_Facebook-Channel-Moderation 3.000,- EUR  
-Starter-Paket: Content-Erstellung 10 Artikel 6.000,- EUR  
-FullService-Paket: Content-Erstellung 20 Artikel 12.000,- EUR_  
-  
-Wir wollen dem Kunden hier die Wahl zwischen dem Starter und dem FullService-Paket lassen.   
-Das Angebot ist also eine Preisauskunft.  
-Der Kunde soll hier aber nicht die Summe aller Optionen \(21.000 EUR\) angezeigt bekommen, weil die angebotenen Positionen sich nicht eigenen zusammen bestellt zu werden.
+Wir erstellen für einen Kunden ein Angebot mit drei Positionsgruppen:\
+_Facebook-Channel-Moderation 3.000,- EUR_\
+_Starter-Paket: Content-Erstellung 10 Artikel 6.000,- EUR_\
+_FullService-Paket: Content-Erstellung 20 Artikel 12.000,- EUR_\
+\
+Wir wollen dem Kunden hier die Wahl zwischen dem Starter und dem FullService-Paket lassen. \
+Das Angebot ist also eine Preisauskunft.\
+Der Kunde soll hier aber nicht die Summe aller Optionen (21.000 EUR) angezeigt bekommen, weil die angebotenen Positionen sich nicht eigenen zusammen bestellt zu werden.
 {% endhint %}
 
 ## Darstellungsmöglichkeiten von Provisionen
@@ -157,11 +159,11 @@ Wird dagegen nur an der Positionsgruppe eine Provision angezeigt, nicht an der P
 
 Im Summenblock können Provisionen auf verschiedene Arten erscheinen:
 
-a\) Wenn Provisionen in Positionen und/oder Gruppen angezeigt werden, so zeigt der Summenblock diese als _enthalten_ an:
+a) Wenn Provisionen in Positionen und/oder Gruppen angezeigt werden, so zeigt der Summenblock diese als _enthalten_ an:
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.50.16.png)
 
-b\) In diese Beispiel wurden Provisionen _nur_ im Summenblock angezeigt, daher verstehen sie sich hier zuzüglich der Agentur- und Fremdleistung.
+b) In diese Beispiel wurden Provisionen _nur_ im Summenblock angezeigt, daher verstehen sie sich hier zuzüglich der Agentur- und Fremdleistung.
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.52.41.png)
 
@@ -169,7 +171,7 @@ Hier die gleiche Darstellung wenn "Fremdleistungen nicht explizit ausweisen" akt
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.53.32.png)
 
-c\) Sind Provisionen in einem Dokument enthalten, sollen aber nicht im Summenblock angezeigt werden, so ergeben sie sich aus den Summen der Positionen oder Positionsgruppen:
+c) Sind Provisionen in einem Dokument enthalten, sollen aber nicht im Summenblock angezeigt werden, so ergeben sie sich aus den Summen der Positionen oder Positionsgruppen:
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.53.04.png)
 
@@ -177,11 +179,11 @@ c\) Sind Provisionen in einem Dokument enthalten, sollen aber nicht im Summenblo
 
 Hier werden Provisionen weder an der Position, noch an der Positionsgruppe noch im Summenblock unterhalb der Positionsliste ausgewiesen.
 
-Sie werden dann automatisch in die Einzelpreise eingerechnet. 
+Sie werden dann automatisch in die Einzelpreise eingerechnet.&#x20;
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-12-27-um-10.30.17.png)
 
-Da in diesem Beispiel Provisionen für sowohl Agentur- als auch Fremdleistungen verwendet wurden, lässt sich deren Anteil noch an der zweispaltigen Ausgabe von Agentur- und Fremldeistung erahnen. 
+Da in diesem Beispiel Provisionen für sowohl Agentur- als auch Fremdleistungen verwendet wurden, lässt sich deren Anteil noch an der zweispaltigen Ausgabe von Agentur- und Fremldeistung erahnen.&#x20;
 
 Dies lässt sich verhindern indem die Darstellungsoption "Fremdleistungen nicht explizit ausweisen" aktiviert wird:
 
@@ -189,7 +191,10 @@ Dies lässt sich verhindern indem die Darstellungsoption "Fremdleistungen nicht 
 
 #### Mehr zu Provisionen:
 
-{% page-ref page="../../einstellungen-1/finanzen/provisionen.md" %}
+{% content-ref url="../../einstellungen-1/finanzen/provisionen.md" %}
+[provisionen.md](../../einstellungen-1/finanzen/provisionen.md)
+{% endcontent-ref %}
 
-{% page-ref page="die-positionsliste-1/verwendung-von-provisionen.md" %}
-
+{% content-ref url="die-positionsliste-1/verwendung-von-provisionen.md" %}
+[verwendung-von-provisionen.md](die-positionsliste-1/verwendung-von-provisionen.md)
+{% endcontent-ref %}

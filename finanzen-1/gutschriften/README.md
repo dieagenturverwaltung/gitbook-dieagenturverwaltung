@@ -8,8 +8,8 @@ Die Liste der Gitschriften lässt sich über Filter oberhalb der Liste einschrä
 
 ### Suche mit Wildcards \*
 
-Die Suche erlaubt das Suchen nach Dokumentennummer, Projektnummer, Kunde/Lieferant oder Betreff des Dokuments.  
-Mit dem Asterisk \(\*\) können auch Wildcard-Suchen durchgeführt werden im abgebildeten Beispiel kann ich z.B. durch die Eingab des Suchbegriffs `AD*19`  Alle Dokumente finden in denen "AD" gefolgt von "19" vorkommt. Wir hätten hier z.B. einen Suchtreffer beim zweiten Dokument der Liste.
+Die Suche erlaubt das Suchen nach Dokumentennummer, Projektnummer, Kunde/Lieferant oder Betreff des Dokuments.\
+Mit dem Asterisk (\*) können auch Wildcard-Suchen durchgeführt werden im abgebildeten Beispiel kann ich z.B. durch die Eingab des Suchbegriffs `AD*19`  Alle Dokumente finden in denen "AD" gefolgt von "19" vorkommt. Wir hätten hier z.B. einen Suchtreffer beim zweiten Dokument der Liste.
 
 ### Suche nach Verantwortlichem
 
@@ -37,7 +37,7 @@ Dieses Dokument ist fertiggestellt, wartet jedoch noch auf Prüfung durch einen 
 
 #### versandt
 
-Dieses Dokument wurde bereits an den Kunden gsendet. In Statistiken wird der _negative_ Umsatz des Dokuments nun mitberücksichtigt.
+Dieses Dokument wurde bereits an den Kunden gsendet. In Statistiken wird der _negative _Umsatz des Dokuments nun mitberücksichtigt.
 
 #### reklamiert
 
@@ -55,9 +55,9 @@ Dieses Dokument wurde bereits in die Buchhaltung übergeben.
 
 #### Auszahlung freier Mitarbeiter
 
-Manche eurer freien Mitarbeiter oder Lieeranten tun sich evtl. schwer mit der Erstellung eines formal Korrekten Rechnungsdokuments. Ihr könnt diese Lieferanten auch per Gutschrift auszahlen.  
-Sprechte euch dazu mit dem MItarbeiter hinsichtlich der Mehrwertsteuerpflichtigkeit ab.  
-Im Zweifelsfall sollte die Gutschrift keine Mehrwertsteuer enthalten, wenn der Lieferant nach Paragraph 19 des Umsatzsteuergesetzes als [Kleinunternehmer](https://de.wikipedia.org/wiki/Kleinunternehmerregelung_%28Deutschland%29) gilt.
+Manche eurer freien Mitarbeiter oder Lieeranten tun sich evtl. schwer mit der Erstellung eines formal Korrekten Rechnungsdokuments. Ihr könnt diese Lieferanten auch per Gutschrift auszahlen.\
+Sprechte euch dazu mit dem MItarbeiter hinsichtlich der Mehrwertsteuerpflichtigkeit ab.\
+Im Zweifelsfall sollte die Gutschrift keine Mehrwertsteuer enthalten, wenn der Lieferant nach Paragraph 19 des Umsatzsteuergesetzes als [Kleinunternehmer](https://de.wikipedia.org/wiki/Kleinunternehmerregelung\_\(Deutschland\)) gilt.
 
 #### Erstattung von bereits berechneten Teilleistungen
 
@@ -71,9 +71,9 @@ Dabei wird eine Ausgangsrechnung in eine Gutschrift kopiert. Anschliessend werde
 
 Hier steht wie eine Ausgangsrechnung in eine Gutschrift kopiert werden kann:
 
-{% page-ref page="../allgemeines-zu-finanzdokumenten/ausgangsrechnung-in-ein-anderes-dokument-kopieren.md" %}
-
-
+{% content-ref url="../allgemeines-zu-finanzdokumenten/ausgangsrechnung-in-ein-anderes-dokument-kopieren.md" %}
+[ausgangsrechnung-in-ein-anderes-dokument-kopieren.md](../allgemeines-zu-finanzdokumenten/ausgangsrechnung-in-ein-anderes-dokument-kopieren.md)
+{% endcontent-ref %}
 
 
 
