@@ -1,6 +1,6 @@
 # Vorgänge
 
-Vorgänge sind Aufgaben, die mit Deadlines und Kommentaren versehen werden können. Sie können sowohl für die **Organisation des eigenen Arbeitstages** als auch in Projekten zur **Organisation eines Teams **verwendet werden.&#x20;
+Vorgänge sind Aufgaben, die mit Deadlines und Kommentaren versehen werden können. Sie können sowohl für die **Organisation des eigenen Arbeitstages** als auch in Projekten zur **Organisation eines Teams** verwendet werden.&#x20;
 
 Vorgänge dienen dabei auch der Gliederung eines Projekts in Teilschritte und können damit zur Planung von Projekten verwendet werden. Dazu bieten sie die Möglichkeit, Anfangszeiten, Fristen und eine geplante Dauer je Vorgang zu hinterlegen.&#x20;
 

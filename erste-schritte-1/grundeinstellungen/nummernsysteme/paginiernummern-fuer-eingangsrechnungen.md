@@ -1,6 +1,6 @@
 # Paginiernummern für Eingangsrechnungen
 
-### **Best Practice bei **Paginiernummern für Fremd- bzw. Eingangsrechnungen
+### **Best Practice bei** Paginiernummern für Fremd- bzw. Eingangsrechnungen
 
 Die Agenturverwaltung vergibt für jede erfasste Eingangsrechnung eine Paginiernummer. Viele Agenturen vermerken diese Nummer beim Rechnungseingang auch auf dem Papierbeleg (sofern es einen gibt).
 

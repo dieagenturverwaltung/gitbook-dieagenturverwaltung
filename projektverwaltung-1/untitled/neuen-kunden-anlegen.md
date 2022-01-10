@@ -2,7 +2,7 @@
 
 Wie in der Einführung beschrieben, ist der Kunde ist höchste Hierarchie-Ebene der Projektverwaltung. Einem Kunden werden Etats, und einem Etat werden Projekte zugeordnet.
 
-Spätestens bei Erstellung eines ersten Projekts für einen Neukunden müssen wir diesen Kunden im System anlegen  Alternativ kann ein Kunde auch unter_ Projektverwaltung > Kunden_ erstellt werden.
+Spätestens bei Erstellung eines ersten Projekts für einen Neukunden müssen wir diesen Kunden im System anlegen  Alternativ kann ein Kunde auch unter _Projektverwaltung > Kunden_ erstellt werden.
 
 ![Erstellung eines neuen Kunden im Projekt-Wizard](../../.gitbook/assets/ohne-titel.png)
 

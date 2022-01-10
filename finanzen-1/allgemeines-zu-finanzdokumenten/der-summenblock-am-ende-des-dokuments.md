@@ -14,15 +14,15 @@ Mit diesem Auswahlfeld und der dazugehörigen Beschreibung können Prozentuale A
 Ein Zuschlag kann z.B. für "Markup" oder "Bearbeitungsgebühr", ein Abzug für "Rabatt" verwendet werden.
 
 {% hint style="info" %}
-**Prozentuale Abzüge und Zuschläge** sowie **Netto-Abzüge** verhalten sich leistungsneutral, d.h. sie sind weder der Agentur- noch der Fremdleistung zugehörig. Dadurch kann sich also das Projektgesamtbudget ändern, das Budget für Agentur- oder Fremdleistung bleibt davon jedoch unberührt. Im Zweifelsfall macht es in so einem Fall Sinn, Agentur- und Fremdleistungsbudgets im Projekt als Geplante Budgets zu definieren und nur beim Gesamtbudget bezug auf den Kostenvoranschlag zu nehmen.
+**Prozentuale Abzüge und Zuschläge** sowie **Netto-Abzüge** verhalten sich leistungsneutral, d.h. sie sind weder der Agentur- noch der Fremdleistung zugehörig. Dadurch kann sich also das Gesamtbudget des Projekts ändern, das Budget für Agentur- oder Fremdleistung bleibt davon jedoch unberührt. Im Zweifelsfall macht es in so einem Fall Sinn, Agentur- und Fremdleistungsbudgets im Projekt als Geplante Budgets zu definieren und nur beim Gesamtbudget Bezug auf den Kostenvoranschlag zu nehmen.
 {% endhint %}
 
 #### Netto-Abzüge
 
-Ein Nettoabzug besteht aus einer Bezeichnung (z.B. "Preisminderung wegen verspäteter LIeferung") und einem Betrag. Der Betrag wird von der Netto-Summe abgezogen.\
+Ein Nettoabzug besteht aus einer Bezeichnung (z.B. "Preisminderung wegen verspäteter Lieferung") und einem Betrag. Der Betrag wird von der Netto-Summe abgezogen.\
 Es können mehrere Netto-Abzüge erstellt werden. Wird hier ein negativer Betrag angegeben kann ein Netto-Abzug sogar als Netto-Zuschlag verwendet werden.
 
-Bei der Schlussrechnung eines Kostenvoranschlags, aus dem zuvor bereits Akonto-Rechnungen abgerechnet wurden, werden auomatisch die Netto-Abzüge für jede Akonto-Rechnung erzeugt.
+Bei der Schlussrechnung eines Kostenvoranschlags, aus dem zuvor bereits Akonto-Rechnungen abgerechnet wurden, werden automatisch die Netto-Abzüge für jede Akonto-Rechnung erzeugt.
 
 In unserem Beispiel wurden in einer Akonto-Rechnung vom 06.06.2019 bereits 8000 EUR netto abgerechnet. Sie werden daher hier abgezogen. Dieser Eintrag wird bei der Schlussrechnung automatisch erzeugt, kann aber auch geändert werden.
 
@@ -30,23 +30,34 @@ In unserem Beispiel wurden in einer Akonto-Rechnung vom 06.06.2019 bereits 8000 
 
 Die Netto-Summe kumuliert noch einmal alle Beträge.
 
-#### Umsatzsteueranteil und -satz
+#### Umsatzsteuer-Anteil und -satz
 
-Handelt es sich beim Dokument um eine Ausgangsrechnung oder Gutschrift, so kann hier der Umsatzsteuersatz eingestellt werden, der Umsatzsteueranteil errechnet sich dann automatisch anhand Netto-Summe abzügl. Netto-Abzüge.\
+Handelt es sich beim Dokument um eine Ausgangsrechnung oder Gutschrift, so kann hier der Umsatzsteuersatz eingestellt werden, der Umsatzsteuer-Anteil errechnet sich dann automatisch anhand Netto-Summe abzügl. Netto-Abzüge.
+
+#### **Umsatzsteuer an Kostenvoranschlägen**
+
+Einige Kunden, z.B. im öffentlichen Dienst, erwarten die Ausweisung der Umsatzsteuer in Kostenvoranschlägen. Dies ist möglich indem das Häkchen "Mehrwertsteuer & Brutto-Betrag angeben (optional)" aktiviert wird.
+
+Es öffnet sich ein Umsatzsteuersatz-Auswahlfeld und in der Druckversion wird sowohl die Umsatzsteuer als auch der Brutto-Betrag angezeigt.
+
+![](../../.gitbook/assets/ust.png)
+
+#### **Welche Umsatzsteuer-Arten gibt es?**
+
 Die Voreinstellungen beziehen sich auf den deutschen Markt, sollte dein Unternehmen z.B. in Österreich sitzen, kannst Du im Haupt-Menü rechts oben auf Einstellungen klicken und dort in der Rubrik "Finanzen" auf die Kachel "Umsatzsteuersätze" klicken.  Hier kann das Land, in dem dein Unternehmen registriert ist eingestellt werden.
 
 ![](../../.gitbook/assets/bildschirmfoto-2020-06-05-um-14.47.59.png)
 
 {% hint style="info" %}
 **Wechselnde gesetzliche Umsatzsteuersätze**\
-In Deutschland kam es 2007, 2020 und 2021 aufgrund von Gesetzesänderungen zu wechselnden Mehrwersteuersätzen. Diese spiegeln sich auch in der Agenturverwaltung wieder.\
+In Deutschland kam es 2007, 2020 und 2021 aufgrund von Gesetzesänderungen zu wechselnden Mehrwertsteuersätzen. Diese spiegeln sich auch in der Agenturverwaltung wieder.\
 Wird eine Rechnung beispielsweise im Mai 2020 erstellt, wird automatisch der im Mai 2020 gültige Mehrwersteuersatz verwendet. \
 **Wichtig**: Wird das Datum eines bereits erstellten Dokuments so geändert, dass sich daraus eine Änderung der Umsatzsteuer ergibt, wird diese nicht autmatisch geändert. Statt dessen wird der Nutzer mit einem prominenten Hinweis konfrontiert den Umsatzsteuersatz zu ändern.
 {% endhint %}
 
 {% hint style="info" %}
 **Achtung bei Leistungszeiträumen, die über den Gültigkeitszeitraum eines Umsatzsteuersatzes hinweg ziehen!** \
-Die Umsatzsteuer bezieht sich auf den Leistungszeitraum der Rechnung, daher macht es keinen Sinn Rechnungen über einen Leistungszeitraum zu stellen, der einen Wechsel der Umsatzsteuersätze mit sich bringt - z.B. von 01.05.2020 bis 30.11.2020. Wir empfehlen in solchen Fälllen zwei Rechnungen zu erstellen. Also z.B. für den Zeitraum 01.05.2020 - 30.06.2020 und 01.07.2020 bis 30.11.2020.
+Die Umsatzsteuer bezieht sich auf den Leistungszeitraum der Rechnung, daher macht es keinen Sinn Rechnungen über einen Leistungszeitraum zu stellen, der einen Wechsel der Umsatzsteuersätze mit sich bringt - z.B. von 01.05.2020 bis 30.11.2020. Wir empfehlen in solchen Fällen zwei Rechnungen zu erstellen. Also z.B. für den Zeitraum 01.05.2020 - 30.06.2020 und 01.07.2020 bis 30.11.2020.
 {% endhint %}
 
 #### Brutto Abzüge

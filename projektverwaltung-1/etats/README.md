@@ -16,7 +16,7 @@ Etats benötigen wir, um Gruppen von Projekten auswerten zu können. Außerdem s
 >
 > Ein weiteres Beispiel wäre die Neuverhandlung von Preisen bei der Verlängerung der Zusammenarbeit mit dem Kunden. Hier macht es Sinn, einen neuen Etat anzulegen und den Alten Etat zu schliessen sobald alle Projekte darin zu Ende geführt wurden.
 
-### **In den meisten Fällen benötigen wir die Etat-Ebene nicht **
+### **In den meisten Fällen benötigen wir die Etat-Ebene nicht**&#x20;
 
 Das heißt, wenn wir ein Projekt zu einem Kunden anlegen, landet das einfach in einem Standard-Etat "Projekte". Hier gilt für jedes Projekt dieses Kunden dann die gleiche Preisliste.
 

@@ -6,7 +6,7 @@ In dem Reiter "Projekte" in einem Etat findet ihr eine Übersicht über alle Pro
 
 Auf dieser Übersicht könnt ihr der letzten Spalte "Status" entnehmen, ob ein Projekt nach aktuellem Stand unter- oder überliefert wurde.&#x20;
 
-Der **farbige Balken **gibt das Verhältnis von gebuchten zu budgetieren Aufwänden (alternativ: Umsatz) an. Die **beiden Kreise** zeigen den bereits gebuchten Anteil an Agenturleistungen (Kreis mit lila Füllung) und Fremdleistungen (Kreis mit rosa Füllung) an. Wenn ihr mit dem Mauszeiger auf einem Kreis bleibt, werden euch die verbleibenden Budgets in Prozent angezeigt.
+Der **farbige Balken** gibt das Verhältnis von gebuchten zu budgetieren Aufwänden (alternativ: Umsatz) an. Die **beiden Kreise** zeigen den bereits gebuchten Anteil an Agenturleistungen (Kreis mit lila Füllung) und Fremdleistungen (Kreis mit rosa Füllung) an. Wenn ihr mit dem Mauszeiger auf einem Kreis bleibt, werden euch die verbleibenden Budgets in Prozent angezeigt.
 
 Über die drei Toggle-Buttons links der Status-Anzeige könnt ihr die Berechnungsgrundlage der Status-Indikatoren verändern:
 
@@ -16,4 +16,4 @@ Der **farbige Balken **gibt das Verhältnis von gebuchten zu budgetieren Aufwän
 
 Eine Anpassung der Toggle-Buttons wirkt sich sofort auf Indikatoren in der Status-Spalte aus.
 
-Mit einem **Klick auf eine Zeile **gelangt ihr in den detaillierten Report eines Projekts mit **umfangreicheren Auswertungsmöglichkeiten**.&#x20;
+Mit einem **Klick auf eine Zeile** gelangt ihr in den detaillierten Report eines Projekts mit **umfangreicheren Auswertungsmöglichkeiten**.&#x20;

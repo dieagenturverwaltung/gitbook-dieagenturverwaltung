@@ -1,6 +1,6 @@
 # Das Preislisten-Konzept
 
-Wir haben ein kurzes Video erstellt, um euch das **Konzept der Preisliste **und die **Unterschiede zwischen Agentur- und Etatpreisliste **näherzubringen. Solltet ihr die Inhalte lieber lesen wollen, findet ihr alle Informationen weiter unten auf dieser Seite.
+Wir haben ein kurzes Video erstellt, um euch das **Konzept der Preisliste** und die **Unterschiede zwischen Agentur- und Etatpreisliste** näherzubringen. Solltet ihr die Inhalte lieber lesen wollen, findet ihr alle Informationen weiter unten auf dieser Seite.
 
 {% embed url="https://www.youtube.com/watch?v=4mQQ-w-H3No&t=1s" %}
 

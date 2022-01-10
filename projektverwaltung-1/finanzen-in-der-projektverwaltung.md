@@ -1,6 +1,6 @@
 # Finanzen in der Projektverwaltung
 
-Auf den drei Hierarchieebenen der Projektverwaltung (Kunde, Etat und Projekt) könnt ihr im Reiter "Finanzen" **alle relevanten Finanzdokumente **und die damit verbundenen **Zahlungen** einsehen.
+Auf den drei Hierarchieebenen der Projektverwaltung (Kunde, Etat und Projekt) könnt ihr im Reiter "Finanzen" **alle relevanten Finanzdokumente** und die damit verbundenen **Zahlungen** einsehen.
 
 Die Ansicht ist strukturiert in die drei Abschnitte Kostenvoranschläge, Ausgangsrechnungen und Gutschriften. In jedem Abschnitt werden die Finanzdokumente mit den relevanten Informationen zeilenweise angezeigt. \
 Mit einem Klick auf eine Zeile könnt ihr in das jeweilige Finanzdokumente springen.

@@ -15,7 +15,7 @@ In Ausgangsrechnungen lässt sich darüber hinaus unterhalb der Positionsliste d
 ## Welchen Umsatzsteuersatz nutzen?
 
 {% hint style="info" %}
-**Als Faustregel für Agenturen gilt: 19% **\
+**Als Faustregel für Agenturen gilt: 19%** \
 ****(bzw. 16% zwischen dem 01.07.2020 und dem 31.12.2020)
 
 Selbst wenn ihr Waren und Dienstleistungen von einem Lieferanten, z.B. einem Caterer oder Hotel für 7% einkauft, werden diese für 19% zusammen mit anderen Leistungen an euren Kunden verkauft.

@@ -2,7 +2,7 @@
 
 Wie in der Einführung beschrieben, befindet sich die Etat-Ebene logisch zwischen dem Kunden und den Projekten des Kunden und verwaltet die Preisliste.&#x20;
 
-Spätestens bei Erstellung eines Projekts für einen neuen Kunden erstellen wir einen Etat. Alternativ kann ein Etat auch in der Kunden-Detailansicht oder unter_ Projektverwaltung > Etats_ erstellt werden.
+Spätestens bei Erstellung eines Projekts für einen neuen Kunden erstellen wir einen Etat. Alternativ kann ein Etat auch in der Kunden-Detailansicht oder unter _Projektverwaltung > Etats_ erstellt werden.
 
 ![Erstellung eines Etats im Projekt-Wizard](../../.gitbook/assets/bildschirmfoto-2019-12-16-um-15.38.24.png)
 

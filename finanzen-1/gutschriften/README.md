@@ -37,7 +37,7 @@ Dieses Dokument ist fertiggestellt, wartet jedoch noch auf Prüfung durch einen 
 
 #### versandt
 
-Dieses Dokument wurde bereits an den Kunden gsendet. In Statistiken wird der _negative _Umsatz des Dokuments nun mitberücksichtigt.
+Dieses Dokument wurde bereits an den Kunden gsendet. In Statistiken wird der _negative_ Umsatz des Dokuments nun mitberücksichtigt.
 
 #### reklamiert
 

@@ -35,7 +35,7 @@ Im Reiter "Arbeitsverhältnis" unter "Urlaubskontingent" kann angegeben werden w
 **Zwei Beispiele**\
 Irene arbeitet Mo - Do und hat Freitags immer frei. Sie hat also eine 80%-Stelle.\
 Sie hat 30 Tage Urlaubsanspruch im Jahr, dieser bezieht sich aber auf 80% - das bedeutet\
-30 Tage \* 8 Stunden \* 80 % = 192 h **das entspricht 24 Tage zu 8 **\
+30 Tage \* 8 Stunden \* 80 % = 192 h **das entspricht 24 Tage zu 8** \
 ****\
 **Am Arbeitverhältnis werden jedoch 30 Tage hinterlegt**. Die Agenturverwaltung errechnet die Anzahl in Stunden automatisch.\
 \

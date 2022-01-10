@@ -33,7 +33,7 @@ Wir können den Timer auch direkt aus der Zeiterfassungsliste starten um eine Ak
 ![](../.gitbook/assets/zeit4.png)
 
 {% hint style="info" %}
-**Hinweis: **Nutzen wir die Schaltfäche "Start" an einem Eintrag, der nicht das heutige Datum hat (z.B. um eine Aktivität von gestern fortzusetzen), wird ein neuer Eintrag als Kopie davon zum heutigem Datum angelegt. Die Dauer dieses Eintrags startet dann bei Null.
+**Hinweis:** Nutzen wir die Schaltfäche "Start" an einem Eintrag, der nicht das heutige Datum hat (z.B. um eine Aktivität von gestern fortzusetzen), wird ein neuer Eintrag als Kopie davon zum heutigem Datum angelegt. Die Dauer dieses Eintrags startet dann bei Null.
 {% endhint %}
 
 Über die Schaltfläche "Stop" beenden wir den Timer und können ggf. weitere Details für die Zeiterfassung ergänzen. Abschliessend speichern wir den Eintrag.
@@ -52,6 +52,6 @@ Wir können den Timer auch direkt aus der Zeiterfassungsliste starten um eine Ak
 ![](../.gitbook/assets/bildschirmfoto-2019-05-13-um-11.19.00.png)
 
 {% hint style="info" %}
-**Hinweis: **Nutzen wir die Schaltfäche "Start" an einem Eintrag, der nicht das heutige Datum hat (z.B. um eine Aktivität von gestern fortzusetzen), wird ein neuer Eintrag als Kopie davon zum heutigem Datum angelegt. Die Dauer dieses Eintrags startet dann bei Null. Auf diese Weisen können Projektmitarbeiter komfortabel an den Aufgaben des Vortags weiterarbeiten, ohne Informationen wie Projektname oder Funktion erneut eingeben zu müssen.
+**Hinweis:** Nutzen wir die Schaltfäche "Start" an einem Eintrag, der nicht das heutige Datum hat (z.B. um eine Aktivität von gestern fortzusetzen), wird ein neuer Eintrag als Kopie davon zum heutigem Datum angelegt. Die Dauer dieses Eintrags startet dann bei Null. Auf diese Weisen können Projektmitarbeiter komfortabel an den Aufgaben des Vortags weiterarbeiten, ohne Informationen wie Projektname oder Funktion erneut eingeben zu müssen.
 {% endhint %}
 

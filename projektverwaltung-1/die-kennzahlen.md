@@ -11,7 +11,7 @@ Beginnen wir mit der Klärung der wichtigsten Begriffe: **Budget, Agentur- und F
 
 ## Budget
 
-Ein **Budget **beschreibt eine Geldsumme, welcher mit einem Kunden für ein Projekt oder Etat vereinbart wurde. Häufig ergibt sich das Budget aus einem oder mehreren Kostenvorschlägen. In einigen Projekten ergibt sich das Projekt-Budget als Teil eines übergeordneten Etat-Budgets oder wird formlos per E-Mail oder am Telefon freigegeben.&#x20;
+Ein **Budget** beschreibt eine Geldsumme, welcher mit einem Kunden für ein Projekt oder Etat vereinbart wurde. Häufig ergibt sich das Budget aus einem oder mehreren Kostenvorschlägen. In einigen Projekten ergibt sich das Projekt-Budget als Teil eines übergeordneten Etat-Budgets oder wird formlos per E-Mail oder am Telefon freigegeben.&#x20;
 
 Ganz egal, wie ein Budget zustande kommt: Es beschreibt die Geldsumme, welche für die zu erbringenden Leistungen die im Projekt definiert wurden zur Verfügung steht.
 
@@ -71,7 +71,7 @@ Rohertrag minus Agenturleistung  = Ergebnis
 
 Die **Rohertrag** berechnet sich aus dem Budget abzüglich aller Fremdleistungen und beschreibt somit den Teil des Budgets, von dem die Agentur lebt.
 
-Zur Berechnung des** Ergebnisses **werden die Agenturleistungen vom Rohertrag abgezogen. Es verbleibt der Geldwert, welcher als Ergebnis, Gewinn oder Marge für das jeweilige Projekt verbleibt.
+Zur Berechnung des **Ergebnisses** werden die Agenturleistungen vom Rohertrag abgezogen. Es verbleibt der Geldwert, welcher als Ergebnis, Gewinn oder Marge für das jeweilige Projekt verbleibt.
 
 ## Exkurs
 

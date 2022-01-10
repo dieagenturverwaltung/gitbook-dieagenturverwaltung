@@ -7,6 +7,6 @@ Unter Berichte > Fremdleistungen findet sich eine Modul mit zahlreichen Filterm√
 Der Liste l√§sst sich mitsamt den Filtereinstellungen auch als **Excel-Datei** exportieren und mit anderen Programmen weiterverarbeiten.
 
 {% hint style="info" %}
-**Hinweis: **\
+**Hinweis:** \
 ****Der Filter "Zeitraum" bezieht sich auf das Abrechnungsdatum jeder einzelnen Fremdleistung.
 {% endhint %}

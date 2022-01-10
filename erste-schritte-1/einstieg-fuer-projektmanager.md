@@ -92,7 +92,7 @@ Eine Übersicht über beispielhafte Projektabläufe und deren Abbildung in der A
 Die Agenturverwaltung unterstützt drei Arten, Arbeitszeit zu erfassen:&#x20;
 
 * **Timer:** Für Mitarbeiter, die viel zwischen Aufgaben hin und her springen und über den Tag verteilt an verschiedenen Projekte arbeiten.&#x20;
-* **Wochenansicht **Für Mitarbeiter, die ihre Zeiten lieber am Ende einer Woche auf einmal erfassen möchten&#x20;
+* **Wochenansicht** Für Mitarbeiter, die ihre Zeiten lieber am Ende einer Woche auf einmal erfassen möchten&#x20;
 * **Klassische Liste:** Der Klassiker für alle, die ihre Arbeitszeitblöcke in einer Liste organisieren möchten
 
 Detaillierte Informationen zum Thema Zeiterfassung im Allgemeinen und zur Verwendung der Zeiterfassung in der Agenturverwaltung findest du hier:
@@ -103,7 +103,7 @@ Detaillierte Informationen zum Thema Zeiterfassung im Allgemeinen und zur Verwen
 
 ### Vorgänge // Aufgaben und Zusammenarbeit in Projekten
 
-Vorgänge sind Aufgaben, die mit Deadlines und Kommentaren versehen werden können. Sie können sowohl für die **Organisation des eigenen Arbeitstages** als auch in Projekten zur **Organisation eines Teams **verwendet werden.&#x20;
+Vorgänge sind Aufgaben, die mit Deadlines und Kommentaren versehen werden können. Sie können sowohl für die **Organisation des eigenen Arbeitstages** als auch in Projekten zur **Organisation eines Teams** verwendet werden.&#x20;
 
 Detaillierte Informationen zum Thema Vorgänge findest du hier:
 

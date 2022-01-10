@@ -35,7 +35,7 @@ Agentur- und Fremdleistungen repräsentieren im Projekt also die **Kosten**, der
 Das schauen wir uns jetzt noch einmal genauer an. Ein **Budget** kann entweder einem oder mehreren Kostenvoranschlägen des Projekts entstammen oder einem sogenannten "Geplanten Budget".
 
 {% hint style="info" %}
-Ein** Geplantes Budget** wird dann am Projekt vermerkt wenn es im Projekt **keinen Kostenvoranschlag** gibt, oder dieser nicht der tatsächlichen Planung entspricht. Das kann verschiedene Gründe haben:
+Ein **Geplantes Budget** wird dann am Projekt vermerkt wenn es im Projekt **keinen Kostenvoranschlag** gibt, oder dieser nicht der tatsächlichen Planung entspricht. Das kann verschiedene Gründe haben:
 
 1. Der Auftrag wurde formlos erteilt z.B. telefonisch&#x20;
 2. Der Kostenvoranschlag umreisst ein Budget welches wir nicht voll ausreizen möchten, z.B. weil wir mit den letzten drei Projekten dieses Kunden Geld verloren haben

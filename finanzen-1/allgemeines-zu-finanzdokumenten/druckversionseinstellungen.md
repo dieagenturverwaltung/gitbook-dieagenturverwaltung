@@ -20,7 +20,7 @@ Die Standardsprache für Finandokumente ist deutsch, sie kann jedoch am Etat unt
 Die Auswahl des Briefpapiers auf das die Druckversion zurück greift, kann am Finanzdokument eingestellt werden. Es ist möglich einen Standardwert im Etat eines Kunden unter "Einstellungen" zu definieren.
 
 {% hint style="info" %}
-**Anwendungsbeispiele **\
+**Anwendungsbeispiele** \
 ****Ihr nutzt für alle Kunden ein bestimmtes Girokonto, ein bestimmter Kunde soll jedoch seinen Zahlungen an ein extra für ihn eingerichtetes Bankkonto leisten. Damit die richtige Bankverbindung in Rechnungen an diesen Kunden im Briefpapier angezeigt wird, kann für diesen Kunden ein eigenes Briefapier angelegt und im Etat als Standard definiert werden.\
 \
 Ihr führt verschiedene Untermarken eures Unternehmens z.B. "Hase Kommunikation" und "Hase Media Production", je nach Auftrag könnt ihr hier das korrekte Briefpapier mit dem entsprechenden Unternehmenslogo nutzen.\

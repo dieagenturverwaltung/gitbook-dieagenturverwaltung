@@ -23,7 +23,7 @@ Die Abrechnung von wiederkehrenden Leistungen im Rahmen einer Retainer-Vereinbar
 
 Dabei gibt es **drei Möglichkeiten**:&#x20;
 
-Bei der **monatlichen Abrechnung nach Aufwand **stellen wir am ersten eines Monat jeweils die angefallenen Leistungen des Vormonats in Rechnung. Das beinhaltet alle Stunden, die angefallen sind und alle Fremdleistungen. Die Agenturverwaltung unterstützt uns dabei, indem sie automatisch anhand von Zeiterfassungsdaten und angefallenen Fremdleistungen eine Rechnung an Kunden erstellt.
+Bei der **monatlichen Abrechnung nach Aufwand** stellen wir am ersten eines Monat jeweils die angefallenen Leistungen des Vormonats in Rechnung. Das beinhaltet alle Stunden, die angefallen sind und alle Fremdleistungen. Die Agenturverwaltung unterstützt uns dabei, indem sie automatisch anhand von Zeiterfassungsdaten und angefallenen Fremdleistungen eine Rechnung an Kunden erstellt.
 
 Bei der **pauschalen monatlichen Abrechnung** wird jeden Monat der gleiche Betrag, also eine Pauschale, zum Beispiel ein Zwölftel des Jahresbudgets abgerechnet. In diesem Fall kann die Rechnung entweder aus einer Vorlage oder aus der Rechnung des Vormonats kopiert werden. Im Projekt wird mir gegenübergestellt, welche Leistungen bislang angefallen sind und wie sie sich zu den bereits abgerechneten Pauschalen verhalten.
 

@@ -66,7 +66,7 @@ Hat ein neu angelegter Nutzer bisher noch gar kein Passwort so kannst du ihm ein
 {% hint style="info" %}
 Passwörter werden  in unserer Datenbank destruktiv verschlüsselt gespeichert. Selbst unser Kundenservice kann diese Passwörter nicht mehr einsehen oder entschlüsseln.
 
-**Unser Kundenservice wird nie von dir verlangen dein Passwort zu nennen! **\
+**Unser Kundenservice wird nie von dir verlangen dein Passwort zu nennen!** \
 **Bitte sende keine Passwörter per E-Mail an uns.**
 {% endhint %}
 

@@ -64,7 +64,7 @@ Der Wahrscheinlichkeitsfilter bezieht sich auf die Wahrscheinlichkeit von geplan
 
 ![](../.gitbook/assets/bildschirmfoto-2020-01-10-um-14.18.50.png)
 
-In die monatlichen Werte fließen die Netto-Summen aller Eingangs-, Ausgangs-, Stornorechnungen sowie Gutschriften unabhängig vom Zahlungseingang ein. Hier werden explizit auch** nicht projektgebundene Rechnungen** z.B. Miete, Internet etc. berücksichtigt.
+In die monatlichen Werte fließen die Netto-Summen aller Eingangs-, Ausgangs-, Stornorechnungen sowie Gutschriften unabhängig vom Zahlungseingang ein. Hier werden explizit auch **nicht projektgebundene Rechnungen** z.B. Miete, Internet etc. berücksichtigt.
 
 Oberhalb der Grafik kann der Ausgangsmonat (normalerweise der aktuelle Monat) eingestellt werden. D.h. es ist möglich die Ansicht auch noch ein oder zwei Jahre in die Vergangenheit zu verlagern.
 

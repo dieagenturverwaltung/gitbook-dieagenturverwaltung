@@ -33,7 +33,7 @@ Wiedervorlage // Benachrichtigungen und Erinnerungen für dich und deine Kollege
 
 Um auf die Agenturverwaltung zugreifen zu können, benötigst du im ersten Schritt Zugangsdaten. Deinen Benutzername - er entspricht der E-Mail-Adresse die der Administrator der dich eingeladen hat in der Agenturverwaltung eingetragen hat - erhältst du in der Einladungs-Email, welche der Administrator deines Unternehmens an dich versendet. Solltest du noch keine Einladungs-Email erhalten haben, wende dich bitte zuerst an den Agenturverwaltungsadministrator deines Unternehmens. In der Einladungs-Email erhältst du einen Link, über den du dein persönliches Passwort festlegen kannst. Ist das getan, kannst du dich mit deinem Benutzernamen und Passwort an der Agenturverwaltung anmelden.
 
-_Übrigens: Wissenswertes zum Thema Passwort findest du hier: _[_Anmelden und Abmelden_](am-system-anmelden.md#wissenswertes-zu-passwoertern)__
+_Übrigens: Wissenswertes zum Thema Passwort findest du hier:_ [_Anmelden und Abmelden_](am-system-anmelden.md#wissenswertes-zu-passwoertern)__
 
 ### Anmeldung
 
@@ -63,7 +63,7 @@ _Übrigens: Nicht alle Benutzer der Agenturverwaltung sehen die gleichen Menu-Pu
 Die Agenturverwaltung unterstützt drei Arten, Arbeitszeit zu erfassen:&#x20;
 
 * **Timer:** Für Mitarbeiter, die viel zwischen Aufgaben hin und her springen und über den Tag verteilt an verschiedenen Projekte arbeiten.&#x20;
-* **Wochenansicht **Für Mitarbeiter, die ihre Zeiten lieber am Ende einer Woche auf einmal erfassen möchten&#x20;
+* **Wochenansicht** Für Mitarbeiter, die ihre Zeiten lieber am Ende einer Woche auf einmal erfassen möchten&#x20;
 * **Klassische Liste:** Der Klassiker für alle, die ihre Arbeitszeitblöcke in einer Liste organisieren möchten
 
 Detaillierte Informationen zum Thema Zeiterfassung im Allgemeinen und zur Verwendung der Werkzeuge in der Agenturverwaltung findest du hier:
@@ -74,7 +74,7 @@ Detaillierte Informationen zum Thema Zeiterfassung im Allgemeinen und zur Verwen
 
 ### Vorgängen im Rahmen von Projekten
 
-Vorgänge sind Aufgaben, die mit Deadlines und Kommentaren versehen werden. Sie können sowohl für die **Organisation des eigenen Arbeitstages** als auch in Projekten zur **Organisation eines Teams **verwendet werden.&#x20;
+Vorgänge sind Aufgaben, die mit Deadlines und Kommentaren versehen werden. Sie können sowohl für die **Organisation des eigenen Arbeitstages** als auch in Projekten zur **Organisation eines Teams** verwendet werden.&#x20;
 
 Detaillierte Informationen zum Thema Vorgänge findest du hier:
 

@@ -15,7 +15,7 @@ Sind diese Werte eingetragen kann anschliessend der Zahlungsstatus von "offen" a
 Ein Klick auf eine Schaltfläche der **Schnelleingabe** auf der rechten Seite füllt diese Felder alle auf einmal für dich aus, du kannst aber anschliessend auch noch Anpassungen vornehmen.
 
 {% hint style="info" %}
-**Hinweis: **Der Zahlungsstatus hat mit dem Dokumentenstatus nichts gemein.
+**Hinweis:** Der Zahlungsstatus hat mit dem Dokumentenstatus nichts gemein.
 {% endhint %}
 
 Eine Eingangsrechnung, die als "bezahlt" markiert wurde, taucht nicht mehr in der Liste der **Kreditoren** auf.
