@@ -42,7 +42,7 @@ Warum? Wir können die auf diese Projekte anfallenden Agentur- und Fremdleistung
 ## Kann es passieren dass Fremdleistungen doppelt abgerechnet werden?
 
 {% hint style="info" %}
-Beispiel 1:
+**Beispiel 1**
 
 Ich habe eine Fremdleistungsposition in einem KV …&#x20;
 
@@ -54,7 +54,7 @@ Ich habe eine Fremdleistungsposition in einem KV …&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-Beispiel 2:
+**Beispiel 2**
 
 Ich habe eine Fremdleistungsposition in einem KV …&#x20;
 
@@ -66,7 +66,7 @@ Ich habe eine Fremdleistungsposition in einem KV …&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-Beispiel 3:&#x20;
+**Beispiel 3**&#x20;
 
 Ich habe eine Fremdleistungsposition in einem KV …&#x20;
 
