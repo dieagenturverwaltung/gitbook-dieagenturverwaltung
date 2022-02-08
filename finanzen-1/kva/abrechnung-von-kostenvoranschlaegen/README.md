@@ -38,3 +38,43 @@ Die Turnschuhmarke "Rerun" beauftragt uns mit einer neuen Webseite für sein Unt
 Warum? Wir können die auf diese Projekte anfallenden Agentur- und Fremdleistungen separat voneinander überprüfen. Der Etat "Rerun Digital" gibt uns Auskunft darüber, ob die gesamte Kampagne profitabel abgewickelt wird, die einzelnen Projekte erlauben uns einen detaillierten Blick auf die einzelnen Kampagnenteile.
 
 **Soll der gesamte Etat am Ende abgerechnet werden**, öffnen wir das Projekt "Accounting" im Etat "Rerun Digital", das wir am Anfang angelegt haben. Wir rechnen den sich darin befindlichen Kostenvoranschlag ab. D.h. das Budget und der Umsatz entfallen auf das Accounting Projekt, alle Kosten, also Fremdleistungen und Agenturleistungen entfallen auf die einzelnen Kampagnenteile/Projekte.
+
+## Kann es passieren dass Fremdleistungen doppelt abgerechnet werden?
+
+{% hint style="info" %}
+Beispiel 1:
+
+Ich habe eine Fremdleistungsposition in einem KV …&#x20;
+
+… und habe diese bereits in einer Teilleistungsrechnung abgerechnet&#x20;
+
+… und erstelle nun die Schlussrechnung&#x20;
+
+… dann wird die Position zwar erneut wie in der Teilleistungsrechnung aufgeführt, die Gesamtsummen der einzelnen zuvor gestellten Teilleistungsrechnungen unten jedoch wieder abgezogen.
+{% endhint %}
+
+{% hint style="info" %}
+Beispiel 2:
+
+Ich habe eine Fremdleistungsposition in einem KV …&#x20;
+
+… und habe zuvor manuell eine Ausgangsrechnung ohne Bezug zum KV erstellt, in der ich diese Fremdleistungsposition über „Neue Fremdleistung“ reingeklickt habe&#x20;
+
+… und erstelle nun die Schlussrechnung zum KV&#x20;
+
+… dann wird die Position zwar erneut wie im KV nur mit dem Preis der Fremdleistung aufgeführt, unterhalb der Netto-Summe wird die in der manuell erstellten Rechnung abgerechnete Fremdleistung jedoch wieder abgezogen.
+{% endhint %}
+
+{% hint style="info" %}
+Beispiel 3:&#x20;
+
+Ich habe eine Fremdleistungsposition in einem KV …&#x20;
+
+… und erstelle eine Schlussrechnung aus dem KV&#x20;
+
+… und erstelle dann noch eine Schlussrechnung aus dem KV&#x20;
+
+… dann wird die Position zwar erneut wie im KV nur mit dem Preis der Fremdleistung aufgeführt, unterhalb der Netto-Summe wird die in der manuell erstellten Rechnung abgerechnete Fremdleistung jedoch wieder abgezogen.
+{% endhint %}
+
+Es erfolgt also in keinem der Fälle eine doppelte Abrechnung von Fremdleistungen.
