@@ -117,6 +117,7 @@
       * [Schlussrechnung erstellen](finanzen-1/kva/abrechnung-von-kostenvoranschlaegen/schlussrechnung-erstellen.md)
       * [Teilleistungsrechnung erstellen](finanzen-1/kva/abrechnung-von-kostenvoranschlaegen/teilleistungsrechnung-erstellen.md)
       * [Periodische Teilabrechnung (Retainer)](finanzen-1/kva/abrechnung-von-kostenvoranschlaegen/periodische-teilabrechnung-retainer.md)
+    * [Mehrere Kostenvoranschläge in einer Ausgangsrechnung abrechnen](finanzen-1/kva/mehrere-kostenvoranschlaege-in-einer-ausgangsrechnung-abrechnen.md)
     * [Wiedervorlagen](finanzen-1/kva/wiedervorlagen.md)
   * [Eingangsrechnungen](finanzen-1/eingangsrechnungen/README.md)
     * [Neue Eingangsrechnung erfassen](finanzen-1/eingangsrechnungen/neue-eingangsrechnung-erfassen.md)
