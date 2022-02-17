@@ -8,7 +8,7 @@ Unter Umständen kann der Einkauf eurer KundIn nur eine Bestellnummer für eine 
 
 In einem KV im Reiter „Abrechnung“ findet ihr nun die Möglichkeit (rechts unten) neben dem Kostenvoranschlag den ihr gerade offen habt auch noch weitere Kostenvoranschläge in die Schluss-Abrechnung einzubinden. Ihr klickt hier auf „Weiteren Kostenvoranschlag hinzufügen“ und wählt ein weiteres Dokument aus, der Vorgang kann beliebig oft wiederholt werden, bis alle KVs ausgewählt sind.
 
-![](<../../.gitbook/assets/Bildschirmfoto 2022-02-17 um 14.20.40.png>)
+![](<../../../.gitbook/assets/Bildschirmfoto 2022-02-17 um 14.20.40.png>)
 
 #### Was passiert beim Abrechnen?
 
