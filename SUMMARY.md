@@ -136,6 +136,8 @@
     * [Zahlungserinnerungen und Mahnungen](finanzen-1/ausgangsrechnungen/zahlungserinnerungen-und-mahnungen.md)
     * [Wiedervorlagen](finanzen-1/ausgangsrechnungen/wiedervorlagen.md)
     * [Rechnung stornieren oder gutschreiben](finanzen-1/ausgangsrechnungen/rechnung-stornieren-oder-gutschreiben.md)
+    * [X-Rechnung](finanzen-1/ausgangsrechnungen/x-rechnung.md)
+    * [ZUGFeRD](finanzen-1/ausgangsrechnungen/zugferd.md)
     * [Maschinenlesbarkeit](finanzen-1/ausgangsrechnungen/maschinenlesbare-ausgangsrechnungen.md)
   * [Gutschriften](finanzen-1/gutschriften/README.md)
     * [Neue Gutschrift anlegen](finanzen-1/gutschriften/neue-gutschrift-anlegen.md)
