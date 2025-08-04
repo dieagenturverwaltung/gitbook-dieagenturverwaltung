@@ -10,7 +10,7 @@ Diese Seite behandelt die unterste Ebene: **das Projekt**.
 
 Das Projekt ist die Ebene, auf welcher die operative Arbeit einer Agentur abgebildet wird. Hier werden unter anderem:
 
-* Vorgänge verwaltet
+* Aufgaben verwaltet
 * Projekt-Reportings bereitgestellt
 * Finanzdokumente mit Projektbezug gesammelt
 * Agentur- und Fremdleistungen sowie Projektbudgets überwacht
@@ -22,7 +22,7 @@ Ein Projekt ist darüber hinaus die Grundlage für viele operative Prozesse in d
 
 * Projektmitarbeiter buchen Zeit auf Projekte
 * Fremdleistungen werden Projekten zugeordnet&#x20;
-* Vorgänge, also Teilaufgaben, können in Projekten verwaltet werden
+* Aufgaben können in Projekten verwaltet werden
 * Kostenvoranschläge werden im Rahmen von Projekten erstellt
 * Aufwände aus Projekten werden in Rechnungen überführt
 * In manchen Fällen werden sogar Gutschriften in Projekten erstellt

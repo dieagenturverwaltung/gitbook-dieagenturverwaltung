@@ -8,9 +8,9 @@ In Arbeitsverhältnisse ist für jeden Mitarbeiter definiert, an welchen Wochent
 
 ### Was sind Arbeitsverhältnisse?
 
-Damit die Zeiterfassung, die Wochenansicht der Vorgänge und der Abwesenheitskalender auch anzeigen können, an welchen Tagen ein Mitarbeiter arbeitet, kann ein Mitarbeiter als "Festangestellt" geführt werden. Das geht im Reiter "Arbeitsverhältnis".
+Damit die Zeiterfassung, die Wochenansicht der Aufgaben und der Abwesenheitskalender auch anzeigen können, an welchen Tagen ein Mitarbeiter arbeitet, kann ein Mitarbeiter als "Festangestellt" geführt werden. Das geht im Reiter "Arbeitsverhältnis".
 
-> Ohne Arbeitsverhältnis taucht der Mitarbeiter im Abwesenheitskalender und in der Wochenansicht der Vorgänge als "abwesend" auf.
+> Ohne Arbeitsverhältnis taucht der Mitarbeiter im Abwesenheitskalender und in der Wochenansicht der Aufgaben als "abwesend" auf.
 
 ### Vertragsdauer und Vertragsänderungen
 

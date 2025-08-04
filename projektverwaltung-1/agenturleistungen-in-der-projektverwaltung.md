@@ -48,9 +48,9 @@ In dieser Tabelle werden erfasste Zeiten kumuliert nach Mitarbeiter aufgeführt.
 
 Wurden bestimmte KV-Positionen für die Zeiterfassung aktiviert,  kann an dieser Stelle ausgewertet werden wieviel Agenturleistungen an den jeweiligen Positionen erfasst wurde und wieviel Budget ihnen gegenübersteht.
 
-## Agenturleistung nach Vorgängen
+## Agenturleistung nach Aufgaben
 
-Wurden bestimmte Vorgänge innerhalb von Projekten für die Zeiterfassung aktiviert,  kann an dieser Stelle ausgewertet werden wieviel Agenturleistungen an den jeweiligen Vorgängen erfasst wurde.
+Wurden bestimmte Aufgaben innerhalb von Projekten für die Zeiterfassung aktiviert, kann an dieser Stelle ausgewertet werden, wieviel Agenturleistungen an den jeweiligen Aufgaben erfasst wurde.
 
 ## Zeitstrahl
 
