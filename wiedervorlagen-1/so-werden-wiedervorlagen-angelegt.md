@@ -22,7 +22,7 @@ Nun könnt ihr über den Button "Neue Gesprächsnotiz oder Wiedervorlage anlegen
 
 In dem sich öffnenden Dialog habt ihr folgende Möglichkeiten:
 
-* **Notiztext eingeben:** Ein beschreibender Text zur Wiedervorlage, es ist auch möglich lediglich eine Notiz zur Dokumentation eines Vorgangs zu hinterlassen ohne diese dann an einen Nutzer wiedervorzulegen.
+* **Notiztext eingeben:** Ein beschreibender Text zur Wiedervorlage, es ist auch möglich lediglich eine Notiz zur Dokumentation einer Aufgabe zu hinterlassen, ohne diese dann an einen Nutzer wiedervorzulegen.
 * **Sichtbar für:** Auf Wunsch könnt ihr die Sichtbarkeit einer Wiedervorlage auf eine oder mehrere Personen einschränken. Dies kann sinnvoll sein, wenn ihr eine private Wiedervorlage für euch anlegen möchtet oder sensible Projektinformationen nur mit einem kleine Kollegenkreis teilen möchtet.
 * **Erinnerung am:** Auswahl der Datumsfrist. Dieses Datum ist relevant für die konfigurierten Benachrichtigungen und die Anzeige der Wiedervorlage in der Agenturverwaltung. Nach diesem Datum wird die Wiedervorlage als überfällig markiert.
 * **Erinnerung an:** Eine Erinnerung könnt ihr euch selbst oder einem anderen Benutzer zuweisen, sodass dieser erinnert wird. 

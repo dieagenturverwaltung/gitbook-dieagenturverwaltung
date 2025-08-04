@@ -6,7 +6,7 @@ Herzlich Willkommen in unserem kurzen Einführungskurs zur Nutzung der Agenturve
 * Erstellung von Kostenvoranschlägen
 * Projektverwaltung
 * Zeiterfassung
-* Vorgänge im Rahmen von Projekten
+* Aufgaben im Rahmen von Projekten
 * Wiedervorlagen
 * Reporting
 * ...
@@ -29,7 +29,7 @@ Operative Arbeit organisieren // Die Projektverwaltung
 
 Zeiterfassung // 3 Wege, um deine Arbeitszeit zu erfassen
 
-Vorgänge // Aufgaben und Zusammenarbeit in Projekten
+Aufgaben und Zusammenarbeit in Projekten
 
 Wiedervorlage // Benachrichtigungen und Erinnerungen für dich und deine Kollegen
 
@@ -42,11 +42,11 @@ Deine Startseite ist üblicherweise das Dashboard, in welchem dir für dich rele
 
 ![](../.gitbook/assets/bildschirmfoto-2019-12-02-um-13.32.46.png)
 
-Als Projektmanager kannst du dir hier einen schnellen Überblick über deine relevanten Vorgänge, KVAs und Budgets verschaffen. \
+Als Projektmanager kannst du dir hier einen schnellen Überblick über deine relevanten Aufgaben, KVAs und Budgets verschaffen. \
 Es gibt bspw. Dashboard-Boxen zu den folgenden Themen:
 
-* Fällige Vorgänge (die du beobachtest oder die dir zugewiesen sind)
-* Meine Vorgänge
+* Fällige Aufgaben (die du beobachtest oder die dir zugewiesen sind)
+* Meine Aufgaben
 * Meine Projekte
 * Meine auf Freigabe wartenden Kostenvoranschläge&#x20;
 * Meine Projektbudgets&#x20;
@@ -101,14 +101,14 @@ Detaillierte Informationen zum Thema Zeiterfassung im Allgemeinen und zur Verwen
 [zeiterfassung-1](../zeiterfassung-1/)
 {% endcontent-ref %}
 
-### Vorgänge // Aufgaben und Zusammenarbeit in Projekten
+### Aufgaben und Zusammenarbeit in Projekten
 
-Vorgänge sind Aufgaben, die mit Deadlines und Kommentaren versehen werden können. Sie können sowohl für die **Organisation des eigenen Arbeitstages** als auch in Projekten zur **Organisation eines Teams** verwendet werden.&#x20;
+Aufgaben sind Arbeitspakete, die mit Deadlines und Kommentaren versehen werden können. Sie können sowohl für die **Organisation des eigenen Arbeitstages** als auch in Projekten zur **Organisation eines Teams** verwendet werden.&#x20;
 
-Detaillierte Informationen zum Thema Vorgänge findest du hier:
+Detaillierte Informationen zum Thema Aufgaben findest du hier:
 
-{% content-ref url="../vorgaenge-1/" %}
-[vorgaenge-1](../vorgaenge-1/)
+{% content-ref url="../aufgaben-1/" %}
+[aufgaben-1](../aufgaben-1/)
 {% endcontent-ref %}
 
 ### Wiedervorlage // Erinnerungen für dich und deine Kollegen

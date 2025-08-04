@@ -4,7 +4,7 @@ Herzlich Willkommen in unserem kurzen Einführungskurs zur Nutzung der Agenturve
 
 * Dashboard
 * Zeiterfassung
-* Vorgänge im Rahmen von Projekten
+* Aufgaben im Rahmen von Projekten
 * Wiedervorlagen
 
 Unsere digitalen Kurse sind kurz und knapp gehalten, um dich nicht unnötig zu langweilen. Sollten Fragen unbeantwortet bleiben, wende dich an den Agenturverwaltungs-Ansprechpartner in deinem Unternehmen oder an unseren Support, welchen du direkt aus der Agenturverwaltungssoftware erreichst.
@@ -23,7 +23,7 @@ Die Startseite // Dein Dashboard
 
 Zeiterfassung // 3 Wege, um deine Arbeitszeit zu erfassen
 
-Vorgänge // Aufgaben und Zusammenarbeit in Projekten
+Aufgaben und Zusammenarbeit in Projekten
 
 Wiedervorlage // Benachrichtigungen und Erinnerungen für dich und deine Kollegen
 
@@ -48,7 +48,7 @@ Auf der Anmelde-Seite kannst du dich dann mit deiner E-Mail-Adresse und deinem P
 Deine Startseite ist üblicherweise das Dashboard, in welchem dir für dich relevante Informationen dargestellt werden.\
 &#x20;![](../.gitbook/assets/bildschirmfoto-2019-12-02-um-13.32.46.png)&#x20;
 
-Als Projektmitarbeiter sind für dich wahrscheinlich vor allem die Box zur Zeiterfassung und die Box mit den fälligen, dir zugewiesenen Vorgängen nützlich. Mit einem Klick auf den Button oben rechts "Alle anzeigen" kannst du zu einer Detailseite navigieren.&#x20;
+Als Projektmitarbeiter sind für dich wahrscheinlich vor allem die Box zur Zeiterfassung und die Box mit den fälligen, dir zugewiesenen Aufgaben nützlich. Mit einem Klick auf den Button oben rechts "Alle anzeigen" kannst du zu einer Detailseite navigieren.&#x20;
 
 ![](../.gitbook/assets/vorga-nge.png)
 
@@ -72,14 +72,14 @@ Detaillierte Informationen zum Thema Zeiterfassung im Allgemeinen und zur Verwen
 [zeiterfassung-1](../zeiterfassung-1/)
 {% endcontent-ref %}
 
-### Vorgängen im Rahmen von Projekten
+### Aufgaben im Rahmen von Projekten
 
-Vorgänge sind Aufgaben, die mit Deadlines und Kommentaren versehen werden. Sie können sowohl für die **Organisation des eigenen Arbeitstages** als auch in Projekten zur **Organisation eines Teams** verwendet werden.&#x20;
+Aufgaben sind Arbeitspakete, die mit Deadlines und Kommentaren versehen werden. Sie können sowohl für die **Organisation des eigenen Arbeitstages** als auch in Projekten zur **Organisation eines Teams** verwendet werden.&#x20;
 
-Detaillierte Informationen zum Thema Vorgänge findest du hier:
+Detaillierte Informationen zum Thema Aufgaben findest du hier:
 
-{% content-ref url="../vorgaenge-1/" %}
-[vorgaenge-1](../vorgaenge-1/)
+{% content-ref url="../aufgaben-1/" %}
+[aufgaben-1](../aufgaben-1/)
 {% endcontent-ref %}
 
 ### Wiedervorlage // Erinnerungen für dich und deine Kollegen

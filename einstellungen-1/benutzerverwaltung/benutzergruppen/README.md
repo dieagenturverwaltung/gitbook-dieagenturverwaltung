@@ -22,7 +22,7 @@ Mögliche Anwendungsszenarien\
 
 ...
 
-#### Benutzergruppe "Vorgänge und Adressbuch"
+#### Benutzergruppe "Aufgaben und Adressbuch"
 
 ...
 

@@ -34,7 +34,7 @@ Mit den Klick auf „Projekt anlegen“ werden sowohl der neue Etat als auch das
 
 Wir gelangen zur Projekt-Detailseite und sehen hier, dass das Projekt im Etat „Weihnachten 2018“ angelegt wurde.
 
-Nun können wir in diesem Projekt beispielsweise erste Vorgänge anlegen oder einen Kostenvorschlag erstellen.
+Nun können wir in diesem Projekt beispielsweise erste Aufgaben anlegen oder einen Kostenvoranschlag erstellen.
 
 {% hint style="info" %}
 **Übrigens**: Es macht unter Umständen Sinn nicht für jeden Neugeschäftskostenvoranschlag ein Projekt anzulegen. Stellt eure Agentur sehr vielen Neukunden im Monat Angebote zu, ohne zu Wissen, ob sich daraus tatsächlich ein Auftrag ergibt, ist es einfacher, das Projekt erst nach Freigabe eines Kostenvoranschlags zu erstellen und den freigegebenen Kostenvoranschlag erst dann dem neuen Projekt zuzuordnen. Auf diese Weise wird vermieden, dass wir die Übersicht aufgrund sehr vieler nicht realisierte Projekte verlieren.
